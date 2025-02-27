@@ -21,6 +21,7 @@ services:
     tty: true
     container_name: tachi-dev
     build:
+      context: .
       dockerfile: Dockerfile.dev
     ports:
       - "8080:8080" # server
