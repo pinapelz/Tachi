@@ -890,7 +890,7 @@
 			"genre": "TECH-BREAKBEATS",
 			"subartist": "BGA:出前",
 			"subtitle": null,
-			"tableString": "fr6, SB6"
+			"tableString": "SB6, fr6"
 		},
 		"id": 77,
 		"searchTerms": [],
@@ -3347,7 +3347,7 @@
 			"genre": "Drumnbass",
 			"subartist": "obj:sak",
 			"subtitle": "[+700]",
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 320,
 		"searchTerms": [],
@@ -6220,7 +6220,7 @@
 			"genre": "ASSAULT CORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl12, dy7"
+			"tableString": "dy7, dl12"
 		},
 		"id": 584,
 		"searchTerms": [],
@@ -14410,7 +14410,7 @@
 			"genre": "Techno",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 1365,
 		"searchTerms": [],
@@ -17335,7 +17335,7 @@
 			"genre": "t r a n c e",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl12, dy7, st12"
+			"tableString": "dy7, dl12, st12"
 		},
 		"id": 1615,
 		"searchTerms": [],
@@ -30062,7 +30062,7 @@
 			"genre": "volatile",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 2793,
 		"searchTerms": [],
@@ -30803,7 +30803,7 @@
 			"genre": "TRANCE CORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl6, fr10, dy？"
+			"tableString": "dy？, dl6, fr10"
 		},
 		"id": 2860,
 		"searchTerms": [],
@@ -34092,7 +34092,7 @@
 			"genre": "MULTIVERSE",
 			"subartist": "deadblue238",
 			"subtitle": "[LN Nightmare]",
-			"tableString": "◆18, ◆◆6, ln18"
+			"tableString": "ln18, ◆18, ◆◆6"
 		},
 		"id": 3165,
 		"searchTerms": [],
@@ -38538,7 +38538,7 @@
 			"genre": "pure*hosue[過労死]",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双4, dy2, st7"
+			"tableString": "dy2, 双4, st7"
 		},
 		"id": 3574,
 		"searchTerms": [],
@@ -45259,7 +45259,7 @@
 			"genre": "TECHNO / DOPPLER EFFECT",
 			"subartist": "BGA:demae OBJ:amplifier",
 			"subtitle": "-SP INSANE-",
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 4184,
 		"searchTerms": [],
@@ -54268,7 +54268,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:ROKINA",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼16"
 		},
 		"id": 5072,
 		"searchTerms": [],
@@ -54281,7 +54281,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:ROKINA",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽6"
 		},
 		"id": 5073,
 		"searchTerms": [],
@@ -54294,7 +54294,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:ROKINA",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼4"
 		},
 		"id": 5074,
 		"searchTerms": [],
@@ -54320,7 +54320,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:ROKINA",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼24"
 		},
 		"id": 5076,
 		"searchTerms": [],
@@ -54346,7 +54346,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:ROKINA",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽10"
 		},
 		"id": 5078,
 		"searchTerms": [],
@@ -54359,7 +54359,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:qtp13",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼18"
 		},
 		"id": 5079,
 		"searchTerms": [],
@@ -54372,7 +54372,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:仙人掌の人",
 			"subtitle": null,
-			"tableString": "st2"
+			"tableString": "st2, ▼22"
 		},
 		"id": 5080,
 		"searchTerms": [],
@@ -54385,7 +54385,7 @@
 			"genre": "DEMENTIA PROVECTO",
 			"subartist": "BGA:アカツキユウ / obj:仙人掌の人",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼13"
 		},
 		"id": 5081,
 		"searchTerms": [],
@@ -63667,7 +63667,7 @@
 			"genre": "happy hardcore (Respect for USC LN)",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "fr11, ln23"
+			"tableString": "ln23, fr11"
 		},
 		"id": 5903,
 		"searchTerms": [],
@@ -69491,7 +69491,7 @@
 			"genre": "Crazy Arrabbiata",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆5, ln17"
+			"tableString": "ln17, ◆◆5"
 		},
 		"id": 6426,
 		"searchTerms": [],
@@ -100626,7 +100626,7 @@
 			"genre": "RENAISSANCE DANCE",
 			"subartist": "obj:Fender",
 			"subtitle": null,
-			"tableString": "sl4, ▼8"
+			"tableString": "sl4, ▼7"
 		},
 		"id": 10464,
 		"searchTerms": [],
@@ -101783,7 +101783,7 @@
 			"genre": "Energetic Trance",
 			"subartist": null,
 			"subtitle": "[FULL]",
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 10609,
 		"searchTerms": [],
@@ -109596,7 +109596,7 @@
 			"genre": "HighSpeed Chipture",
 			"subartist": null,
 			"subtitle": "[Null]",
-			"tableString": "dl11, dy6, st11"
+			"tableString": "dy6, dl11, st11"
 		},
 		"id": 11293,
 		"searchTerms": [],
@@ -109869,7 +109869,7 @@
 			"genre": "violence tech",
 			"subartist": "BGA:自動車 原付 illust:りゅうら obj:BAECON",
 			"subtitle": "[eXtreme Violence]",
-			"tableString": "双5, dy2"
+			"tableString": "dy2, 双5"
 		},
 		"id": 11314,
 		"searchTerms": [],
@@ -138482,7 +138482,7 @@
 			"genre": "Industrial",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双5, dy1"
+			"tableString": "dy1, 双5"
 		},
 		"id": 13907,
 		"searchTerms": [],
@@ -140549,7 +140549,7 @@
 			"genre": "GEAR BREAKS",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl6, dy2"
+			"tableString": "dy2, dl6"
 		},
 		"id": 14092,
 		"searchTerms": [],
@@ -159633,7 +159633,7 @@
 			"genre": "Theme",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆19, ◆◆8, ln19"
+			"tableString": "ln19, ◆19, ◆◆8"
 		},
 		"id": 15793,
 		"searchTerms": [],
@@ -170943,7 +170943,7 @@
 			"genre": "Jersey Club",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl7"
+			"tableString": "dl7, ★★6"
 		},
 		"id": 16824,
 		"searchTerms": [],
@@ -179601,7 +179601,7 @@
 			"genre": "Euro Fusion",
 			"subartist": "obj:VINYL",
 			"subtitle": null,
-			"tableString": "双5, dy4"
+			"tableString": "dy4, 双5"
 		},
 		"id": 17621,
 		"searchTerms": [],
@@ -186998,7 +186998,7 @@
 			"genre": "Eurobeat",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆17, ◆◆5, ln17"
+			"tableString": "ln17, ◆17, ◆◆5"
 		},
 		"id": 18300,
 		"searchTerms": [],
@@ -188116,7 +188116,7 @@
 			"genre": "SARATTERDAM TECHNO",
 			"subartist": null,
 			"subtitle": "[S_EASY]",
-			"tableString": "fr9, SB9, ★★3, h◎15"
+			"tableString": "SB9, fr9, ★★3, h◎15"
 		},
 		"id": 18393,
 		"searchTerms": [],
@@ -188129,7 +188129,7 @@
 			"genre": "SARATTERDAM TECHNO",
 			"subartist": null,
 			"subtitle": "[S_EX]",
-			"tableString": "fr11, SB11, ★★5"
+			"tableString": "SB11, fr11, ★★5"
 		},
 		"id": 18394,
 		"searchTerms": [],
@@ -205523,7 +205523,7 @@
 			"genre": "TECHNO",
 			"subartist": "BGA : S.P.S.B.",
 			"subtitle": null,
-			"tableString": "双5, dy1, ★★5"
+			"tableString": "dy1, 双5, ★★5"
 		},
 		"id": 19957,
 		"searchTerms": [],
@@ -215611,7 +215611,7 @@
 			"genre": "[LAST] BOSS BATTLE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 20885,
 		"searchTerms": [],
@@ -222566,7 +222566,7 @@
 			"genre": "ENERGETIC TRANCE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 21500,
 		"searchTerms": [],
@@ -223372,7 +223372,7 @@
 			"genre": "trixxx rush",
 			"subartist": "BGA:自動車 原付/illust:手鞠鈴 / obj : BAECON vs sak",
 			"subtitle": "[Sense 2018]",
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 21569,
 		"searchTerms": [],
@@ -228130,7 +228130,7 @@
 			"genre": "Sound Track",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 21990,
 		"searchTerms": [],
@@ -228741,7 +228741,7 @@
 			"genre": "HYPTALHOP",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 22042,
 		"searchTerms": [],
@@ -229196,7 +229196,7 @@
 			"genre": "big beat/intellectual",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 22097,
 		"searchTerms": [],
@@ -229443,7 +229443,7 @@
 			"genre": "TECH-BREAKBEATS",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "fr6, SB6, h◎8"
+			"tableString": "SB6, fr6, h◎8"
 		},
 		"id": 22118,
 		"searchTerms": [],
@@ -229521,7 +229521,7 @@
 			"genre": "TECH-BREAKBEATS",
 			"subartist": "obj.screw",
 			"subtitle": null,
-			"tableString": "fr1, SB1, ★1"
+			"tableString": "SB1, fr1, ★1"
 		},
 		"id": 22126,
 		"searchTerms": [],
@@ -243275,7 +243275,7 @@
 			"genre": "New Age",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "fr7, 双2"
+			"tableString": "双2, fr7"
 		},
 		"id": 23333,
 		"searchTerms": [],
@@ -255378,7 +255378,7 @@
 			"genre": "HARD WALTZ",
 			"subartist": "BGA:アカツキユウ / ImageIllust:あひゅりむ / obj.剣竜",
 			"subtitle": null,
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 24422,
 		"searchTerms": [],
@@ -270224,7 +270224,7 @@
 			"genre": "POST PROGRESSIVE",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 25763,
 		"searchTerms": [],
@@ -290634,7 +290634,7 @@
 			"genre": "Extratone",
 			"subartist": null,
 			"subtitle": "[Fatality]",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 27607,
 		"searchTerms": [],
@@ -304778,7 +304778,7 @@
 			"genre": "RAGGACORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 28843,
 		"searchTerms": [],
@@ -307157,7 +307157,7 @@
 			"genre": "Early Hardcore/Gabba",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼5"
 		},
 		"id": 29073,
 		"searchTerms": [],
@@ -307170,7 +307170,7 @@
 			"genre": "Early Hardcore/Gabba",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽9"
 		},
 		"id": 29074,
 		"searchTerms": [],
@@ -307183,7 +307183,7 @@
 			"genre": "Early Hardcore/Gabba",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽6"
 		},
 		"id": 29077,
 		"searchTerms": [],
@@ -309263,7 +309263,7 @@
 			"genre": "TECHNO",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "fr7, SB7"
+			"tableString": "SB7, fr7"
 		},
 		"id": 29268,
 		"searchTerms": [],
@@ -309718,7 +309718,7 @@
 			"genre": "Rotterdam Techno",
 			"subartist": "BGA:KinCraft bj : BAECON",
 			"subtitle": "[FANKY]",
-			"tableString": "fr12, SB12"
+			"tableString": "SB12, fr12"
 		},
 		"id": 29307,
 		"searchTerms": [],
@@ -316504,7 +316504,7 @@
 			"genre": "Incremental",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双5, dy0, st5"
+			"tableString": "dy0, 双5, st5"
 		},
 		"id": 29921,
 		"searchTerms": [],
@@ -320716,7 +320716,7 @@
 			"genre": "COALENSCENT BREAKCORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 30306,
 		"searchTerms": [],
@@ -328022,7 +328022,7 @@
 			"genre": "LASTSHOT",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "dl6, dy0, st5"
+			"tableString": "dy0, dl6, st5"
 		},
 		"id": 30989,
 		"searchTerms": [],
@@ -328113,7 +328113,7 @@
 			"genre": "LASTSHOT",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆6, ln18"
+			"tableString": "ln18, ◆◆6"
 		},
 		"id": 30996,
 		"searchTerms": [],
@@ -328490,7 +328490,7 @@
 			"genre": "Waterthrower",
 			"subartist": null,
 			"subtitle": "[Mercury Blizzard]",
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 31027,
 		"searchTerms": [],
@@ -347197,7 +347197,7 @@
 			"genre": "geographica",
 			"subartist": "obj:1008",
 			"subtitle": "[god]",
-			"tableString": "双5, dy4"
+			"tableString": "dy4, 双5"
 		},
 		"id": 32806,
 		"searchTerms": [],
@@ -384988,7 +384988,7 @@
 			"genre": "Hard Techno",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 36276,
 		"searchTerms": [],
@@ -385547,7 +385547,7 @@
 			"genre": "spiritual",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽8"
 		},
 		"id": 36345,
 		"searchTerms": [],
@@ -385638,7 +385638,7 @@
 			"genre": "CLASSIC GARAGE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽9"
 		},
 		"id": 36354,
 		"searchTerms": [],
@@ -388563,7 +388563,7 @@
 			"genre": "pathos nrg",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl11, dy6"
+			"tableString": "dy6, dl11"
 		},
 		"id": 36651,
 		"searchTerms": [],
@@ -393581,7 +393581,7 @@
 			"genre": "Maiden House",
 			"subartist": "obj:Omino",
 			"subtitle": "[Other]",
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 37111,
 		"searchTerms": [],
@@ -394998,7 +394998,7 @@
 			"genre": "Energetic Trance",
 			"subartist": "obj : Razryn vs И",
 			"subtitle": "[RooT]",
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 37241,
 		"searchTerms": [],
@@ -395999,7 +395999,7 @@
 			"genre": "house(another)",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽7"
 		},
 		"id": 37327,
 		"searchTerms": [],
@@ -396064,7 +396064,7 @@
 			"genre": "house(another)",
 			"subartist": "obj:京都306",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼0-"
 		},
 		"id": 37340,
 		"searchTerms": [],
@@ -401823,7 +401823,7 @@
 			"genre": "Lolicore / Drenchcore",
 			"subartist": "BGA / Seagle Asakura",
 			"subtitle": null,
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 37862,
 		"searchTerms": [],
@@ -405086,7 +405086,7 @@
 			"genre": "Grotesque Breaks",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 38129,
 		"searchTerms": [],
@@ -422571,7 +422571,7 @@
 			"genre": "bigbeat",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 39698,
 		"searchTerms": [],
@@ -427368,7 +427368,7 @@
 			"genre": "happy hardcore",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl6, dy1"
+			"tableString": "dy1, dl6"
 		},
 		"id": 40118,
 		"searchTerms": [],
@@ -431021,7 +431021,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[チュートリアル]",
-			"tableString": null
+			"tableString": "▽1"
 		},
 		"id": 40448,
 		"searchTerms": [],
@@ -431034,7 +431034,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[初級]",
-			"tableString": null
+			"tableString": "▽3"
 		},
 		"id": 40449,
 		"searchTerms": [],
@@ -431047,7 +431047,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[中級]",
-			"tableString": null
+			"tableString": "▽6"
 		},
 		"id": 40450,
 		"searchTerms": [],
@@ -431060,7 +431060,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[上級]",
-			"tableString": null
+			"tableString": "▽9"
 		},
 		"id": 40451,
 		"searchTerms": [],
@@ -431073,7 +431073,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[超級]",
-			"tableString": null
+			"tableString": "▽11"
 		},
 		"id": 40452,
 		"searchTerms": [],
@@ -431086,7 +431086,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[CoconutVega]",
-			"tableString": null
+			"tableString": "▽12"
 		},
 		"id": 40453,
 		"searchTerms": [],
@@ -431099,7 +431099,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[ProcyonPudding]",
-			"tableString": null
+			"tableString": "▼15"
 		},
 		"id": 40454,
 		"searchTerms": [],
@@ -431112,7 +431112,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[BiscuitSirius]",
-			"tableString": "ln11"
+			"tableString": "▼11, ln11"
 		},
 		"id": 40455,
 		"searchTerms": [],
@@ -431125,7 +431125,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[AltairTorte]",
-			"tableString": null
+			"tableString": "▼18"
 		},
 		"id": 40456,
 		"searchTerms": [],
@@ -431138,7 +431138,7 @@
 			"genre": "スクストランス",
 			"subartist": "img:しょーる:liberta",
 			"subtitle": "[ChocolateMira]",
-			"tableString": null
+			"tableString": "▼14"
 		},
 		"id": 40457,
 		"searchTerms": [],
@@ -436065,7 +436065,7 @@
 			"genre": "BOOT CAMP MUSIC",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "fr9"
+			"tableString": "fr9, ★★2"
 		},
 		"id": 40875,
 		"searchTerms": [],
@@ -452133,7 +452133,7 @@
 			"genre": "BUCHIAGE TRANCE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆4, ln17"
+			"tableString": "ln17, ◆◆4"
 		},
 		"id": 42289,
 		"searchTerms": [],
@@ -473024,7 +473024,7 @@
 			"genre": "Hybrid",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆6, ln19"
+			"tableString": "ln19, ◆◆6"
 		},
 		"id": 45271,
 		"searchTerms": [],
@@ -493239,7 +493239,7 @@
 			"genre": "pops",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 47073,
 		"searchTerms": [],
@@ -493928,7 +493928,7 @@
 			"genre": "TECH TRANCE",
 			"subartist": "obj:otoshi.b",
 			"subtitle": "[Milkyway]",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 47139,
 		"searchTerms": [],
@@ -499635,7 +499635,7 @@
 			"genre": "Aesthetic Trance",
 			"subartist": "Movie : Hauynite / obj : Omino",
 			"subtitle": "[Other]",
-			"tableString": "双5, dy1, st6"
+			"tableString": "dy1, 双5, st6"
 		},
 		"id": 47613,
 		"searchTerms": [],
@@ -501923,7 +501923,7 @@
 			"genre": "drum'n core",
 			"subartist": "obj: qtp13",
 			"subtitle": null,
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 47810,
 		"searchTerms": [],
@@ -511920,7 +511920,7 @@
 			"genre": "GOTHIC MIXTURE / FULL ON",
 			"subartist": "obj:Omino",
 			"subtitle": "[Other]",
-			"tableString": "双5, dy4, st9"
+			"tableString": "dy4, 双5, st9"
 		},
 		"id": 48759,
 		"searchTerms": [],
@@ -520682,7 +520682,7 @@
 			"genre": "ピポピポJAZZ",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆7, ln19"
+			"tableString": "ln19, ◆◆7"
 		},
 		"id": 49558,
 		"searchTerms": [],
@@ -521540,7 +521540,7 @@
 			"genre": "TIMEKEEPER [BLACKHOLE]",
 			"subartist": null,
 			"subtitle": "[delaylattice+]",
-			"tableString": "dl11, dy6"
+			"tableString": "dy6, dl11"
 		},
 		"id": 49642,
 		"searchTerms": [],
@@ -521553,7 +521553,7 @@
 			"genre": "TIMEKEEPER",
 			"subartist": null,
 			"subtitle": "[delaylattice]",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 49643,
 		"searchTerms": [],
@@ -524452,7 +524452,7 @@
 			"genre": "Progressive Chill",
 			"subartist": null,
 			"subtitle": "[Amour]",
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 49946,
 		"searchTerms": [],
@@ -530874,7 +530874,7 @@
 			"genre": "TRANCE CORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "★★6"
 		},
 		"id": 50515,
 		"searchTerms": [],
@@ -534670,7 +534670,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽6"
 		},
 		"id": 50862,
 		"searchTerms": [],
@@ -534696,7 +534696,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "☆10"
+			"tableString": "☆10, ▽10"
 		},
 		"id": 50864,
 		"searchTerms": [],
@@ -534722,7 +534722,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "★4"
+			"tableString": "★4, ▼4"
 		},
 		"id": 50866,
 		"searchTerms": [],
@@ -534774,7 +534774,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼9"
 		},
 		"id": 50870,
 		"searchTerms": [],
@@ -534787,7 +534787,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼19"
 		},
 		"id": 50871,
 		"searchTerms": [],
@@ -534969,7 +534969,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼23"
 		},
 		"id": 50885,
 		"searchTerms": [],
@@ -535034,7 +535034,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆4, ln17"
+			"tableString": "ln17, ◆◆4"
 		},
 		"id": 50890,
 		"searchTerms": [],
@@ -535099,7 +535099,7 @@
 			"genre": "FREEFORM",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼12"
 		},
 		"id": 50895,
 		"searchTerms": [],
@@ -556094,7 +556094,7 @@
 			"genre": "TECHNO",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl8, dy3, ★★5"
+			"tableString": "dy3, dl8, ★★5"
 		},
 		"id": 52842,
 		"searchTerms": [],
@@ -557121,7 +557121,7 @@
 			"genre": "2step",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双5, dy1, st6"
+			"tableString": "dy1, 双5, st6"
 		},
 		"id": 52932,
 		"searchTerms": [],
@@ -559578,7 +559578,7 @@
 			"genre": "Artcore",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼13"
 		},
 		"id": 53148,
 		"searchTerms": [],
@@ -559643,7 +559643,7 @@
 			"genre": "Artcore",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼21"
 		},
 		"id": 53153,
 		"searchTerms": [],
@@ -559721,7 +559721,7 @@
 			"genre": "Artcore",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼19"
 		},
 		"id": 53159,
 		"searchTerms": [],
@@ -566260,7 +566260,7 @@
 			"genre": "幺樂団の歴史2・東方怪綺談",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "fr10, ln22"
+			"tableString": "ln22, fr10"
 		},
 		"id": 53770,
 		"searchTerms": [],
@@ -566923,7 +566923,7 @@
 			"genre": "Dramatic Trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆4, ln17"
+			"tableString": "ln17, ◆◆4"
 		},
 		"id": 53826,
 		"searchTerms": [],
@@ -567209,7 +567209,7 @@
 			"genre": "Dramatic Trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆6, ln18"
+			"tableString": "ln18, ◆◆6"
 		},
 		"id": 53848,
 		"searchTerms": [],
@@ -572656,7 +572656,7 @@
 			"genre": "SYMPHONIC ROCK",
 			"subartist": null,
 			"subtitle": "[CRIMSON]",
-			"tableString": "dl6, dy1"
+			"tableString": "dy1, dl6"
 		},
 		"id": 54378,
 		"searchTerms": [],
@@ -574112,7 +574112,7 @@
 			"genre": "HAPPY HARDCORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl6, dy1, ★★4"
+			"tableString": "dy1, dl6, ★★4"
 		},
 		"id": 54543,
 		"searchTerms": [],
@@ -579299,7 +579299,7 @@
 			"genre": "DOUBLE ARRANGE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆19, ln19"
+			"tableString": "ln19, ◆19"
 		},
 		"id": 55036,
 		"searchTerms": [],
@@ -581340,7 +581340,7 @@
 			"genre": "ASTRALCORE",
 			"subartist": "obj:homare",
 			"subtitle": null,
-			"tableString": "dl11, dy6, st11"
+			"tableString": "dy6, dl11, st11"
 		},
 		"id": 55212,
 		"searchTerms": [],
@@ -588737,7 +588737,7 @@
 			"genre": "PROTEAN STEP",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼3"
 		},
 		"id": 55933,
 		"searchTerms": [],
@@ -588750,7 +588750,7 @@
 			"genre": "PROTEAN STEP",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽3"
 		},
 		"id": 55934,
 		"searchTerms": [],
@@ -588763,7 +588763,7 @@
 			"genre": "PROTEAN STEP",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽10"
 		},
 		"id": 55935,
 		"searchTerms": [],
@@ -588776,7 +588776,7 @@
 			"genre": "PROTEAN STEP",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽6"
 		},
 		"id": 55936,
 		"searchTerms": [],
@@ -589582,7 +589582,7 @@
 			"genre": "Progressive Chipbreak",
 			"subartist": "obj.akasaka",
 			"subtitle": "sabun",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 56004,
 		"searchTerms": [],
@@ -589816,7 +589816,7 @@
 			"genre": "instrumental",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "双3, dy1"
+			"tableString": "dy1, 双3"
 		},
 		"id": 56023,
 		"searchTerms": [],
@@ -591662,7 +591662,7 @@
 			"genre": "sequence of the seasons",
 			"subartist": "obj:Omino",
 			"subtitle": "[Other]",
-			"tableString": "双5, dy4, st9"
+			"tableString": "dy4, 双5, st9"
 		},
 		"id": 56177,
 		"searchTerms": [],
@@ -613346,7 +613346,7 @@
 			"genre": "HARD RENAISSAYAKA",
 			"subartist": "BGA ： 美樹さやか",
 			"subtitle": null,
-			"tableString": "◆◆5, ln18"
+			"tableString": "ln18, ◆◆5"
 		},
 		"id": 58159,
 		"searchTerms": [],
@@ -615426,7 +615426,7 @@
 			"genre": "synth beat",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 58336,
 		"searchTerms": [],
@@ -625384,7 +625384,7 @@
 			"genre": "Suffrutic Requiem",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 59270,
 		"searchTerms": [],
@@ -634913,7 +634913,7 @@
 			"genre": "CYBER ACID BREAKS",
 			"subartist": "obj.hex",
 			"subtitle": null,
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 60152,
 		"searchTerms": [],
@@ -635836,7 +635836,7 @@
 			"genre": "TECHNO",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "sl4, ▼5"
+			"tableString": "sl4, ▼6"
 		},
 		"id": 60249,
 		"searchTerms": [],
@@ -641244,7 +641244,7 @@
 			"genre": "Artcore",
 			"subartist": "obj:Omino",
 			"subtitle": "[Other]",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 60747,
 		"searchTerms": [],
@@ -648641,7 +648641,7 @@
 			"genre": "th trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双5, dy2"
+			"tableString": "dy2, 双5"
 		},
 		"id": 61432,
 		"searchTerms": [],
@@ -650825,7 +650825,7 @@
 			"genre": "hi-nrg / trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双5, dy3, st8, ★★5"
+			"tableString": "dy3, 双5, st8, ★★5"
 		},
 		"id": 61629,
 		"searchTerms": [],
@@ -656584,7 +656584,7 @@
 			"genre": "Trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽7"
 		},
 		"id": 62157,
 		"searchTerms": [],
@@ -656597,7 +656597,7 @@
 			"genre": "Trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽10"
 		},
 		"id": 62158,
 		"searchTerms": [],
@@ -656610,7 +656610,7 @@
 			"genre": "Trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽2"
 		},
 		"id": 62159,
 		"searchTerms": [],
@@ -656623,7 +656623,7 @@
 			"genre": "Trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼4"
 		},
 		"id": 62160,
 		"searchTerms": [],
@@ -662304,7 +662304,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん",
 			"subtitle": null,
-			"tableString": "ξ5"
+			"tableString": "▽3, ξ5"
 		},
 		"id": 62688,
 		"searchTerms": [],
@@ -662317,7 +662317,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽7"
 		},
 		"id": 62690,
 		"searchTerms": [],
@@ -662330,7 +662330,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽10"
 		},
 		"id": 62691,
 		"searchTerms": [],
@@ -662343,7 +662343,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼4"
 		},
 		"id": 62692,
 		"searchTerms": [],
@@ -662356,7 +662356,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん / obj:SIERRA",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼?"
 		},
 		"id": 62693,
 		"searchTerms": [],
@@ -662408,7 +662408,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん obj:dj hamu",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼10"
 		},
 		"id": 62697,
 		"searchTerms": [],
@@ -662421,7 +662421,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん obj:七海千秋",
 			"subtitle": "-Hope-",
-			"tableString": null
+			"tableString": "▼6"
 		},
 		"id": 62698,
 		"searchTerms": [],
@@ -662434,7 +662434,7 @@
 			"genre": "CREATOR DISTRESS",
 			"subartist": "Movie:むらしん obj:七海千秋",
 			"subtitle": "-Despair-",
-			"tableString": null
+			"tableString": "▼15"
 		},
 		"id": 62699,
 		"searchTerms": [],
@@ -663409,7 +663409,7 @@
 			"genre": "円環の理",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆17, ln18"
+			"tableString": "ln18, ◆17"
 		},
 		"id": 62784,
 		"searchTerms": [],
@@ -668557,7 +668557,7 @@
 			"genre": "ALCHEMIST -V-(Neo Pagan Folk)",
 			"subartist": "BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
 			"subtitle": "-Ragnarok-",
-			"tableString": "双5, dy2, st7"
+			"tableString": "dy2, 双5, st7"
 		},
 		"id": 63282,
 		"searchTerms": [],
@@ -668999,7 +668999,7 @@
 			"genre": "AQUATIC HOUSE",
 			"subartist": "obj : BAECON vs Lapis",
 			"subtitle": "[A Place Further than the Universe]",
-			"tableString": "双5, dy2"
+			"tableString": "dy2, 双5"
 		},
 		"id": 63316,
 		"searchTerms": [],
@@ -671703,7 +671703,7 @@
 			"genre": "Epilogue",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 63560,
 		"searchTerms": [],
@@ -684937,7 +684937,7 @@
 			"genre": "Breakcore/Cutbreak",
 			"subartist": "obj : Phosphorus",
 			"subtitle": null,
-			"tableString": "dl11, dy6, st11"
+			"tableString": "dy6, dl11, st11"
 		},
 		"id": 64703,
 		"searchTerms": [],
@@ -690618,7 +690618,7 @@
 			"genre": "METAL TRANCE",
 			"subartist": "Illustration by Neru / OBJ: qtp13",
 			"subtitle": null,
-			"tableString": "dl9, dy6"
+			"tableString": "dy6, dl9"
 		},
 		"id": 65213,
 		"searchTerms": [],
@@ -702136,7 +702136,7 @@
 			"genre": "Piano Trance",
 			"subartist": "Visualized by Keiyuu & RED-FOX",
 			"subtitle": null,
-			"tableString": "双5, dy4, st9"
+			"tableString": "dy4, 双5, st9"
 		},
 		"id": 66266,
 		"searchTerms": [],
@@ -708922,7 +708922,7 @@
 			"genre": "Melodic DnB",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽11+"
 		},
 		"id": 66936,
 		"searchTerms": [],
@@ -708935,7 +708935,7 @@
 			"genre": "Melodic DnB",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽？"
 		},
 		"id": 66937,
 		"searchTerms": [],
@@ -708948,7 +708948,7 @@
 			"genre": "Melodic DnB / Liquid",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽2"
 		},
 		"id": 66938,
 		"searchTerms": [],
@@ -708961,7 +708961,7 @@
 			"genre": "Melodic DnB",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽8"
 		},
 		"id": 66939,
 		"searchTerms": [],
@@ -708974,7 +708974,7 @@
 			"genre": "Melodic DnB / Liquid",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽4"
 		},
 		"id": 66940,
 		"searchTerms": [],
@@ -715071,7 +715071,7 @@
 			"genre": "GENESIC HARDCORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆6, ln18"
+			"tableString": "ln18, ◆◆6"
 		},
 		"id": 67462,
 		"searchTerms": [],
@@ -715877,7 +715877,7 @@
 			"genre": "Darkpsy",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼8"
 		},
 		"id": 67536,
 		"searchTerms": [],
@@ -715890,7 +715890,7 @@
 			"genre": "Darkpsy",
 			"subartist": "obj:B_K + Fender",
 			"subtitle": null,
-			"tableString": "★5"
+			"tableString": "★5, ▼5"
 		},
 		"id": 67537,
 		"searchTerms": [],
@@ -715968,7 +715968,7 @@
 			"genre": "Darkpsy",
 			"subartist": "obj:monaka",
 			"subtitle": "[EASY]",
-			"tableString": null
+			"tableString": "▽4"
 		},
 		"id": 67543,
 		"searchTerms": [],
@@ -715981,7 +715981,7 @@
 			"genre": "Darkpsy",
 			"subartist": "obj:Fender + B_K",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼11"
 		},
 		"id": 67544,
 		"searchTerms": [],
@@ -715994,7 +715994,7 @@
 			"genre": "Darkpsy",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "sr12"
+			"tableString": "▽10, sr12"
 		},
 		"id": 67545,
 		"searchTerms": [],
@@ -716020,7 +716020,7 @@
 			"genre": "Darkpsy",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼14"
 		},
 		"id": 67547,
 		"searchTerms": [],
@@ -716033,7 +716033,7 @@
 			"genre": "Darkpsy",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽7"
 		},
 		"id": 67548,
 		"searchTerms": [],
@@ -716072,7 +716072,7 @@
 			"genre": "Darkpsy",
 			"subartist": "obj.いい靴",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼19"
 		},
 		"id": 67551,
 		"searchTerms": [],
@@ -746661,7 +746661,7 @@
 			"genre": "Swing Pop",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽11"
 		},
 		"id": 70310,
 		"searchTerms": [],
@@ -746674,7 +746674,7 @@
 			"genre": "Swing Pop",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽7"
 		},
 		"id": 70311,
 		"searchTerms": [],
@@ -746726,7 +746726,7 @@
 			"genre": "Swing Pop",
 			"subartist": "Notes : いどり",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼8"
 		},
 		"id": 70317,
 		"searchTerms": [],
@@ -755683,7 +755683,7 @@
 			"genre": "ハッピーガバ",
 			"subartist": "img:おまる氏",
 			"subtitle": null,
-			"tableString": "fr8, SB8"
+			"tableString": "SB8, fr8"
 		},
 		"id": 71114,
 		"searchTerms": [],
@@ -760610,7 +760610,7 @@
 			"genre": "すこやか FUTURE POP",
 			"subartist": "obj.Guanacoite",
 			"subtitle": "[ハイレベルディレイ群星]",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 71593,
 		"searchTerms": [],
@@ -761078,7 +761078,7 @@
 			"genre": "Fantoccini",
 			"subartist": "obj.Mallow♪",
 			"subtitle": "[LN BOSS]",
-			"tableString": "fr9, ln20"
+			"tableString": "ln20, fr9"
 		},
 		"id": 71646,
 		"searchTerms": [],
@@ -762638,7 +762638,7 @@
 			"genre": "Kawaii Trap",
 			"subartist": null,
 			"subtitle": "199024club mix",
-			"tableString": "fr4, SB5"
+			"tableString": "SB5, fr4"
 		},
 		"id": 71789,
 		"searchTerms": [],
@@ -763080,7 +763080,7 @@
 			"genre": "J-DANCE POP",
 			"subartist": "Movie:Arishima_Caprico Illust:Morph",
 			"subtitle": "[ANOTHER]",
-			"tableString": "fr2, SB2"
+			"tableString": "SB2, fr2"
 		},
 		"id": 71823,
 		"searchTerms": [],
@@ -763158,7 +763158,7 @@
 			"genre": "J-DANCE POP",
 			"subartist": "Movie:Arishima_Caprico Illust:Morph",
 			"subtitle": null,
-			"tableString": "双4, SB10"
+			"tableString": "SB10, 双4"
 		},
 		"id": 71829,
 		"searchTerms": [],
@@ -780669,7 +780669,7 @@
 			"genre": "Energetic Dream Pop",
 			"subartist": "mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
 			"subtitle": "[STARDUST]",
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 73359,
 		"searchTerms": [],
@@ -800000,7 +800000,7 @@
 			"genre": "ART EMOTION",
 			"subartist": "obj:Omino",
 			"subtitle": "[Other]",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 75082,
 		"searchTerms": [],
@@ -820527,7 +820527,7 @@
 			"genre": "地獄愛弩瑠歌妖曲",
 			"subartist": "img:しぐれぷに子 / obj:スノート",
 			"subtitle": "[灼熱地獄]",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 76911,
 		"searchTerms": [],
@@ -820943,7 +820943,7 @@
 			"genre": "ENTROPY",
 			"subartist": "佐倉杏子",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽6"
 		},
 		"id": 76953,
 		"searchTerms": [],
@@ -820969,7 +820969,7 @@
 			"genre": "ENTROPY",
 			"subartist": "佐倉杏子",
 			"subtitle": null,
-			"tableString": "☆11, sr10"
+			"tableString": "☆11, ▽11, sr10"
 		},
 		"id": 76955,
 		"searchTerms": [],
@@ -820995,7 +820995,7 @@
 			"genre": "ENTROPY",
 			"subartist": "佐倉杏子",
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼5"
 		},
 		"id": 76957,
 		"searchTerms": [],
@@ -821255,7 +821255,7 @@
 			"genre": "ENTROPY",
 			"subartist": "佐倉杏子",
 			"subtitle": null,
-			"tableString": "◆18, ◆◆6, ln18"
+			"tableString": "ln18, ◆18, ◆◆6"
 		},
 		"id": 76977,
 		"searchTerms": [],
@@ -834645,7 +834645,7 @@
 			"genre": "Bitbreak Nokturne",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl11, dy6, st11"
+			"tableString": "dy6, dl11, st11"
 		},
 		"id": 78203,
 		"searchTerms": [],
@@ -843758,7 +843758,7 @@
 			"genre": "Spell Music",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆17, ◆◆5, ln17"
+			"tableString": "ln17, ◆17, ◆◆5"
 		},
 		"id": 79008,
 		"searchTerms": [],
@@ -846462,7 +846462,7 @@
 			"genre": "Mirage Story",
 			"subartist": null,
 			"subtitle": "[miracle]",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 79243,
 		"searchTerms": [],
@@ -851077,7 +851077,7 @@
 			"genre": "chiptune",
 			"subartist": "for 柴崎芦花",
 			"subtitle": null,
-			"tableString": "◆◆4, ln17"
+			"tableString": "ln17, ◆◆4"
 		},
 		"id": 79643,
 		"searchTerms": [],
@@ -860801,7 +860801,7 @@
 			"genre": "NU STYLE KASSA",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "双4, dy1, ★★4"
+			"tableString": "dy1, 双4, ★★4"
 		},
 		"id": 80578,
 		"searchTerms": [],
@@ -863232,7 +863232,7 @@
 			"genre": "Piano Rush",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl11, dy6, st11, ★★6"
+			"tableString": "dy6, dl11, st11, ★★6"
 		},
 		"id": 80812,
 		"searchTerms": [],
@@ -872189,7 +872189,7 @@
 			"genre": "Harajuku POP",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "Ude7, sl7"
+			"tableString": "Ude7, sl7, ▼14"
 		},
 		"id": 81623,
 		"searchTerms": [],
@@ -872202,7 +872202,7 @@
 			"genre": "Harajuku POP",
 			"subartist": "obj:LAPIS",
 			"subtitle": "[正]",
-			"tableString": "Ude2, sl2"
+			"tableString": "Ude2, sl2, ▼4"
 		},
 		"id": 81624,
 		"searchTerms": [],
@@ -872215,7 +872215,7 @@
 			"genre": "Harajuku POP",
 			"subartist": "Obj.Triforce",
 			"subtitle": null,
-			"tableString": "Ude0, sl0, sr11"
+			"tableString": "Ude0, sl0, ▼1, sr11"
 		},
 		"id": 81625,
 		"searchTerms": [],
@@ -874061,7 +874061,7 @@
 			"genre": "Oriental Euro",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽8"
 		},
 		"id": 81782,
 		"searchTerms": [],
@@ -880756,7 +880756,7 @@
 			"genre": "artcore",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆5, ln17"
+			"tableString": "ln17, ◆◆5"
 		},
 		"id": 82378,
 		"searchTerms": [],
@@ -888296,7 +888296,7 @@
 			"genre": "Crab Music",
 			"subartist": "BGA：Milk_tya Illust：神奈川わか奈",
 			"subtitle": null,
-			"tableString": "dl9, dy3"
+			"tableString": "dy3, dl9"
 		},
 		"id": 83048,
 		"searchTerms": [],
@@ -890480,7 +890480,7 @@
 			"genre": "INNOCENCE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆5, ln17"
+			"tableString": "ln17, ◆◆5"
 		},
 		"id": 83289,
 		"searchTerms": [],
@@ -892378,7 +892378,7 @@
 			"genre": "ハッピーエナジーガール",
 			"subartist": null,
 			"subtitle": "-ULTRA-",
-			"tableString": "fr11, dy？, ★★5"
+			"tableString": "dy？, fr11, ★★5"
 		},
 		"id": 83441,
 		"searchTerms": [],
@@ -892846,7 +892846,7 @@
 			"genre": "Artcore",
 			"subartist": "obj:京都306",
 			"subtitle": "[last word]",
-			"tableString": null
+			"tableString": "★★3"
 		},
 		"id": 83478,
 		"searchTerms": [],
@@ -904767,7 +904767,7 @@
 			"genre": "American folk song",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽10"
 		},
 		"id": 84569,
 		"searchTerms": [],
@@ -904780,7 +904780,7 @@
 			"genre": "American folk song",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽5"
 		},
 		"id": 84570,
 		"searchTerms": [],
@@ -904793,7 +904793,7 @@
 			"genre": "American folk song",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽8"
 		},
 		"id": 84571,
 		"searchTerms": [],
@@ -912190,7 +912190,7 @@
 			"genre": "Trance/7key",
 			"subartist": "obj: qtp13",
 			"subtitle": null,
-			"tableString": "dy？"
+			"tableString": "★★5"
 		},
 		"id": 85244,
 		"searchTerms": [],
@@ -914764,7 +914764,7 @@
 			"genre": "DTX STARTER PACK_Extra",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl11, dy6, st11"
+			"tableString": "dy6, dl11, st11"
 		},
 		"id": 85483,
 		"searchTerms": [],
@@ -915661,7 +915661,7 @@
 			"genre": "Country Art",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆19, ◆◆6, ln19"
+			"tableString": "ln19, ◆19, ◆◆6"
 		},
 		"id": 85558,
 		"searchTerms": [],
@@ -915674,7 +915674,7 @@
 			"genre": "Country Art",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "◆◆4, ln17"
+			"tableString": "ln17, ◆◆4"
 		},
 		"id": 85559,
 		"searchTerms": [],
@@ -916701,7 +916701,7 @@
 			"genre": "Etude",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": "dl8, dy？"
+			"tableString": "dy？, dl8"
 		},
 		"id": 85646,
 		"searchTerms": [],
@@ -917858,7 +917858,7 @@
 			"genre": "trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼3"
 		},
 		"id": 85748,
 		"searchTerms": [],
@@ -917871,7 +917871,7 @@
 			"genre": "trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼12"
 		},
 		"id": 85749,
 		"searchTerms": [],
@@ -917923,7 +917923,7 @@
 			"genre": "trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽5"
 		},
 		"id": 85755,
 		"searchTerms": [],
@@ -917936,7 +917936,7 @@
 			"genre": "trance",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▽3"
 		},
 		"id": 85756,
 		"searchTerms": [],
@@ -917975,7 +917975,7 @@
 			"genre": "trance(revenger)",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼19"
 		},
 		"id": 85759,
 		"searchTerms": [],
@@ -918001,7 +918001,7 @@
 			"genre": "trance(revenger)",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼23"
 		},
 		"id": 85762,
 		"searchTerms": [],
@@ -918287,7 +918287,7 @@
 			"genre": "REVENGE TRANCE CORE",
 			"subartist": null,
 			"subtitle": null,
-			"tableString": null
+			"tableString": "▼16"
 		},
 		"id": 85787,
 		"searchTerms": [],
@@ -941791,7 +941791,7 @@
 			"genre": "FUTURE CORE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 87904,
 		"searchTerms": [],
@@ -944729,7 +944729,7 @@
 			"genre": "Alcoholic J-Core",
 			"subartist": "obj. tyrcs",
 			"subtitle": "[dumpass]",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 88130,
 		"searchTerms": [],
@@ -944768,7 +944768,7 @@
 			"genre": "HOUSE",
 			"subartist": "",
 			"subtitle": "[You're special to me...]",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 88133,
 		"searchTerms": [],
@@ -944911,7 +944911,7 @@
 			"genre": "TECHNO COLONY",
 			"subartist": "movie : ルゼ(LuzeriA) / illust : Orphee / obj:七海+Mary_Sue",
 			"subtitle": "",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 88144,
 		"searchTerms": [],
@@ -944924,7 +944924,7 @@
 			"genre": "BLANK NOTE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 88145,
 		"searchTerms": [],
@@ -944937,7 +944937,7 @@
 			"genre": "Alternative Rock",
 			"subartist": "obj.nozomi",
 			"subtitle": "[I'm the crazy bitch around here]",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 88146,
 		"searchTerms": [],
@@ -945041,7 +945041,7 @@
 			"genre": "TECHNO FREAK",
 			"subartist": "movie : 自動車原付 / illust : Orphee / obj:tyrcs",
 			"subtitle": "[POOR]",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 88154,
 		"searchTerms": [],
@@ -945080,7 +945080,7 @@
 			"genre": "Instrumental",
 			"subartist": "",
 			"subtitle": "[Typhoon]",
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 88157,
 		"searchTerms": [],
@@ -945119,7 +945119,7 @@
 			"genre": "Snare Roll",
 			"subartist": "obj. tyrcs",
 			"subtitle": "",
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 88160,
 		"searchTerms": [],
@@ -945145,7 +945145,7 @@
 			"genre": "Alternative Rock",
 			"subartist": "obj.nozomi",
 			"subtitle": "[Alternative Break]",
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 88162,
 		"searchTerms": [],
@@ -945743,7 +945743,7 @@
 			"genre": "Sampling Hardcore",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "fr10, SB10, ▼24, ★★4"
+			"tableString": "SB10, fr10, ▼24, ★★4"
 		},
 		"id": 88208,
 		"searchTerms": [],
@@ -949955,7 +949955,7 @@
 			"genre": "FULL ON",
 			"subartist": "BGI:ぺよて OBJ:LuvTek",
 			"subtitle": "[OVERDOSE]",
-			"tableString": "双5, dy1"
+			"tableString": "dy1, 双5"
 		},
 		"id": 88532,
 		"searchTerms": [],
@@ -950202,7 +950202,7 @@
 			"genre": "BREAKCORE",
 			"subartist": "obj tyrcs",
 			"subtitle": "[delaylove]",
-			"tableString": "dl5, dy0"
+			"tableString": "dy0, dl5"
 		},
 		"id": 88551,
 		"searchTerms": [],
@@ -950215,7 +950215,7 @@
 			"genre": "Sickness",
 			"subartist": "obj. tyrcs",
 			"subtitle": "$%^@&*(#!!",
-			"tableString": "dl6, dy1"
+			"tableString": "dy1, dl6"
 		},
 		"id": 88552,
 		"searchTerms": [],
@@ -950228,7 +950228,7 @@
 			"genre": "HARDCORE",
 			"subartist": "obj. tyrcs",
 			"subtitle": "[Avoidance]",
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 88553,
 		"searchTerms": [],
@@ -950241,7 +950241,7 @@
 			"genre": "SYMPHONIC TRANCEPOP",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 88554,
 		"searchTerms": [],
@@ -950254,7 +950254,7 @@
 			"genre": "Game Music",
 			"subartist": "object: LuvTek movie: Kazari",
 			"subtitle": "[LT's INFINITY]",
-			"tableString": "dl7, dy3, st8"
+			"tableString": "dy3, dl7, st8"
 		},
 		"id": 88555,
 		"searchTerms": [],
@@ -950267,7 +950267,7 @@
 			"genre": "REQUIEM SPEED",
 			"subartist": "obj:1008",
 			"subtitle": "",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 88556,
 		"searchTerms": [],
@@ -950930,7 +950930,7 @@
 			"genre": "Прощайте",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl9, dy4"
+			"tableString": "dy4, dl9"
 		},
 		"id": 88607,
 		"searchTerms": [],
@@ -951190,7 +951190,7 @@
 			"genre": "Girls Pop",
 			"subartist": "Movie:自動車 原付 & うまるつふり / obj:西京極ラム子",
 			"subtitle": "[Apres la pluie]",
-			"tableString": "双3, dy0, st5"
+			"tableString": "dy0, 双3, st5"
 		},
 		"id": 88627,
 		"searchTerms": [],
@@ -952984,7 +952984,7 @@
 			"genre": "meme",
 			"subartist": "obj : ヨスミテ国立公園 (Yosk!)",
 			"subtitle": "",
-			"tableString": "fr1, SB2, sr?"
+			"tableString": "SB2, fr1, sr?"
 		},
 		"id": 88766,
 		"searchTerms": [],
@@ -953725,7 +953725,7 @@
 			"genre": "[ラーメンズPop]",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "fr2, SB2"
+			"tableString": "SB2, fr2"
 		},
 		"id": 88829,
 		"searchTerms": [],
@@ -954375,7 +954375,7 @@
 			"genre": "Confusing",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 88889,
 		"searchTerms": [],
@@ -954492,7 +954492,7 @@
 			"genre": "TRANCE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双5, dy2, st6"
+			"tableString": "dy2, 双5, st6"
 		},
 		"id": 88901,
 		"searchTerms": [],
@@ -955558,7 +955558,7 @@
 			"genre": "sick beats",
 			"subartist": "(bga. Harkiadel)",
 			"subtitle": "[SP Turntablism]",
-			"tableString": "fr6, SB6, ▼15"
+			"tableString": "SB6, fr6, ▼15"
 		},
 		"id": 89002,
 		"searchTerms": [],
@@ -956000,7 +956000,7 @@
 			"genre": "ピコピコサウンド",
 			"subartist": "obj:汗かきメスガキ",
 			"subtitle": "",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 89040,
 		"searchTerms": [],
@@ -956013,7 +956013,7 @@
 			"genre": "HOUSE",
 			"subartist": "obj.Mallow♪",
 			"subtitle": "[ガチオシ]",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 89041,
 		"searchTerms": [],
@@ -956169,7 +956169,7 @@
 			"genre": "Nostalgic J-POP",
 			"subartist": "BGI:りーふぱいザウルス / obj:BAECON",
 			"subtitle": "[triumph]",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 89053,
 		"searchTerms": [],
@@ -956182,7 +956182,7 @@
 			"genre": "Happy Hardcore",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 89054,
 		"searchTerms": [],
@@ -956429,7 +956429,7 @@
 			"genre": "Cyber art",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 89073,
 		"searchTerms": [],
@@ -960628,7 +960628,7 @@
 			"genre": "ONISAMA DELAY",
 			"subartist": "obj.nozomi",
 			"subtitle": "[お兄ちゃんどいて！そいつ殺せない！]",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 89396,
 		"searchTerms": [],
@@ -960680,7 +960680,7 @@
 			"genre": "HOUSE",
 			"subartist": "前川みく×多田李衣菜 / obj.furubokko",
 			"subtitle": "[too cold]",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 89400,
 		"searchTerms": [],
@@ -960706,7 +960706,7 @@
 			"genre": "地獄愛弩瑠歌妖曲",
 			"subartist": "img:しぐれぷに子    obj: Silver_Fish",
 			"subtitle": "[SFother]",
-			"tableString": "dl5, dy0"
+			"tableString": "dy0, dl5"
 		},
 		"id": 89402,
 		"searchTerms": [],
@@ -960797,7 +960797,7 @@
 			"genre": "hard nrg ~Unrecorded World~",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl6, dy1"
+			"tableString": "dy1, dl6"
 		},
 		"id": 89409,
 		"searchTerms": [],
@@ -960836,7 +960836,7 @@
 			"genre": "EMOTIONAL Hi-TECH",
 			"subartist": "mov:出前 / obj:Criyajuh",
 			"subtitle": "",
-			"tableString": "dl-sub 8, dy3, st8"
+			"tableString": "dy3, dl-sub 8, st8"
 		},
 		"id": 89412,
 		"searchTerms": [],
@@ -962058,7 +962058,7 @@
 			"genre": "EXPERIMENTAL",
 			"subartist": "",
 			"subtitle": "[yumether]",
-			"tableString": "dl6, dy1, st6"
+			"tableString": "dy1, dl6, st6"
 		},
 		"id": 89506,
 		"searchTerms": [],
@@ -962097,7 +962097,7 @@
 			"genre": "EURO-RAVE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 89509,
 		"searchTerms": [],
@@ -962266,7 +962266,7 @@
 			"genre": "Nostalgic Summer Trance",
 			"subartist": "",
 			"subtitle": "[大天空]",
-			"tableString": "双6, dy5"
+			"tableString": "dy5, 双6"
 		},
 		"id": 89522,
 		"searchTerms": [],
@@ -962396,7 +962396,7 @@
 			"genre": "Confusing",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 89532,
 		"searchTerms": [],
@@ -962409,7 +962409,7 @@
 			"genre": "irregular",
 			"subartist": "OBJ:O",
 			"subtitle": "+Noizy",
-			"tableString": "dl9, dy4, st9"
+			"tableString": "dy4, dl9, st9"
 		},
 		"id": 89533,
 		"searchTerms": [],
@@ -962942,7 +962942,7 @@
 			"genre": "ProjectG",
 			"subartist": "-----",
 			"subtitle": "REAL LIFE",
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 89574,
 		"searchTerms": [],
@@ -963761,7 +963761,7 @@
 			"genre": "Piano Trance",
 			"subartist": "obj:BAECON",
 			"subtitle": "[LAST BOSS]",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 89637,
 		"searchTerms": [],
@@ -964567,7 +964567,7 @@
 			"genre": "TRANCE CORE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl-sub 8, dy3"
+			"tableString": "dy3, dl-sub 8"
 		},
 		"id": 89699,
 		"searchTerms": [],
@@ -964658,7 +964658,7 @@
 			"genre": "Uplifting Trance",
 			"subartist": "",
 			"subtitle": "[PURIFY]",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 89706,
 		"searchTerms": [],
@@ -964840,7 +964840,7 @@
 			"genre": "TECHNO COLONY",
 			"subartist": "movie : ルゼ(LuzeriA) / illust : Orphee / obj:tyrcs",
 			"subtitle": "[Cube]",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 89720,
 		"searchTerms": [],
@@ -966439,7 +966439,7 @@
 			"genre": "Trance",
 			"subartist": "",
 			"subtitle": "[INSANE+]",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 89843,
 		"searchTerms": [],
@@ -967180,7 +967180,7 @@
 			"genre": "RAVERS PSYCORE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "fr11, SB11, ★★5"
+			"tableString": "SB11, fr11, ★★5"
 		},
 		"id": 89900,
 		"searchTerms": [],
@@ -967284,7 +967284,7 @@
 			"genre": "HAPPY HARDCORE",
 			"subartist": "obj.fuko",
 			"subtitle": "",
-			"tableString": "dl6, dy1"
+			"tableString": "dy1, dl6"
 		},
 		"id": 89908,
 		"searchTerms": [],
@@ -967557,7 +967557,7 @@
 			"genre": "Tiseの世界",
 			"subartist": "",
 			"subtitle": "[Armcrusher]",
-			"tableString": "双5, dy5"
+			"tableString": "dy5, 双5"
 		},
 		"id": 89929,
 		"searchTerms": [],
@@ -968064,7 +968064,7 @@
 			"genre": "HARD NRG",
 			"subartist": "obj tyrcs",
 			"subtitle": "",
-			"tableString": "dl8, dy5"
+			"tableString": "dy5, dl8"
 		},
 		"id": 89968,
 		"searchTerms": [],
@@ -968324,7 +968324,7 @@
 			"genre": "DIAGONAL MAGIC",
 			"subartist": "BGA:retu / OBJ:tyrcs",
 			"subtitle": "",
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 89988,
 		"searchTerms": [],
@@ -968415,7 +968415,7 @@
 			"genre": "PANICORE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双6, dy4"
+			"tableString": "dy4, 双6"
 		},
 		"id": 89995,
 		"searchTerms": [],
@@ -968688,7 +968688,7 @@
 			"genre": "Progressive Metalcore",
 			"subartist": "BGI : Sierra",
 			"subtitle": "",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 90016,
 		"searchTerms": [],
@@ -968896,7 +968896,7 @@
 			"genre": "Hi-Tech Rave",
 			"subartist": "",
 			"subtitle": "[Abusive]",
-			"tableString": "fr8, SB7"
+			"tableString": "SB7, fr8"
 		},
 		"id": 90032,
 		"searchTerms": [],
@@ -969403,7 +969403,7 @@
 			"genre": "BREAKCORE 卒業ソング",
 			"subartist": "Movie:Melunia / obj:fuko",
 			"subtitle": "[INSANE]",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 90071,
 		"searchTerms": [],
@@ -969988,7 +969988,7 @@
 			"genre": "EMOTIONAL HAPPYCORE",
 			"subartist": "Movie:Arishima_Caprico / obj morio / re:obj.shadow",
 			"subtitle": "",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 90116,
 		"searchTerms": [],
@@ -970573,7 +970573,7 @@
 			"genre": "synth beat",
 			"subartist": "obj. universe",
 			"subtitle": "[stairway]",
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 90161,
 		"searchTerms": [],
@@ -970703,7 +970703,7 @@
 			"genre": "Artcore",
 			"subartist": "",
 			"subtitle": "-Ragnarok-",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 90171,
 		"searchTerms": [],
@@ -970768,7 +970768,7 @@
 			"genre": "Dramatical",
 			"subartist": "obj : BAECON",
 			"subtitle": "[STELLA MASTER]",
-			"tableString": "dl12, dy8, st12"
+			"tableString": "dy8, dl12, st12"
 		},
 		"id": 90176,
 		"searchTerms": [],
@@ -971002,7 +971002,7 @@
 			"genre": "HI-SPEED HAPPYCORE",
 			"subartist": "obj:mute / A",
 			"subtitle": "[Another Coeli]",
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 90194,
 		"searchTerms": [],
@@ -971015,7 +971015,7 @@
 			"genre": "Dramatical / Reflective",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 90195,
 		"searchTerms": [],
@@ -971184,7 +971184,7 @@
 			"genre": "Ω",
 			"subartist": "obj:mh",
 			"subtitle": "[mhmhmh]",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 90208,
 		"searchTerms": [],
@@ -971314,7 +971314,7 @@
 			"genre": "LIVE A LIVE",
 			"subartist": "obj.hex",
 			"subtitle": "",
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 90218,
 		"searchTerms": [],
@@ -971639,7 +971639,7 @@
 			"genre": "Ω",
 			"subartist": "obj:mh",
 			"subtitle": "[mhmh]",
-			"tableString": "dl5, dy0"
+			"tableString": "dy0, dl5"
 		},
 		"id": 90243,
 		"searchTerms": [],
@@ -971795,7 +971795,7 @@
 			"genre": "BREAKCORE",
 			"subartist": "obj tyrcs / Clodsire",
 			"subtitle": "[delaylove∞]",
-			"tableString": "dl11, dy6"
+			"tableString": "dy6, dl11"
 		},
 		"id": 90255,
 		"searchTerms": [],
@@ -971912,7 +971912,7 @@
 			"genre": "kawaiicore",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl11, dy6"
+			"tableString": "dy6, dl11"
 		},
 		"id": 90264,
 		"searchTerms": [],
@@ -972172,7 +972172,7 @@
 			"genre": "Trance",
 			"subartist": "BGA:TRAF obj:BAECON",
 			"subtitle": "[fragments]",
-			"tableString": "双6, dy5"
+			"tableString": "dy5, 双6"
 		},
 		"id": 90284,
 		"searchTerms": [],
@@ -972653,7 +972653,7 @@
 			"genre": "TECHNO",
 			"subartist": "LuvTek + И",
 			"subtitle": "[breakthru]",
-			"tableString": "双5, dy1"
+			"tableString": "dy1, 双5"
 		},
 		"id": 90321,
 		"searchTerms": [],
@@ -973069,7 +973069,7 @@
 			"genre": "MAINSTREAM HARDCORE",
 			"subartist": "obj.hex / A",
 			"subtitle": "",
-			"tableString": "dl8, dy4, st9"
+			"tableString": "dy4, dl8, st9"
 		},
 		"id": 90353,
 		"searchTerms": [],
@@ -973134,7 +973134,7 @@
 			"genre": "Techno",
 			"subartist": "Movie:長沼浩太(ぜひ！！！！)",
 			"subtitle": "",
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 90358,
 		"searchTerms": [],
@@ -973810,7 +973810,7 @@
 			"genre": "INDUSTRIAL TECHNO",
 			"subartist": "BGA by R. A. L. / obj tyrcs",
 			"subtitle": "[\\]|[\\]||[/]|[/]",
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 90410,
 		"searchTerms": [],
@@ -973888,7 +973888,7 @@
 			"genre": "SACRED CORE",
 			"subartist": "BGA:アカツキユウ / obj : Milkous",
 			"subtitle": "-Divine Justice-",
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 90416,
 		"searchTerms": [],
@@ -975032,7 +975032,7 @@
 			"genre": "BRAZILIAN HOUSE",
 			"subartist": "obj:DJはむたん",
 			"subtitle": "[がちたん]",
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 90504,
 		"searchTerms": [],
@@ -976254,7 +976254,7 @@
 			"genre": "FUSION POP",
 			"subartist": "mov:Roaring Flame / obj:スノート",
 			"subtitle": "[Transcend]",
-			"tableString": "dl11, dy6, st11"
+			"tableString": "dy6, dl11, st11"
 		},
 		"id": 90598,
 		"searchTerms": [],
@@ -978152,7 +978152,7 @@
 			"genre": "FUSION POP",
 			"subartist": "mov:Roaring Flame/ obj:...",
 			"subtitle": "[Sprint]",
-			"tableString": "dl10, dy5, st10"
+			"tableString": "dy5, dl10, st10"
 		},
 		"id": 90744,
 		"searchTerms": [],
@@ -978230,7 +978230,7 @@
 			"genre": "DAYBREAK HARDCORE",
 			"subartist": "obj:Holy",
 			"subtitle": "[POLAR NIGHT]",
-			"tableString": "fr7, ln21"
+			"tableString": "ln21, fr7"
 		},
 		"id": 90750,
 		"searchTerms": [],
@@ -978672,7 +978672,7 @@
 			"genre": "FREEFORM",
 			"subartist": "obj.Tetra",
 			"subtitle": "-Baryon-",
-			"tableString": "st0"
+			"tableString": "st0, ▼18"
 		},
 		"id": 90784,
 		"searchTerms": [],
@@ -979634,7 +979634,7 @@
 			"genre": "Epilogue",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl11, dy6"
+			"tableString": "dy6, dl11"
 		},
 		"id": 90858,
 		"searchTerms": [],
@@ -980544,7 +980544,7 @@
 			"genre": "Trance",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双6, dy5"
+			"tableString": "dy5, 双6"
 		},
 		"id": 90928,
 		"searchTerms": [],
@@ -981285,7 +981285,7 @@
 			"genre": "Trance",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双5, dy3, st8"
+			"tableString": "dy3, 双5, st8"
 		},
 		"id": 90985,
 		"searchTerms": [],
@@ -983365,7 +983365,7 @@
 			"genre": "TECH-BREAKBEATS",
 			"subartist": "BGA:出前",
 			"subtitle": "$(\"#noScratch\")",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 91145,
 		"searchTerms": [],
@@ -983573,7 +983573,7 @@
 			"genre": "Jarring hard tekuno[T]",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl9, dy4"
+			"tableString": "dy4, dl9"
 		},
 		"id": 91161,
 		"searchTerms": [],
@@ -989761,7 +989761,7 @@
 			"genre": "BASS & SCRATC\"H\"",
 			"subartist": "Illust.LLRK",
 			"subtitle": "[ANOTHER]",
-			"tableString": "fr3, SB4, ▼9"
+			"tableString": "SB4, fr3, ▼9"
 		},
 		"id": 91637,
 		"searchTerms": [],
@@ -990931,7 +990931,7 @@
 			"genre": "click modern music",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "▽10"
+			"tableString": "▽11"
 		},
 		"id": 91727,
 		"searchTerms": [],
@@ -992829,7 +992829,7 @@
 			"genre": "Emotional Dubstep",
 			"subartist": "Movie:わっふゑ / obj:Holy",
 			"subtitle": "[Flash]",
-			"tableString": "fr9, ln22"
+			"tableString": "ln22, fr9"
 		},
 		"id": 91873,
 		"searchTerms": [],
@@ -993973,7 +993973,7 @@
 			"genre": "Lolicore / Drenchcore",
 			"subartist": "BGA / Seagle Asakura",
 			"subtitle": "",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 91961,
 		"searchTerms": [],
@@ -996365,7 +996365,7 @@
 			"genre": "三千月",
 			"subartist": "obj: tyrcs",
 			"subtitle": "",
-			"tableString": "dl7, dy2, st7"
+			"tableString": "dy2, dl7, st7"
 		},
 		"id": 92145,
 		"searchTerms": [],
@@ -996638,7 +996638,7 @@
 			"genre": "TRANCE CORE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl12, dy6"
+			"tableString": "dy6, dl12"
 		},
 		"id": 92166,
 		"searchTerms": [],
@@ -997600,7 +997600,7 @@
 			"genre": "Cooling Trance",
 			"subartist": "",
 			"subtitle": "[Scratch Square]",
-			"tableString": "fr2, SB2"
+			"tableString": "SB2, fr2"
 		},
 		"id": 92240,
 		"searchTerms": [],
@@ -997899,7 +997899,7 @@
 			"genre": "DIAGONAL UNLIMITED",
 			"subartist": "obj tyrcs",
 			"subtitle": "[Mr.DELAY]",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 92263,
 		"searchTerms": [],
@@ -997964,7 +997964,7 @@
 			"genre": "東方怪綺談",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 92268,
 		"searchTerms": [],
@@ -998068,7 +998068,7 @@
 			"genre": "PARANOIA CLIMAXIA",
 			"subartist": "mov knife & prodigal / obj tyrcs",
 			"subtitle": "[Napaoitiko]",
-			"tableString": "dl9, dy4"
+			"tableString": "dy4, dl9"
 		},
 		"id": 92276,
 		"searchTerms": [],
@@ -998432,7 +998432,7 @@
 			"genre": "Kawaii FUTURE POP",
 			"subartist": "Movie: げ～むばか / DE",
 			"subtitle": "",
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 92304,
 		"searchTerms": [],
@@ -998770,7 +998770,7 @@
 			"genre": "TRANCE",
 			"subartist": "BGI: VJ Giraffe",
 			"subtitle": "",
-			"tableString": "双5, dy4"
+			"tableString": "dy4, 双5"
 		},
 		"id": 92330,
 		"searchTerms": [],
@@ -998783,7 +998783,7 @@
 			"genre": "ENERGETIC TRANCE",
 			"subartist": "mov:deadblue238",
 			"subtitle": "",
-			"tableString": "dl8, dy3"
+			"tableString": "dy3, dl8"
 		},
 		"id": 92331,
 		"searchTerms": [],
@@ -998913,7 +998913,7 @@
 			"genre": "彼女たちの流儀",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双5, dy3"
+			"tableString": "dy3, 双5"
 		},
 		"id": 92341,
 		"searchTerms": [],
@@ -999121,7 +999121,7 @@
 			"genre": "Digital-J-Pop",
 			"subartist": "Lyrics:SHiKiHO / obj:Criyajuh",
 			"subtitle": "[hurts]",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 92357,
 		"searchTerms": [],
@@ -999953,7 +999953,7 @@
 			"genre": "Sparks 'n' Splash Trance",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy3, st8"
+			"tableString": "dy3, 双4, st8"
 		},
 		"id": 92421,
 		"searchTerms": [],
@@ -999966,7 +999966,7 @@
 			"genre": "piano climax",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy2"
+			"tableString": "dy2, 双4"
 		},
 		"id": 92422,
 		"searchTerms": [],
@@ -999979,7 +999979,7 @@
 			"genre": "pathos nrg",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 92423,
 		"searchTerms": [],
@@ -999992,7 +999992,7 @@
 			"genre": "IDOL SONG / FUTURE POP",
 			"subartist": "MV: うまるつふり ＆ 自動車 原付 obj.fuko",
 			"subtitle": "[バーチャルアイドルにディレイで癒やされる音声]",
-			"tableString": "dl8, dy3"
+			"tableString": "dy3, dl8"
 		},
 		"id": 92424,
 		"searchTerms": [],
@@ -1000005,7 +1000005,7 @@
 			"genre": "TECHNO",
 			"subartist": "obj:魔女",
 			"subtitle": "[HEARTLESS]",
-			"tableString": "dl8, dy3, st8"
+			"tableString": "dy3, dl8, st8"
 		},
 		"id": 92425,
 		"searchTerms": [],
@@ -1000525,7 +1000525,7 @@
 			"genre": "Sparks 'n' Splash Trance",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 92465,
 		"searchTerms": [],
@@ -1000538,7 +1000538,7 @@
 			"genre": "cut up",
 			"subartist": "obj:antimongen",
 			"subtitle": "[VR]",
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 92466,
 		"searchTerms": [],
@@ -1003814,7 +1003814,7 @@
 			"genre": "CRAZY BREAKCORE POLKA",
 			"subartist": "Movie:Micelle / obj:Omino",
 			"subtitle": "[Other]",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 92718,
 		"searchTerms": [],
@@ -1003866,7 +1003866,7 @@
 			"genre": "Drum'n'bass",
 			"subartist": "BMS Area vs nothing (that) created me",
 			"subtitle": "-Have you ever been mellow?-",
-			"tableString": "dl7, dy2"
+			"tableString": "dy2, dl7"
 		},
 		"id": 92722,
 		"searchTerms": [],
@@ -1004139,7 +1004139,7 @@
 			"genre": "Life Realize",
 			"subartist": "",
 			"subtitle": "[Indigo]",
-			"tableString": "dl9, dy4"
+			"tableString": "dy4, dl9"
 		},
 		"id": 92743,
 		"searchTerms": [],
@@ -1004529,7 +1004529,7 @@
 			"genre": "ELECTRANCE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl9, dy4"
+			"tableString": "dy4, dl9"
 		},
 		"id": 92773,
 		"searchTerms": [],
@@ -1004802,7 +1004802,7 @@
 			"genre": "trance",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双5, dy4"
+			"tableString": "dy4, 双5"
 		},
 		"id": 92794,
 		"searchTerms": [],
@@ -1004932,7 +1004932,7 @@
 			"genre": "Delayroom House",
 			"subartist": "obj tyrcs",
 			"subtitle": "",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 92804,
 		"searchTerms": [],
@@ -1004945,7 +1004945,7 @@
 			"genre": "PHANTASMA",
 			"subartist": "Movie:Optie&Fiz / obj tyrcs",
 			"subtitle": "-chrono revisior-",
-			"tableString": "dl10, dy6"
+			"tableString": "dy6, dl10"
 		},
 		"id": 92805,
 		"searchTerms": [],
@@ -1005608,7 +1005608,7 @@
 			"genre": "LIFE STREAM",
 			"subartist": "鑓田(alpha complex) / obj: qtp13",
 			"subtitle": "",
-			"tableString": "dl10, dy8, st12"
+			"tableString": "dy8, dl10, st12"
 		},
 		"id": 92856,
 		"searchTerms": [],
@@ -1007896,7 +1007896,7 @@
 			"genre": "_",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 93032,
 		"searchTerms": [],
@@ -1008338,7 +1008338,7 @@
 			"genre": "TRANCE",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 93066,
 		"searchTerms": [],
@@ -1008351,7 +1008351,7 @@
 			"genre": "ゆるふわTECHNO",
 			"subartist": "bga:misokabocha / obj:魔女",
 			"subtitle": "[HEARTFUL]",
-			"tableString": "双4, dy0"
+			"tableString": "dy0, 双4"
 		},
 		"id": 93067,
 		"searchTerms": [],
@@ -1009625,7 +1009625,7 @@
 			"genre": "Hysteria",
 			"subartist": "obj Azop",
 			"subtitle": "",
-			"tableString": null
+			"tableString": "dl6"
 		},
 		"id": 93165,
 		"searchTerms": [],
@@ -1010288,7 +1010288,7 @@
 			"genre": "彼女たちの流儀",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 93216,
 		"searchTerms": [],
@@ -1011172,7 +1011172,7 @@
 			"genre": "Let the Stage Commence",
 			"subartist": "Cover: sylfaean",
 			"subtitle": "",
-			"tableString": null
+			"tableString": "▽11+"
 		},
 		"id": 93284,
 		"searchTerms": [],
@@ -1011458,7 +1011458,7 @@
 			"genre": "Folktronika",
 			"subartist": "obj:S乱",
 			"subtitle": "[S乱のなり損ない]",
-			"tableString": "双5, dy2"
+			"tableString": "dy2, 双5"
 		},
 		"id": 93306,
 		"searchTerms": [],
@@ -1013408,7 +1013408,7 @@
 			"genre": "TECH-BREAKBEATS",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双5, dy2"
+			"tableString": "dy2, 双5"
 		},
 		"id": 93456,
 		"searchTerms": [],
@@ -1013902,7 +1013902,7 @@
 			"genre": "TECHNO",
 			"subartist": "obj:Guanacoite",
 			"subtitle": "",
-			"tableString": "双4, dy0, st5"
+			"tableString": "dy0, 双4, st5"
 		},
 		"id": 93494,
 		"searchTerms": [],
@@ -1014240,7 +1014240,7 @@
 			"genre": "HAPPY HARDCORE",
 			"subartist": "obj:dj hamu",
 			"subtitle": "[HAMUTHER↑]",
-			"tableString": "dl6, dy1"
+			"tableString": "dy1, dl6"
 		},
 		"id": 93520,
 		"searchTerms": [],
@@ -1015020,7 +1015020,7 @@
 			"genre": "Ani Pop",
 			"subartist": "Art:Doro-nyong Movie:Ratif Object:西京極ラム子",
 			"subtitle": "[Precious Life♪]",
-			"tableString": "双4, dy1"
+			"tableString": "dy1, 双4"
 		},
 		"id": 93580,
 		"searchTerms": [],
@@ -1015046,7 +1015046,7 @@
 			"genre": "Disco/House",
 			"subartist": "obj:西京極ラム子",
 			"subtitle": "[Brilliant]",
-			"tableString": "双5, dy1"
+			"tableString": "dy1, 双5"
 		},
 		"id": 93582,
 		"searchTerms": [],
@@ -1015683,7 +1015683,7 @@
 			"genre": "Electro Pop",
 			"subartist": "lyrics:洛春/mov:Bharal4D",
 			"subtitle": "",
-			"tableString": null
+			"tableString": "▽7"
 		},
 		"id": 93631,
 		"searchTerms": [],
@@ -1016047,7 +1016047,7 @@
 			"genre": "Let the Stage Commence",
 			"subartist": "Cover: sylfaean",
 			"subtitle": "",
-			"tableString": null
+			"tableString": "▽8"
 		},
 		"id": 93659,
 		"searchTerms": [],
@@ -1016164,7 +1016164,7 @@
 			"genre": "Uplifting Trance",
 			"subartist": "",
 			"subtitle": "[Stratosphere]",
-			"tableString": "双5, dy5"
+			"tableString": "dy5, 双5"
 		},
 		"id": 93668,
 		"searchTerms": [],
@@ -1017685,7 +1017685,7 @@
 			"genre": "ピコピコポップ",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl5, dy0, st5"
+			"tableString": "dy0, dl5, st5"
 		},
 		"id": 93785,
 		"searchTerms": [],
@@ -1019869,7 +1019869,7 @@
 			"genre": "trance",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "双4, dy2"
+			"tableString": "dy2, 双4"
 		},
 		"id": 93953,
 		"searchTerms": [],
@@ -1020220,7 +1020220,7 @@
 			"genre": "cause",
 			"subartist": "obj : LindBlum",
 			"subtitle": "-Philosophy-",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 93980,
 		"searchTerms": [],
@@ -1020376,7 +1020376,7 @@
 			"genre": "TECHNO",
 			"subartist": "obj:Guanacoite",
 			"subtitle": "",
-			"tableString": "双6, dy5"
+			"tableString": "dy5, 双6"
 		},
 		"id": 93992,
 		"searchTerms": [],
@@ -1020389,7 +1020389,7 @@
 			"genre": "ENERGETIC TRANCE",
 			"subartist": "mov:deadblue238",
 			"subtitle": "",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 93993,
 		"searchTerms": [],
@@ -1020714,7 +1020714,7 @@
 			"genre": "Trance",
 			"subartist": "obj: qtp13 / re:obj.shadow",
 			"subtitle": "",
-			"tableString": "dl10, dy5"
+			"tableString": "dy5, dl10"
 		},
 		"id": 94018,
 		"searchTerms": [],
@@ -1022820,7 +1022820,7 @@
 			"genre": "Soundtrack",
 			"subartist": "obj:NoName",
 			"subtitle": "(おに)",
-			"tableString": "dl8, dy3"
+			"tableString": "dy3, dl8"
 		},
 		"id": 94180,
 		"searchTerms": [],
@@ -1022976,7 +1022976,7 @@
 			"genre": "Piano Trance",
 			"subartist": "obj:Chloe",
 			"subtitle": "[Blessing]",
-			"tableString": "fr9, ln23"
+			"tableString": "ln23, fr9"
 		},
 		"id": 94192,
 		"searchTerms": [],
@@ -1022989,7 +1022989,7 @@
 			"genre": "地獄愛弩瑠歌妖曲",
 			"subartist": "img:しぐれぷに子 / obj:スノート",
 			"subtitle": "[焦熱地獄]",
-			"tableString": "dl11, dy6"
+			"tableString": "dy6, dl11"
 		},
 		"id": 94193,
 		"searchTerms": [],
@@ -1023002,7 +1023002,7 @@
 			"genre": "Spatial",
 			"subartist": "",
 			"subtitle": "",
-			"tableString": "dl12, dy7"
+			"tableString": "dy7, dl12"
 		},
 		"id": 94194,
 		"searchTerms": [],
@@ -1023015,7 +1023015,7 @@
 			"genre": "地獄愛弩瑠歌妖曲",
 			"subartist": "img:しぐれぷに子 / obj:スノート",
 			"subtitle": "[大焦熱地獄]",
-			"tableString": "dl12, dy7"
+			"tableString": "dy7, dl12"
 		},
 		"id": 94195,
 		"searchTerms": [],
@@ -1025269,5 +1025269,395 @@
 		"id": 94368,
 		"searchTerms": [],
 		"title": "God-free"
+	},
+	{
+		"altTitles": [],
+		"artist": "LisicA",
+		"data": {
+			"genre": "TECHNO THRILLER",
+			"subartist": "mov:出前 illust:Orphee obj:あねしょ",
+			"subtitle": "",
+			"tableString": null
+		},
+		"id": 94369,
+		"searchTerms": [],
+		"title": "シロハッコ"
+	},
+	{
+		"altTitles": [],
+		"artist": "Xeudo Code VS. LucaProject VS. Neptune XI",
+		"data": {
+			"genre": "Neuro Funk & Artcore",
+			"subartist": "Chart: bbangsami",
+			"subtitle": "[SP Another]",
+			"tableString": null
+		},
+		"id": 94370,
+		"searchTerms": [],
+		"title": "Revelation"
+	},
+	{
+		"altTitles": [],
+		"artist": "KA-KU feat.春歌ナナ",
+		"data": {
+			"genre": "MAGICAL TUNE",
+			"subartist": "obj.akasaka",
+			"subtitle": "[akather]",
+			"tableString": "st7"
+		},
+		"id": 94371,
+		"searchTerms": [],
+		"title": "ハートマークとエンドロール"
+	},
+	{
+		"altTitles": [],
+		"artist": "都来りねとKeisuke Hattoriと#ねここ14歳",
+		"data": {
+			"genre": "Swing Pop",
+			"subartist": "obj: Haze*",
+			"subtitle": "-dawn-",
+			"tableString": "▼6"
+		},
+		"id": 94372,
+		"searchTerms": [],
+		"title": "てんてん"
+	},
+	{
+		"altTitles": [],
+		"artist": "BilliumMoto",
+		"data": {
+			"genre": "Let the Stage Commence",
+			"subartist": "Cover: sylfaean",
+			"subtitle": "",
+			"tableString": "▽6"
+		},
+		"id": 94373,
+		"searchTerms": [],
+		"title": "Octans Cel Grift [SP NORMAL]"
+	},
+	{
+		"altTitles": [],
+		"artist": "4G",
+		"data": {
+			"genre": "JAMISEN BREAKBEATS",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "▽8"
+		},
+		"id": 94374,
+		"searchTerms": [],
+		"title": "of the worst kind [SP HYPER]"
+	},
+	{
+		"altTitles": [],
+		"artist": "生塩ノア",
+		"data": {
+			"genre": "Glitch Hop",
+			"subartist": "obj:はむすぎ",
+			"subtitle": "[86HYPER]",
+			"tableString": "▽8"
+		},
+		"id": 94375,
+		"searchTerms": [],
+		"title": "Pixel Time -TSC Remix"
+	},
+	{
+		"altTitles": [],
+		"artist": "けいずとふぁいん",
+		"data": {
+			"genre": "ジャパニーズラヴリーヒップホップポップ",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "▽8"
+		},
+		"id": 94376,
+		"searchTerms": [],
+		"title": "羅武浪漫好"
+	},
+	{
+		"altTitles": [],
+		"artist": "イベライ/Emelia",
+		"data": {
+			"genre": "R-GATA BROOKBLAZER VGM",
+			"subartist": "feat. 重音テト&闇音レンリ",
+			"subtitle": "A枠-07系",
+			"tableString": "▽10"
+		},
+		"id": 94377,
+		"searchTerms": [],
+		"title": "R型 (BMS式)"
+	},
+	{
+		"altTitles": [],
+		"artist": "けいずとふぁいん",
+		"data": {
+			"genre": "ジャパニーズラヴリーヒップホップポップ",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "▽10"
+		},
+		"id": 94378,
+		"searchTerms": [],
+		"title": "羅武浪漫好"
+	},
+	{
+		"altTitles": [],
+		"artist": "ROyama",
+		"data": {
+			"genre": "COLOUR CORE",
+			"subartist": "",
+			"subtitle": "[ANOTHER]",
+			"tableString": "▽11+"
+		},
+		"id": 94379,
+		"searchTerms": [],
+		"title": "Steel Seraph"
+	},
+	{
+		"altTitles": [],
+		"artist": "vervid!",
+		"data": {
+			"genre": "Glitchbreak/IDM",
+			"subartist": "obj: OfficialAz3",
+			"subtitle": "[//:difficulty=(another)]",
+			"tableString": "▽12"
+		},
+		"id": 94380,
+		"searchTerms": [],
+		"title": "//:reality=(false)"
+	},
+	{
+		"altTitles": [],
+		"artist": "EBIMAYO",
+		"data": {
+			"genre": "GOODMOOMBAH",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "SB7"
+		},
+		"id": 94381,
+		"searchTerms": [],
+		"title": "GOODRAGE [PATIENCE]"
+	},
+	{
+		"altTitles": [],
+		"artist": "Alicia* / obj.ぶんぺ～",
+		"data": {
+			"genre": "CUNi DRAMATIC TRANCE CORE",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": null
+		},
+		"id": 94382,
+		"searchTerms": [],
+		"title": "アイーシャの剣 -Forcing breakthrough- [終点]"
+	},
+	{
+		"altTitles": [],
+		"artist": "Kuwagata feat.つゆり花鈴 / obj:sagoo",
+		"data": {
+			"genre": "Anisong",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": null
+		},
+		"id": 94383,
+		"searchTerms": [],
+		"title": "夢の地図と僕らの旅 [DP-soijoy]"
+	},
+	{
+		"altTitles": [],
+		"artist": "Ice (revise by Eiki) / 妖夢",
+		"data": {
+			"genre": "RENAISSANCE PRAYER",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "st1"
+		},
+		"id": 94384,
+		"searchTerms": [],
+		"title": "L -FINAL BOSS-"
+	},
+	{
+		"altTitles": [],
+		"artist": "ohon obj:EGRET.",
+		"data": {
+			"genre": "Progressive House",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "st2"
+		},
+		"id": 94385,
+		"searchTerms": [],
+		"title": "Flowing [silence]"
+	},
+	{
+		"altTitles": [],
+		"artist": "lixound",
+		"data": {
+			"genre": "PUMPCORE",
+			"subartist": "obj:Leirion",
+			"subtitle": "[QUANTUM]",
+			"tableString": "st3"
+		},
+		"id": 94386,
+		"searchTerms": [],
+		"title": "heterogeneous complementarity"
+	},
+	{
+		"altTitles": [],
+		"artist": "あとぅす feat.橘花音",
+		"data": {
+			"genre": "VIVID EURO TRANCE",
+			"subartist": "BGI:もーどまん obj:meta",
+			"subtitle": "[Infinite Delays]",
+			"tableString": "dl3, st3"
+		},
+		"id": 94387,
+		"searchTerms": [],
+		"title": "Infinite Dreams"
+	},
+	{
+		"altTitles": [],
+		"artist": "Wiz / obj:Criyajuh",
+		"data": {
+			"genre": "Japanese style",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "st3"
+		},
+		"id": 94388,
+		"searchTerms": [],
+		"title": "紅炎如桜[燎原之焔]"
+	},
+	{
+		"altTitles": [],
+		"artist": "Tiv / BGI:焦げポテト",
+		"data": {
+			"genre": "GOTHIC DECEPTIVE GABBA",
+			"subartist": "obj: qtp13",
+			"subtitle": "[Bitter]",
+			"tableString": "st4"
+		},
+		"id": 94389,
+		"searchTerms": [],
+		"title": "VampiЯ"
+	},
+	{
+		"altTitles": [],
+		"artist": "Lipschitz / Weierstrass",
+		"data": {
+			"genre": "Continuous",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "sl12"
+		},
+		"id": 94390,
+		"searchTerms": [],
+		"title": "exists Uniquely"
+	},
+	{
+		"altTitles": [],
+		"artist": "LeaF",
+		"data": {
+			"genre": "BREAKCORE 卒業ソング",
+			"subartist": "Movie:Melunia / obj:七海",
+			"subtitle": "-Hopeless-",
+			"tableString": "▼10"
+		},
+		"id": 94391,
+		"searchTerms": [],
+		"title": "命日"
+	},
+	{
+		"altTitles": [],
+		"artist": "ろわい",
+		"data": {
+			"genre": "Icicle Jazz Waltz",
+			"subartist": "Original:ZUN",
+			"subtitle": "[SP Hyper]",
+			"tableString": "▽8"
+		},
+		"id": 94392,
+		"searchTerms": [],
+		"title": "Iceweet Fragrance"
+	},
+	{
+		"altTitles": [],
+		"artist": "arc.sys",
+		"data": {
+			"genre": "FREEFORM HARDCORE",
+			"subartist": "obj:numuto",
+			"subtitle": "[numuther]",
+			"tableString": null
+		},
+		"id": 94393,
+		"searchTerms": [],
+		"title": "Brain Fuel"
+	},
+	{
+		"altTitles": [],
+		"artist": "daiji&sa10 obj.Azop",
+		"data": {
+			"genre": "foxriver",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": null
+		},
+		"id": 94394,
+		"searchTerms": [],
+		"title": "拷問ring"
+	},
+	{
+		"altTitles": [],
+		"artist": "桐藤ナギサ",
+		"data": {
+			"genre": "NAGIHIFUTURE CORE",
+			"subartist": "obj:ぺろろすぎ",
+			"subtitle": "[PERORODZILLA]",
+			"tableString": "▼24, ★★4"
+		},
+		"id": 94395,
+		"searchTerms": [],
+		"title": "Hifumi Daisuki - ahaha remix"
+	},
+	{
+		"altTitles": [],
+		"artist": "uet (as Pink Elephant)",
+		"data": {
+			"genre": "Bass House",
+			"subartist": "",
+			"subtitle": "[SP HYPER]",
+			"tableString": "▽8"
+		},
+		"id": 94396,
+		"searchTerms": [],
+		"title": "AWESOMENESS NIGHTMARE FACTORY !!!!"
+	},
+	{
+		"altTitles": [],
+		"artist": "r",
+		"data": {
+			"genre": "Drum & Bass / Experimental",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "▽8"
+		},
+		"id": 94397,
+		"searchTerms": [],
+		"title": "yabure"
+	},
+	{
+		"altTitles": [],
+		"artist": "AGOCHU0826",
+		"data": {
+			"genre": "FUNGAL RAVE SPEED",
+			"subartist": "",
+			"subtitle": "",
+			"tableString": "▽8"
+		},
+		"id": 94398,
+		"searchTerms": [],
+		"title": "エントモファガ・グリリ"
 	}
 ]
