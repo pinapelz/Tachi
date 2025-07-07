@@ -10,6 +10,7 @@ import KtRatingToCuratorSkill from "./migrations/ktRating-to-curator-skill";
 import MarkFervidexAsWithoutIntent from "./migrations/mark-fervidex-as-without-intent";
 import MarkKsHookAsWithoutIntent from "./migrations/mark-kshook-as-without-intent";
 import NullLR2HookFailedBPs from "./migrations/null-lr2hook-failed-bps";
+import OngekiV2 from "./migrations/ongeki-v2";
 import RemoveAbove100pc from "./migrations/remove-above-100pc";
 import RemoveIIDXBeginners from "./migrations/remove-iidx-beginners";
 import RemoveIIDX2dxtraBeginners from "./migrations/remove-iidx-extra-beginners";
@@ -17,6 +18,8 @@ import RemoveMultifolderStats from "./migrations/remove-multifolder-stats";
 import RemoveRandom from "./migrations/remove-random";
 import RemoveSessionViews from "./migrations/remove-session-views";
 import RmHot from "./migrations/rm-hot";
+// import SdvxMaxxiveGoals from "./migrations/sdvx-maxxive-goals";
+// import SdvxMaxxiveLampRearrange from "./migrations/sdvx-maxxive-lamp-rearrange";
 import SessionsToScoreIDs from "./migrations/sessions-to-scoreIDs";
 import UpdateJubeatPreferredTables from "./migrations/update-jubeat-preferred-tables";
 import V3PropsMigration from "./migrations/v3-props";
@@ -71,7 +74,10 @@ if (Environment.nodeEnv !== "test") {
 			KtRatingToCuratorSkill,
 			RemoveIIDX2dxtraBeginners,
 			RmHot,
-			ChunithmLampSplit
+			ChunithmLampSplit,
+			OngekiV2
+			// SdvxMaxxiveLampRearrange,
+			// SdvxMaxxiveGoals
 		);
 	}
 
