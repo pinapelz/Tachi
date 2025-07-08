@@ -23,19 +23,6 @@ export default function TimelineChart({
 		breakpoint: { isMd },
 	} = useContext(WindowContext);
 	const graphStyle = { height: isMd ? height : mobileHeight, width: isMd ? width : mobileWidth };
-	if (!data[0] || data[0].data.length < 2) {
-		return (
-			<div className="d-flex justify-content-center align-items-center" style={graphStyle}>
-				<div className="text-center">
-					Not Enough Data... Yet.
-					<br />
-					<small className="text-body-secondary">
-						(You need atleast 2 days worth of data)
-					</small>
-				</div>
-			</div>
-		);
-	}
 	return (
 		<div style={graphStyle}>
 			<ResponsiveLine
