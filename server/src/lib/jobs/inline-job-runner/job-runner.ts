@@ -22,14 +22,6 @@ const jobs: Array<Job> = [
 		cronFormat: "0 0 * * *",
 		run: UGSSnapshot,
 	},
-	{
-		name: "De-Orphan Scores",
-
-		// We run an hour after snapshotting UGS
-		// just to spread load out a bit.
-		cronFormat: "1 0 * * *",
-		run: DeoprhanScores,
-	},
 ];
 
 // using directly from upstream. so no point in us running some of this
