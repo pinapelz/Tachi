@@ -8,6 +8,7 @@ FROM ubuntu:24.10
 WORKDIR /tachi
 
 RUN apt update
+RUN apt-get update
 
 # essentials
 RUN apt install -y git npm locales sudo
