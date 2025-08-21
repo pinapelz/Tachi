@@ -320,7 +320,10 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 26,
-		"searchTerms": [],
+		"searchTerms": [
+			"zig zag",
+			"zigg zagg"
+		],
 		"title": "ZIGG-ZAGG"
 	},
 	{
@@ -758,7 +761,8 @@
 		},
 		"id": 59,
 		"searchTerms": [
-			"HOMURA-UTA"
+			"HOMURA-UTA",
+			"homura uta"
 		],
 		"title": "炎歌 -ほむらうた-"
 	},
@@ -1467,7 +1471,8 @@
 		},
 		"id": 115,
 		"searchTerms": [
-			"KAMURO-SETSUGEKKA"
+			"KAMURO-SETSUGEKKA",
+			"kamura setsugekka"
 		],
 		"title": "神室雪月花"
 	},
@@ -11783,7 +11788,7 @@
 		"id": 907,
 		"searchTerms": [
 			"Eastern Cross",
-			"kamigami ga koishita gensou gou"
+			"kamigami ga koishita gensoukyou"
 		],
 		"title": "神々が恋した幻想郷"
 	},
@@ -12868,7 +12873,8 @@
 		},
 		"id": 990,
 		"searchTerms": [
-			"Infinity"
+			"Infinity",
+			"x"
 		],
 		"title": "[X]"
 	},
@@ -12922,7 +12928,7 @@
 			"Spiderweb",
 			"Spider's Web",
 			"spider's thread",
-			"kumono no ito"
+			"kumo no ito"
 		],
 		"title": "蜘蛛の糸"
 	},
@@ -13218,7 +13224,8 @@
 		},
 		"id": 1017,
 		"searchTerms": [
-			"Mondainai Tripper"
+			"Mondainai Tripper",
+			"mondai nightripper"
 		],
 		"title": "モンダイナイトリッパー！"
 	},
@@ -14697,7 +14704,9 @@
 			"genre": "maimai"
 		},
 		"id": 1137,
-		"searchTerms": [],
+		"searchTerms": [
+			"party people princess"
+		],
 		"title": "Party☆People☆Princess"
 	},
 	{
@@ -15066,7 +15075,7 @@
 		},
 		"id": 1167,
 		"searchTerms": [
-			"tondemonai wonders"
+			"tondemo wonders"
 		],
 		"title": "トンデモワンダーズ"
 	},
@@ -15386,7 +15395,8 @@
 		},
 		"id": 1193,
 		"searchTerms": [
-			"tsunagite"
+			"tsunagite",
+			"tuna"
 		],
 		"title": "系ぎて"
 	},
@@ -15398,7 +15408,9 @@
 			"genre": "オンゲキ＆CHUNITHM"
 		},
 		"id": 1194,
-		"searchTerms": [],
+		"searchTerms": [
+			"azure"
+		],
 		"title": "Λzure Vixen"
 	},
 	{
@@ -17014,7 +17026,9 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1327,
-		"searchTerms": [],
+		"searchTerms": [
+			"seven girls war"
+		],
 		"title": "7 Girls War"
 	},
 	{
@@ -17052,7 +17066,8 @@
 		},
 		"id": 1330,
 		"searchTerms": [
-			"MEITANTEIRENZOKUSATSUJINJIKEN"
+			"MEITANTEIRENZOKUSATSUJINJIKEN",
+			"mei tantei renzoku satsujin jiken"
 		],
 		"title": "名探偵連続殺人事件"
 	},
@@ -17330,7 +17345,9 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1353,
-		"searchTerms": [],
+		"searchTerms": [
+			"usa"
+		],
 		"title": "U.S.A."
 	},
 	{
@@ -18041,7 +18058,8 @@
 		},
 		"id": 1411,
 		"searchTerms": [
-			"(not) a devil"
+			"(not) a devil",
+			"devil jya nai"
 		],
 		"title": "デビルじゃないもん"
 	},
@@ -18136,7 +18154,8 @@
 		},
 		"id": 1419,
 		"searchTerms": [
-			"realize"
+			"realize",
+			"realise"
 		],
 		"title": "リアライズ"
 	},
@@ -18148,7 +18167,9 @@
 			"genre": "maimai"
 		},
 		"id": 1420,
-		"searchTerms": [],
+		"searchTerms": [
+			"cryptarhythm"
+		],
 		"title": "Cryptarithm"
 	},
 	{
@@ -18251,7 +18272,11 @@
 			"genre": "maimai"
 		},
 		"id": 1428,
-		"searchTerms": [],
+		"searchTerms": [
+			"colorful encounter",
+			"colorful:encounver",
+			"colourfull"
+		],
 		"title": "Colorfull:Encounter"
 	},
 	{
@@ -18263,7 +18288,9 @@
 		},
 		"id": 1429,
 		"searchTerms": [
-			"urosousetsu"
+			"urosousetsu",
+			"uro sousetsu",
+			"rain dew frost snow"
 		],
 		"title": "雨露霜雪"
 	},
@@ -18289,7 +18316,8 @@
 		},
 		"id": 1431,
 		"searchTerms": [
-			"moon:reflection"
+			"moon:reflection",
+			"miya gekkyou"
 		],
 		"title": "美夜月鏡"
 	},
@@ -18302,7 +18330,8 @@
 		},
 		"id": 1432,
 		"searchTerms": [
-			"reincarnation apple"
+			"reincarnation apple",
+			"tensei ringo"
 		],
 		"title": "転生林檎"
 	},
@@ -18315,7 +18344,8 @@
 		},
 		"id": 1433,
 		"searchTerms": [
-			"mugen my world"
+			"mugen my world",
+			"yume utsutsu mousou sekai"
 		],
 		"title": "夢現妄想世界"
 	},
@@ -18459,7 +18489,9 @@
 			"genre": "ゲーム＆バラエティ"
 		},
 		"id": 1444,
-		"searchTerms": [],
+		"searchTerms": [
+			"hypertribe"
+		],
 		"title": "HYP3RTRIBE"
 	},
 	{
@@ -18509,6 +18541,7 @@
 		"id": 1448,
 		"searchTerms": [
 			"migi ni ma girl",
+			"maguru",
 			"girlving to the right"
 		],
 		"title": "右に曲ガール"
@@ -18548,7 +18581,8 @@
 		},
 		"id": 1451,
 		"searchTerms": [
-			"jigoku"
+			"jigoku",
+			"hell"
 		],
 		"title": "地獄"
 	},
@@ -18633,7 +18667,9 @@
 			"genre": "オンゲキ＆CHUNITHM"
 		},
 		"id": 1458,
-		"searchTerms": [],
+		"searchTerms": [
+			"rnr monster"
+		],
 		"title": "R'N'R Monsta"
 	},
 	{
@@ -18697,7 +18733,9 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1463,
-		"searchTerms": [],
+		"searchTerms": [
+			"Monster Coming"
+		],
 		"title": "モンスターカミング"
 	},
 	{
@@ -18708,7 +18746,9 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 1464,
-		"searchTerms": [],
+		"searchTerms": [
+			"Worldwide Wander"
+		],
 		"title": "ワールドワイドワンダー"
 	},
 	{
@@ -18719,7 +18759,10 @@
 			"genre": "ゲーム＆バラエティ"
 		},
 		"id": 1465,
-		"searchTerms": [],
+		"searchTerms": [
+			"morning loom",
+			"gloom"
+		],
 		"title": "MORNINGLOOM"
 	},
 	{
@@ -18730,7 +18773,10 @@
 			"genre": "ゲーム＆バラエティ"
 		},
 		"id": 1466,
-		"searchTerms": [],
+		"searchTerms": [
+			"How To Make OTOGE MUSIC!",
+			"otoge kyoku"
+		],
 		"title": "How To Make 音ゲ～曲！"
 	},
 	{
@@ -18752,7 +18798,10 @@
 			"genre": "maimai"
 		},
 		"id": 1468,
-		"searchTerms": [],
+		"searchTerms": [
+			"Utahime Night Storm",
+			"Utahime"
+		],
 		"title": "ウタヒメナイトストーム"
 	},
 	{
@@ -18763,7 +18812,9 @@
 			"genre": "maimai"
 		},
 		"id": 1469,
-		"searchTerms": [],
+		"searchTerms": [
+			"feel the love"
+		],
 		"title": "Feel The Luv"
 	},
 	{
@@ -18774,7 +18825,9 @@
 			"genre": "maimai"
 		},
 		"id": 1470,
-		"searchTerms": [],
+		"searchTerms": [
+			"Antinomie"
+		],
 		"title": "Åntinomiε"
 	},
 	{
@@ -18807,7 +18860,10 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1473,
-		"searchTerms": [],
+		"searchTerms": [
+			"Cubism",
+			"kyubizumu"
+		],
 		"title": "きゅびずむ"
 	},
 	{
@@ -18818,7 +18874,10 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1474,
-		"searchTerms": [],
+		"searchTerms": [
+			"Cubibibibism",
+			"kyubibibibizumu"
+		],
 		"title": "きゅびびびびずむ"
 	},
 	{
@@ -18829,7 +18888,9 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 1475,
-		"searchTerms": [],
+		"searchTerms": [
+			"Yurikago"
+		],
 		"title": "ゆりかご"
 	},
 	{
@@ -18840,7 +18901,10 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 1476,
-		"searchTerms": [],
+		"searchTerms": [
+			"Gekkou",
+			"Moonlight"
+		],
 		"title": "月光"
 	},
 	{
@@ -18851,7 +18915,9 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1477,
-		"searchTerms": [],
+		"searchTerms": [
+			"Hai Yorokonde"
+		],
 		"title": "はいよろこんで"
 	},
 	{
@@ -18862,7 +18928,9 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1478,
-		"searchTerms": [],
+		"searchTerms": [
+			"BIBIDIBA"
+		],
 		"title": "ビビデバ"
 	},
 	{
@@ -18873,7 +18941,10 @@
 			"genre": "POPS＆アニメ"
 		},
 		"id": 1479,
-		"searchTerms": [],
+		"searchTerms": [
+			"Shikairo Days",
+			"shika noko noko noko koshi tan tan"
+		],
 		"title": "シカ色デイズ"
 	},
 	{
@@ -18884,7 +18955,10 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 1480,
-		"searchTerms": [],
+		"searchTerms": [
+			"Mesmerizer",
+			"Mesmeriser"
+		],
 		"title": "メズマライザー"
 	},
 	{
@@ -18895,7 +18969,10 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 1481,
-		"searchTerms": [],
+		"searchTerms": [
+			"Momoiro no Kagi",
+			"The Peachy Key"
+		],
 		"title": "ももいろの鍵"
 	},
 	{
@@ -18906,7 +18983,10 @@
 			"genre": "niconico＆ボーカロイド"
 		},
 		"id": 1482,
-		"searchTerms": [],
+		"searchTerms": [
+			"no da",
+			"noda"
+		],
 		"title": "のだ"
 	},
 	{
@@ -18917,7 +18997,9 @@
 			"genre": "東方Project"
 		},
 		"id": 1483,
-		"searchTerms": [],
+		"searchTerms": [
+			"idoratrise"
+		],
 		"title": "Idoratrize World"
 	},
 	{
@@ -18930,5 +19012,82 @@
 		"id": 1484,
 		"searchTerms": [],
 		"title": "Synthesis."
+	},
+	{
+		"altTitles": [],
+		"artist": "kanone",
+		"data": {
+			"duration": 138.846,
+			"genre": "maimai"
+		},
+		"id": 1485,
+		"searchTerms": [
+			"atlas rush"
+		],
+		"title": "ATLAS RUSH"
+	},
+	{
+		"altTitles": [],
+		"artist": "tilt-six feat.バル",
+		"data": {
+			"duration": 146.853,
+			"genre": "オンゲキ＆CHUNITHM"
+		},
+		"id": 1486,
+		"searchTerms": [
+			"Sound Player",
+			"Sound Prayer"
+		],
+		"title": "サウンドプレイヤー"
+	},
+	{
+		"altTitles": [],
+		"artist": "kamome sano",
+		"data": {
+			"duration": 139.862,
+			"genre": "オンゲキ＆CHUNITHM"
+		},
+		"id": 1487,
+		"searchTerms": [],
+		"title": "crazy (about you)"
+	},
+	{
+		"altTitles": [],
+		"artist": "Taishi",
+		"data": {
+			"duration": 136.978,
+			"genre": "オンゲキ＆CHUNITHM"
+		},
+		"id": 1488,
+		"searchTerms": [
+			"drives over"
+		],
+		"title": "Drivessover"
+	},
+	{
+		"altTitles": [],
+		"artist": "こっちのけんと",
+		"data": {
+			"duration": 158.367,
+			"genre": "POPS＆アニメ"
+		},
+		"id": 1489,
+		"searchTerms": [
+			"mou ii yo"
+		],
+		"title": "もういいよ"
+	},
+	{
+		"altTitles": [],
+		"artist": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」",
+		"data": {
+			"duration": 158.328,
+			"genre": "POPS＆アニメ"
+		},
+		"id": 1490,
+		"searchTerms": [
+			"MoeChakkaFire"
+		],
+		"title": "モエチャッカファイア"
 	}
 ]
