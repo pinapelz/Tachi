@@ -989,7 +989,8 @@
 			"F5e157a27168bd0966071ba63388b2755626b503c3777f3709ca04dba4c51ec1b",
 			"F77f852035c55c63a03864e3dab62ff747b704f2e6b69c2e02907773fca5ca688",
 			"Fa7290721adc0412398202b87e0d49894cf008da9399bfd52c6426456bfeb2c4e",
-			"F20a16eab0f0cdccb3065b9fae9cc9e68da8d53889415fac7969c989b30eed597"
+			"F20a16eab0f0cdccb3065b9fae9cc9e68da8d53889415fac7969c989b30eed597",
+			"F73ed1fffd54e77a99e038e340410c776b6d2a2028b115a5c2fc7daf99d44980e"
 		],
 		"game": "chunithm",
 		"inactive": false,
@@ -998,7 +999,7 @@
 		"title": "CHUNITHM (LUMINOUS PLUS Omnimix) (Difficulties)"
 	},
 	{
-		"default": true,
+		"default": false,
 		"description": "Levels for CHUNITHM in LUMINOUS PLUS.",
 		"folders": [
 			"F5e6f84b3158d6e1a58be88901d1410bd2df343bee6fc6efea01736024f6a8df8",
@@ -1040,7 +1041,8 @@
 			"F3f905a38a0b9f64afc304097cbfa7ba523015fbb81f25615a1cbd5405aa4ac32",
 			"Fc50ace09ee83e28115d1651ffd61f0b94ef6460e4b86838c5b38584de3985467",
 			"F2a6420ee644d2adca885820d2810bce78108eca0b79897dad75b2557868603e7",
-			"F94dec7f14167a9ae0209e8169fc56d6cdea2b31f940cfb98b8e111c4d3abd541"
+			"F94dec7f14167a9ae0209e8169fc56d6cdea2b31f940cfb98b8e111c4d3abd541",
+			"Fdc7e7e6ae0b83372f68c4821c4cace37d488f621dad5e009108dc9406cf74957"
 		],
 		"game": "chunithm",
 		"inactive": false,
@@ -1078,7 +1080,7 @@
 			"F0e506601a0a0bc2be88650efd5c5216c535166a4cd14abbd0afe9840dcc2a9f5"
 		],
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"tableID": "chunithm-Single-luminous-levels",
 		"title": "CHUNITHM (LUMINOUS)"
@@ -1094,7 +1096,7 @@
 			"Fb1440a42e16b38e3aff4d0ce3973ab96d622b80357305e46dff66726afebde73"
 		],
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"tableID": "chunithm-Single-luminous-difficulties",
 		"title": "CHUNITHM (LUMINOUS) (Difficulties)"
@@ -1534,7 +1536,8 @@
 			"Fbde8d144ba9d0e46bcdc02d34e7f4417f87acc36ee7d2dbe7d33f95a01c2c720",
 			"F98f726ecb709c1749f5c846a2917c07c5f7005471c8a95a7e818080d148f5c6c",
 			"F875924b229ee264a74d08c1b9f0519bd44a433fb123d8803ad0f4de2b509e5fa",
-			"F3c55f07102751c31dc008af7cae3982340515cf4e68c802ecb7ac04a9c760a84"
+			"F3c55f07102751c31dc008af7cae3982340515cf4e68c802ecb7ac04a9c760a84",
+			"F5c89f008e387271e01a12abfca85aef07e295c478f7266caf82d204d85bb1aa8"
 		],
 		"game": "chunithm",
 		"inactive": false,
@@ -1585,7 +1588,8 @@
 			"F68fbcd566ffd50be0152f38b423ae4d758515313a2e787849161714389e59710",
 			"F16310d18c6785cb0911db787da4ecad69fba93d207082a95739f51898d42a9a2",
 			"Faf2fd8d2bbd61e3222725121a9865ef271b2ac29d405d2929a0f74be5a462b85",
-			"Ffcf22e8ec59471aaf485559436aa87f744695e5942c28fd45e24b4b9c22838dd"
+			"Ffcf22e8ec59471aaf485559436aa87f744695e5942c28fd45e24b4b9c22838dd",
+			"F5f1b5dea699911f8d656b0c82179b0922eed18684f61f0dc31b4468d12c93f75"
 		],
 		"game": "chunithm",
 		"inactive": false,
@@ -1594,7 +1598,7 @@
 		"title": "CHUNITHM (VERSE Omnimix) (Difficulties)"
 	},
 	{
-		"default": false,
+		"default": true,
 		"description": "Levels for CHUNITHM in VERSE.",
 		"folders": [
 			"Fcb7b909c3fc5eabb7211cc7e6c92b2f0af58f5d03d48f9b2d859acfe5510b20e",
@@ -1636,7 +1640,8 @@
 			"F9d742e64b9a92877c584a31422ddb655df2fa26e2be3ab5bc5e9a764211638a7",
 			"F8a05dc919c85a6665d67a3d7579fb9fbccc077124f75b593a1be38d5ea109e26",
 			"Fc1925199b5141d40001d302fdb7842e82e650fbe7d850749f8922f1264818ca4",
-			"F285ddbd751c99661c03a15adbc52bf7bffac4f23312025876638cbf612f36348"
+			"F285ddbd751c99661c03a15adbc52bf7bffac4f23312025876638cbf612f36348",
+			"F7619677b79823975f6364254b0661e5575814b49713f8e8962d63bcc3b27dfe8"
 		],
 		"game": "chunithm",
 		"inactive": false,
@@ -2486,7 +2491,7 @@
 			"F7b18f594d7d131fc42909104cadd19521596fa953d9adf2c82adb37c6110dcf7"
 		],
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"tableID": "iidx-DP-31-omni-levels",
 		"title": "beatmania IIDX (DP) (Epolis Omnimix)"
@@ -2697,6 +2702,29 @@
 		"playtype": "DP",
 		"tableID": "iidx-DP-22-levels",
 		"title": "beatmania IIDX (DP) (PENDUAL)"
+	},
+	{
+		"default": false,
+		"description": "Levels for beatmania IIDX (DP) in Pinky Crush Omnimix.",
+		"folders": [
+			"Fc1411fe3deeada73749dca7bbc41a01c9b7311467b149c95a1fda2942e788e05",
+			"F9d200c707b5677f86159833694f6300ea1bb47cbeacd86362cd4e5d6500f0ec6",
+			"F49346c3823a8f4d15d2898fcc8585771c77f8404d5386637b3993929cf2e3243",
+			"F2b0dd9ae8b4d96baa6a91496c910a31f84cae215dea2129e7ef6827da7482f06",
+			"Fb97b3afab645b55257ca632244e8b8648d0be248abfbd12ec96dcc84b400e413",
+			"Fe7b34714f0acb4fe0f7e209cb34c2c015f5899998360685cdd192d55380ce5e0",
+			"Fa775e3c2062c80cab6bed74a12ee10f35d7bce32b2a7b50d9ef9217c8f27a588",
+			"F73bd3e42cf134b79cac734257c7f4e2a30f19351a0ce1aa812cffa3025ff95e8",
+			"F0a5bdb6b242fe775a30d235a88d3d98d14cc92e50911cc6d64d189a0b98db82c",
+			"F90577fc619c5e79f53ae83af34212ccf5fc222832ad95131bc07aa1cd6a61c71",
+			"F1b340f24ab4b5c6bef93824a3d9e7f60106d68951b3f7977e097be64a7c74255",
+			"Fad77774ce608f72d2a149d8de3d47c0974f06878f30e5c429a599cc80becff84"
+		],
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"tableID": "iidx-DP-32-omni-levels",
+		"title": "beatmania IIDX (DP) (Pinky Crush Omnimix)"
 	},
 	{
 		"default": true,
@@ -3337,7 +3365,7 @@
 			"F6266050bc50393bb0a88e7a80b57c800efeaca437f1e95efd08694348d77165f"
 		],
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"tableID": "iidx-SP-31-omni-levels",
 		"title": "beatmania IIDX (SP) (Epolis Omnimix)"
@@ -3548,6 +3576,29 @@
 		"playtype": "SP",
 		"tableID": "iidx-SP-22-levels",
 		"title": "beatmania IIDX (SP) (PENDUAL)"
+	},
+	{
+		"default": false,
+		"description": "Levels for beatmania IIDX (SP) in Pinky Crush Omnimix.",
+		"folders": [
+			"F4bd1f76d74a9dc216ff0d75b4d806f783a36fc229caa8d3214377b8eb613335e",
+			"F7899766fea7350ae34e7b3f630078da2e459b16cb85edefbb1e1ac9ef5042ae3",
+			"Fe118f348ee709196e57074ae654fdb4f93de4f26c9f9447eafcd29525c249efc",
+			"F0c1739ece3377be4e17303a556ffe8220aa2b78d4a0e1a4df1720230caffb57e",
+			"Fd15733d1f7ba07ba321c5aa57670eb821c29e3d70653e8024949a7daa18f9b97",
+			"F071539c9beeb901add74407a23df40c897cd36f9572e90a3f2b42695cfdeb31a",
+			"F548e5d7fae8a99802afd81567fabb4a033d3b69803174bf312c88e7fbf979062",
+			"F9d108adacc0f704f19e4b63e0f8df9bacad677468a17fb65f97d71d06f9eae88",
+			"F70c7a7b53d91ba7870e7a5dac3986545c5796f4b4000e6d266a010140b2b3560",
+			"Fdba364f495ef053d68f4d862649480983558502fb0bef11b44b692d2b616831a",
+			"F3e767db6448dac5c48b7df3aff0ebeaf7e5dc3a261aa6822691b938d0dcbd7c2",
+			"F0931e5c31673322dadcf0e21d01a152347d50560081083f9389bf4893de74389"
+		],
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"tableID": "iidx-SP-32-omni-levels",
+		"title": "beatmania IIDX (SP) (Pinky Crush Omnimix)"
 	},
 	{
 		"default": true,

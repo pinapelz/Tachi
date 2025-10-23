@@ -8652,7 +8652,7 @@
 		},
 		"folderID": "F849d1219ea7da91e541fc5da62a78c2895f2276456a4de8e73428836b4bddc0c",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "ADVANCED (LUMINOUS)",
@@ -8860,7 +8860,7 @@
 		},
 		"folderID": "F7793fa0dc580bc24b52b246775bba674028aab5857c190dad67f6224481c542e",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "BASIC (LUMINOUS)",
@@ -9068,7 +9068,7 @@
 		},
 		"folderID": "F3397558a8bc06de6c5d0ef0b1e266b57c8a7a471a5b65f50f1f12e2f884c64a4",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "EXPERT (LUMINOUS)",
@@ -9276,7 +9276,7 @@
 		},
 		"folderID": "F0e650704ddc8a045e5a944b660c9e16492b3d956891e8a3d1279af9648e37d62",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 1 (LUMINOUS)",
@@ -9497,7 +9497,7 @@
 		},
 		"folderID": "F09f03f11dfc57e165dea49ef8e51cce80d95272c9f2ad160328c7f80a05a508d",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 10 (LUMINOUS)",
@@ -9718,7 +9718,7 @@
 		},
 		"folderID": "F5005170f4537eb4aeb68712d2cb5acf99ad2696afca1a0b5b554efaa7bb8dcf6",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 10+ (LUMINOUS)",
@@ -9939,7 +9939,7 @@
 		},
 		"folderID": "F82e46a87626ba99a85b484fafde7fdcd8de289c786d11d9a605bb48a989633fc",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 11 (LUMINOUS)",
@@ -10160,7 +10160,7 @@
 		},
 		"folderID": "F25fe7023fb30ae2a400ef9cca5300fc9db11bee396936da41f2009ffa9e812fd",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 11+ (LUMINOUS)",
@@ -10381,7 +10381,7 @@
 		},
 		"folderID": "F50af106c804cae8655b64716baeb9d23ccc2866b940329a82a8e26ae90e9f1c4",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 12 (LUMINOUS)",
@@ -10602,7 +10602,7 @@
 		},
 		"folderID": "F0dcd2d1a882a8ff297b37c9a2a81acec7cae06bf098affd55724d44342ec3db2",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 12+ (LUMINOUS)",
@@ -10823,7 +10823,7 @@
 		},
 		"folderID": "F305e2c7b26bbc1c60aa21c383b9eca8dd2934af6de4ad8ed23d3b5825201ee92",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 13 (LUMINOUS)",
@@ -11044,7 +11044,7 @@
 		},
 		"folderID": "F91a3dfe0c0c43740095dc5a4d4881c3faa6b7075e969a7ccceacba56039b7b14",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 13+ (LUMINOUS)",
@@ -11265,7 +11265,7 @@
 		},
 		"folderID": "Fff5733595eaec1e0da26a8c32d083735a96f4c4650858a470df5a599ebc13bca",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 14 (LUMINOUS)",
@@ -11486,7 +11486,7 @@
 		},
 		"folderID": "F75dabdd8e04330d6d60836b96edba63c68cefe6164c7f609f6bf2027ce1984c0",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 14+ (LUMINOUS)",
@@ -11707,7 +11707,7 @@
 		},
 		"folderID": "Fbeb5d474cbf40cad4435ec535479e6da020ff0f316cc3250162cd71ee89d5bdb",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 15 (LUMINOUS)",
@@ -11928,7 +11928,7 @@
 		},
 		"folderID": "F0e506601a0a0bc2be88650efd5c5216c535166a4cd14abbd0afe9840dcc2a9f5",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 15+ (LUMINOUS)",
@@ -12149,7 +12149,7 @@
 		},
 		"folderID": "Fed1f58125c7792fabc73afa21c98558c42ab077ccbad54464b575493a6b064db",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 2 (LUMINOUS)",
@@ -12370,7 +12370,7 @@
 		},
 		"folderID": "Fa0d74e202f1349cc1d8bc8bc660026b6ae450530a4ec97468d616cfa2af4d1fc",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 3 (LUMINOUS)",
@@ -12591,7 +12591,7 @@
 		},
 		"folderID": "F80e466f00513a9d7ed139f7ed3c48f33ca712f327c72d4fec6cefaf4e70a7ba9",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 4 (LUMINOUS)",
@@ -12812,7 +12812,7 @@
 		},
 		"folderID": "F36a80e458587babf6792423ff21bd4632634c674d52e58471021e7c6e06a92bc",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 5 (LUMINOUS)",
@@ -13033,7 +13033,7 @@
 		},
 		"folderID": "F8dafcd7ee52c08cd4f33a0e570289e94406c493b9a9430470df312dd6945e565",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 6 (LUMINOUS)",
@@ -13254,7 +13254,7 @@
 		},
 		"folderID": "Fcc65c9348c52f250fefea82fd44fc73e4b426b1c99af52485f64a7a23203fd70",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 7 (LUMINOUS)",
@@ -13475,7 +13475,7 @@
 		},
 		"folderID": "Ff7f5a11995c904bb2c64f8283115944a3b8e48d0a69fcae17d9730657a23bca4",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 7+ (LUMINOUS)",
@@ -13696,7 +13696,7 @@
 		},
 		"folderID": "F7b23d0c2a540f69e4d87e44f364d66be358cff433db959cffcb690137c026db0",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 8 (LUMINOUS)",
@@ -13917,7 +13917,7 @@
 		},
 		"folderID": "Fc1ab6ba6670eea7d9f6bcb55d71583c07716b9dc4edac41db820c44abfd8caab",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 8+ (LUMINOUS)",
@@ -14138,7 +14138,7 @@
 		},
 		"folderID": "F7408737de948a0821d8f9ef999cb5f1cfc550b10b486e70f02e950da36e061c3",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 9 (LUMINOUS)",
@@ -14359,7 +14359,7 @@
 		},
 		"folderID": "Fba599b0ca4a0e40dd820f0ef8df88a6e2fbe293185d04b4b5dcdf1705d5479b0",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "Level 9+ (LUMINOUS)",
@@ -14580,7 +14580,7 @@
 		},
 		"folderID": "F9ea15d2aa0a17e9902019e851d7ba78ac4f68019e25dc4230c437dce296d96a6",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "MASTER (LUMINOUS)",
@@ -14718,6 +14718,96 @@
 	},
 	{
 		"data": {
+			"difficulty": {
+				"~in": [
+					"MASTER",
+					"ULTIMA"
+				]
+			},
+			"versions": "luminousplus-omni"
+		},
+		"folderID": "F73ed1fffd54e77a99e038e340410c776b6d2a2028b115a5c2fc7daf99d44980e",
+		"game": "chunithm",
+		"inactive": false,
+		"playtype": "Single",
+		"searchTerms": [],
+		"title": "MASTER+ULTIMA (LUMINOUS PLUS Omnimix)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"difficulty": {
+				"~in": [
+					"MASTER",
+					"ULTIMA"
+				]
+			},
+			"versions": "luminousplus"
+		},
+		"folderID": "Fdc7e7e6ae0b83372f68c4821c4cace37d488f621dad5e009108dc9406cf74957",
+		"game": "chunithm",
+		"inactive": false,
+		"playtype": "Single",
+		"searchTerms": [],
+		"title": "MASTER+ULTIMA (LUMINOUS PLUS)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"difficulty": {
+				"~in": [
+					"MASTER",
+					"ULTIMA"
+				]
+			},
+			"versions": "verse-intl"
+		},
+		"folderID": "F5c89f008e387271e01a12abfca85aef07e295c478f7266caf82d204d85bb1aa8",
+		"game": "chunithm",
+		"inactive": false,
+		"playtype": "Single",
+		"searchTerms": [],
+		"title": "MASTER+ULTIMA (VERSE International)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"difficulty": {
+				"~in": [
+					"MASTER",
+					"ULTIMA"
+				]
+			},
+			"versions": "verse-omni"
+		},
+		"folderID": "F5f1b5dea699911f8d656b0c82179b0922eed18684f61f0dc31b4468d12c93f75",
+		"game": "chunithm",
+		"inactive": false,
+		"playtype": "Single",
+		"searchTerms": [],
+		"title": "MASTER+ULTIMA (VERSE Omnimix)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"difficulty": {
+				"~in": [
+					"MASTER",
+					"ULTIMA"
+				]
+			},
+			"versions": "verse"
+		},
+		"folderID": "F7619677b79823975f6364254b0661e5575814b49713f8e8962d63bcc3b27dfe8",
+		"game": "chunithm",
+		"inactive": false,
+		"playtype": "Single",
+		"searchTerms": [],
+		"title": "MASTER+ULTIMA (VERSE)",
+		"type": "charts"
+	},
+	{
+		"data": {
 			"difficulty": "ULTIMA",
 			"versions": "luminous-intl"
 		},
@@ -14788,7 +14878,7 @@
 		},
 		"folderID": "Fb1440a42e16b38e3aff4d0ce3973ab96d622b80357305e46dff66726afebde73",
 		"game": "chunithm",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "Single",
 		"searchTerms": [],
 		"title": "ULTIMA (LUMINOUS)",
@@ -18577,7 +18667,7 @@
 		},
 		"folderID": "Fce0f83e4232f13acf7e4755083c91006f470a7f0bae3ff104b91db35ddad92b5",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 1 (Epolis Omnimix)",
@@ -18698,6 +18788,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 1 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "1",
+			"versions": "32-omni"
+		},
+		"folderID": "Fc1411fe3deeada73749dca7bbc41a01c9b7311467b149c95a1fda2942e788e05",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 1 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -19058,7 +19161,7 @@
 		},
 		"folderID": "F11e79bbeaa28b8ff54b8e3905d7ff4d39a93ed972a294f31378e230b900f21e9",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 10 (Epolis Omnimix)",
@@ -19179,6 +19282,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 10 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "10",
+			"versions": "32-omni"
+		},
+		"folderID": "F90577fc619c5e79f53ae83af34212ccf5fc222832ad95131bc07aa1cd6a61c71",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 10 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -19539,7 +19655,7 @@
 		},
 		"folderID": "Fdae84f4eb3c7a88e480c42389b2f88c12e4b449d5fea1ff121aa229b2382f9a9",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 11 (Epolis Omnimix)",
@@ -19660,6 +19776,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 11 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "11",
+			"versions": "32-omni"
+		},
+		"folderID": "F1b340f24ab4b5c6bef93824a3d9e7f60106d68951b3f7977e097be64a7c74255",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 11 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -20020,7 +20149,7 @@
 		},
 		"folderID": "F7b18f594d7d131fc42909104cadd19521596fa953d9adf2c82adb37c6110dcf7",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 12 (Epolis Omnimix)",
@@ -20141,6 +20270,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 12 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "12",
+			"versions": "32-omni"
+		},
+		"folderID": "Fad77774ce608f72d2a149d8de3d47c0974f06878f30e5c429a599cc80becff84",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 12 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -20501,7 +20643,7 @@
 		},
 		"folderID": "Fbc436e860e309cb518da1c27ca7af7c0b83c5a967fb738a8d0a673fb3d48faab",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 2 (Epolis Omnimix)",
@@ -20622,6 +20764,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 2 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "2",
+			"versions": "32-omni"
+		},
+		"folderID": "F9d200c707b5677f86159833694f6300ea1bb47cbeacd86362cd4e5d6500f0ec6",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 2 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -20982,7 +21137,7 @@
 		},
 		"folderID": "F4c55a47ec903a3c1d7d0177b1ce3333d9985041219a655c54106da37a2267646",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 3 (Epolis Omnimix)",
@@ -21103,6 +21258,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 3 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "3",
+			"versions": "32-omni"
+		},
+		"folderID": "F49346c3823a8f4d15d2898fcc8585771c77f8404d5386637b3993929cf2e3243",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 3 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -21463,7 +21631,7 @@
 		},
 		"folderID": "F866d1516892a7b8df968e0323133c266a1ca9dc1224117c00f4af78081ba76fd",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 4 (Epolis Omnimix)",
@@ -21584,6 +21752,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 4 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "4",
+			"versions": "32-omni"
+		},
+		"folderID": "F2b0dd9ae8b4d96baa6a91496c910a31f84cae215dea2129e7ef6827da7482f06",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 4 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -21944,7 +22125,7 @@
 		},
 		"folderID": "F2e59dcd38a44d2db14ef3d0961bd3a74c0efd93b60ce55af4082d55e70bd19b2",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 5 (Epolis Omnimix)",
@@ -22065,6 +22246,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 5 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "5",
+			"versions": "32-omni"
+		},
+		"folderID": "Fb97b3afab645b55257ca632244e8b8648d0be248abfbd12ec96dcc84b400e413",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 5 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -22425,7 +22619,7 @@
 		},
 		"folderID": "Ffebfc8e96592a0bac5e9fdaf52a8f490fb1b94c480e0cfb7a6e95e03f746d7f2",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 6 (Epolis Omnimix)",
@@ -22546,6 +22740,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 6 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "6",
+			"versions": "32-omni"
+		},
+		"folderID": "Fe7b34714f0acb4fe0f7e209cb34c2c015f5899998360685cdd192d55380ce5e0",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 6 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -22906,7 +23113,7 @@
 		},
 		"folderID": "F136af5d00ccaa0e948140d66fd6645f9ad438e16f1a20d3eb1750fd628ba83c2",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 7 (Epolis Omnimix)",
@@ -23027,6 +23234,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 7 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "7",
+			"versions": "32-omni"
+		},
+		"folderID": "Fa775e3c2062c80cab6bed74a12ee10f35d7bce32b2a7b50d9ef9217c8f27a588",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 7 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -23387,7 +23607,7 @@
 		},
 		"folderID": "Fa99b566ee02d66922a81ccc938047a345a3cf632a0857db1cf46572444efa0cc",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 8 (Epolis Omnimix)",
@@ -23508,6 +23728,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 8 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "8",
+			"versions": "32-omni"
+		},
+		"folderID": "F73bd3e42cf134b79cac734257c7f4e2a30f19351a0ce1aa812cffa3025ff95e8",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 8 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -23868,7 +24101,7 @@
 		},
 		"folderID": "F48736df4ff40d1e15bfd710587f2febd1096e9c8f6016fa5c00585c07735bdb7",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 9 (Epolis Omnimix)",
@@ -23989,6 +24222,19 @@
 		"playtype": "DP",
 		"searchTerms": [],
 		"title": "Level 9 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "9",
+			"versions": "32-omni"
+		},
+		"folderID": "F0a5bdb6b242fe775a30d235a88d3d98d14cc92e50911cc6d64d189a0b98db82c",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "DP",
+		"searchTerms": [],
+		"title": "Level 9 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -24349,7 +24595,7 @@
 		},
 		"folderID": "F5d4303ec11f0523aabbf51ebdeb8bd76318c0ee1b84ded0568637a770e5a9e11",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 1 (Epolis Omnimix)",
@@ -24470,6 +24716,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 1 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "1",
+			"versions": "32-omni"
+		},
+		"folderID": "F4bd1f76d74a9dc216ff0d75b4d806f783a36fc229caa8d3214377b8eb613335e",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 1 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -24830,7 +25089,7 @@
 		},
 		"folderID": "Ff086c90a64fe3d4f8d4c879c7585419b916f998c80a400a20dc273e3c1fa721f",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 10 (Epolis Omnimix)",
@@ -24951,6 +25210,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 10 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "10",
+			"versions": "32-omni"
+		},
+		"folderID": "Fdba364f495ef053d68f4d862649480983558502fb0bef11b44b692d2b616831a",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 10 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -25311,7 +25583,7 @@
 		},
 		"folderID": "F2d5e0ebaf67f8021e097340e2f553e14eb617db25e89eabebafb1c14f0405f5c",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 11 (Epolis Omnimix)",
@@ -25432,6 +25704,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 11 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "11",
+			"versions": "32-omni"
+		},
+		"folderID": "F3e767db6448dac5c48b7df3aff0ebeaf7e5dc3a261aa6822691b938d0dcbd7c2",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 11 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -25792,7 +26077,7 @@
 		},
 		"folderID": "F6266050bc50393bb0a88e7a80b57c800efeaca437f1e95efd08694348d77165f",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 12 (Epolis Omnimix)",
@@ -25913,6 +26198,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 12 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "12",
+			"versions": "32-omni"
+		},
+		"folderID": "F0931e5c31673322dadcf0e21d01a152347d50560081083f9389bf4893de74389",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 12 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -26273,7 +26571,7 @@
 		},
 		"folderID": "Fdc44254cb16ad94b0714d4a9e69dd7a07aa06b65d03bf685452e5effd1f6c5a4",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 2 (Epolis Omnimix)",
@@ -26394,6 +26692,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 2 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "2",
+			"versions": "32-omni"
+		},
+		"folderID": "F7899766fea7350ae34e7b3f630078da2e459b16cb85edefbb1e1ac9ef5042ae3",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 2 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -26754,7 +27065,7 @@
 		},
 		"folderID": "F0be057a81f2e35336643032105b3ebc61abe95d92dc2d0e3a407b5a03b38f8a7",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 3 (Epolis Omnimix)",
@@ -26875,6 +27186,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 3 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "3",
+			"versions": "32-omni"
+		},
+		"folderID": "Fe118f348ee709196e57074ae654fdb4f93de4f26c9f9447eafcd29525c249efc",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 3 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -27235,7 +27559,7 @@
 		},
 		"folderID": "Fdcd6ecae79ad5ab1d269a69ea3a71b7139269119cf9cef33c7c1295724e9921e",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 4 (Epolis Omnimix)",
@@ -27356,6 +27680,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 4 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "4",
+			"versions": "32-omni"
+		},
+		"folderID": "F0c1739ece3377be4e17303a556ffe8220aa2b78d4a0e1a4df1720230caffb57e",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 4 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -27716,7 +28053,7 @@
 		},
 		"folderID": "F27b50d2715c17d27100a446488a22c35b735a250dcd2261bac280913e1c82d41",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 5 (Epolis Omnimix)",
@@ -27837,6 +28174,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 5 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "5",
+			"versions": "32-omni"
+		},
+		"folderID": "Fd15733d1f7ba07ba321c5aa57670eb821c29e3d70653e8024949a7daa18f9b97",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 5 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -28197,7 +28547,7 @@
 		},
 		"folderID": "F0315bc5dece0b4786068ead0d52780e24db39fef1a5ba9794eb22e3a9227e966",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 6 (Epolis Omnimix)",
@@ -28318,6 +28668,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 6 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "6",
+			"versions": "32-omni"
+		},
+		"folderID": "F071539c9beeb901add74407a23df40c897cd36f9572e90a3f2b42695cfdeb31a",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 6 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -28678,7 +29041,7 @@
 		},
 		"folderID": "Fbb09366ec528e2c6c87d79301fcdfeb763b85c961f1438437aca7676a20f514c",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 7 (Epolis Omnimix)",
@@ -28799,6 +29162,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 7 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "7",
+			"versions": "32-omni"
+		},
+		"folderID": "F548e5d7fae8a99802afd81567fabb4a033d3b69803174bf312c88e7fbf979062",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 7 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -29159,7 +29535,7 @@
 		},
 		"folderID": "Fa1b4fb7133452d2ee923ddb91aef0823b104db16e17d3d53012754c00515c11b",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 8 (Epolis Omnimix)",
@@ -29280,6 +29656,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 8 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "8",
+			"versions": "32-omni"
+		},
+		"folderID": "F9d108adacc0f704f19e4b63e0f8df9bacad677468a17fb65f97d71d06f9eae88",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 8 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
@@ -29640,7 +30029,7 @@
 		},
 		"folderID": "F6c07f8fd553e532e0dc1e2ee3f8f4264d80b6481a66342ce77ffd0bf1a392343",
 		"game": "iidx",
-		"inactive": false,
+		"inactive": true,
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 9 (Epolis Omnimix)",
@@ -29761,6 +30150,19 @@
 		"playtype": "SP",
 		"searchTerms": [],
 		"title": "Level 9 (PENDUAL)",
+		"type": "charts"
+	},
+	{
+		"data": {
+			"level": "9",
+			"versions": "32-omni"
+		},
+		"folderID": "F70c7a7b53d91ba7870e7a5dac3986545c5796f4b4000e6d266a010140b2b3560",
+		"game": "iidx",
+		"inactive": false,
+		"playtype": "SP",
+		"searchTerms": [],
+		"title": "Level 9 (Pinky Crush Omnimix)",
 		"type": "charts"
 	},
 	{
