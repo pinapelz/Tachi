@@ -13,16 +13,21 @@ export default function USCDifficultyCell({
 }: {
 	chart: ChartDocument<"usc:Controller" | "usc:Keyboard">;
 }) {
+	// For official charts, show "DIFFICULTY LEVEL" (e.g. "HD 15")
+	// For community charts, show the table name(s)
+	// If no info exists, show "(Uncategorized)"
 	const levelText = chart.data.isOfficial
-		? `${chart.difficulty} ${chart.level}`
-		: FormatTables(chart.data.tableFolders);
+		? `${chart.difficulty} ${chart.level || ""}`.trim()
+		: FormatTables(chart.data.tableFolders) || "(Custom)";
 
 	const gptImpl = GPT_CLIENT_IMPLEMENTATIONS[
 		`usc:${chart.playtype}`
 	] as GPTClientImplementation<"usc:Controller">;
 
 	const bgColour = ChangeOpacity(
-		chart.data.isOfficial ? gptImpl.difficultyColours[chart.difficulty]! : COLOUR_SET.teal,
+		chart.data.isOfficial
+			? gptImpl.difficultyColours[chart.difficulty]! 
+			: COLOUR_SET.teal,
 		0.2
 	);
 
