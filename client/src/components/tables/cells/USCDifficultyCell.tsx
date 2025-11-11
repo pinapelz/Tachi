@@ -19,7 +19,7 @@ export default function USCDifficultyCell({
 	const levelText = chart.data.isOfficial
 		? `${chart.difficulty} ${chart.level || ""}`.trim()
 		: [
-				FormatTables(chart.data.tableFolders) || "(Custom)",
+				FormatTables(chart.data.tableFolders) || "(C) ",
 				chart.level ? chart.level : null,
 		  ]
 				.filter(Boolean)
