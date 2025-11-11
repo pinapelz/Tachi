@@ -14,11 +14,16 @@ export default function USCDifficultyCell({
 	chart: ChartDocument<"usc:Controller" | "usc:Keyboard">;
 }) {
 	// For official charts, show "DIFFICULTY LEVEL" (e.g. "HD 15")
-	// For community charts, show the table name(s)
-	// If no info exists, show "(Uncategorized)"
+	// For community charts, show table name(s) + level (e.g. "Custom Table 13.5")
+	// If no info exists, show "(Custom)"
 	const levelText = chart.data.isOfficial
 		? `${chart.difficulty} ${chart.level || ""}`.trim()
-		: FormatTables(chart.data.tableFolders) || "(Custom)";
+		: [
+				FormatTables(chart.data.tableFolders) || "(Custom)",
+				chart.level ? chart.level : null,
+		  ]
+				.filter(Boolean)
+				.join(" ");
 
 	const gptImpl = GPT_CLIENT_IMPLEMENTATIONS[
 		`usc:${chart.playtype}`
@@ -26,7 +31,7 @@ export default function USCDifficultyCell({
 
 	const bgColour = ChangeOpacity(
 		chart.data.isOfficial
-			? gptImpl.difficultyColours[chart.difficulty]! 
+			? gptImpl.difficultyColours[chart.difficulty]!
 			: COLOUR_SET.teal,
 		0.2
 	);
