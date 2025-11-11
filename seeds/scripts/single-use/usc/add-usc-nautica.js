@@ -31,7 +31,7 @@ const getFreshSongID = GetFreshSongIDGenerator("usc");
 const log = DEBUG ? console.log : () => undefined;
 
 function makeUscEditionName(title, artist) {
-	return `${title} (${artist} USC Edition)`;
+	return `${title} (${artist} Nautica Edition)`;
 }
 
 for (const chart of dbRows) {
@@ -69,7 +69,8 @@ for (const chart of dbRows) {
 			log(`Added song ${songID} for folder ${folderName}.`);
 		} else {
 			// duplicate name/artist → make USC Edition
-			const uscTitle = makeUscEditionName(chart.title, chart.artist);
+			const effectorName = chart.effector ? chart.effector : "Unknown Effector";
+			const uscTitle = makeUscEditionName(chart.title, effectorName);
 
 			const existingUsc = songs.find((s) => s.title === uscTitle && s.artist === chart.artist);
 			if (existingUsc) {
@@ -140,4 +141,3 @@ console.log(`Added ${newSongs} new songs and ${newCharts} new charts.`);
 
 WriteCollection("songs-usc.json", songs);
 WriteCollection("charts-usc.json", charts);
-
