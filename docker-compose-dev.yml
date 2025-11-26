@@ -3,7 +3,7 @@ services:
     container_name: mongo
     command: "--config /etc/mongod.conf"
     image: mongo:5
-    restart: unless-stopped
+    restart: always
     ports:
       - "27017:27017"
     volumes:
@@ -24,9 +24,10 @@ services:
     tty: true
     container_name: tachi-dev
     build:
+      context: .
       dockerfile: Dockerfile.dev
     ports:
-      - "8080:8080" # server
+      - "8085:8080" # server
       - "3000:3000" # client
       - "3001:3001" # docs
     volumes:
@@ -36,7 +37,9 @@ services:
       # don't let pnpm's node_modules linkery bleed out of its container
       - /tachi/node_modules/
       - /tachi/.pnpm-store
-
+    working_dir: /tachi/server
+    command: /bin/sh -c "pnpm install && pnpm start --host 0.0.0.0"
+    restart: always
 volumes:
   tachi-volume:
   tachi-redis:

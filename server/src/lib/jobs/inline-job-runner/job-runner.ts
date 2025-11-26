@@ -22,51 +22,46 @@ const jobs: Array<Job> = [
 		cronFormat: "0 0 * * *",
 		run: UGSSnapshot,
 	},
-	{
-		name: "De-Orphan Scores",
-
-		// We run an hour after snapshotting UGS
-		// just to spread load out a bit.
-		cronFormat: "1 0 * * *",
-		run: DeorphanScoresMain,
-	},
 ];
 
-// if kamaitachi or omnitachi
-if (TachiConfig.TYPE !== "boku") {
-	jobs.push({
-		name: "Update BPI",
-		cronFormat: "2 0 * * *",
-		run: UpdatePoyashiData,
-	});
+// using directly from upstream. so no point in us running some of this
 
-	jobs.push({
-		name: "Update DP Tiers",
-		cronFormat: "3 0 * * *",
-		run: UpdateDPTiers,
-	});
-}
+// // if kamaitachi or omnitachi
+// if (TachiConfig.TYPE !== "boku") {
+// 	jobs.push({
+// 		name: "Update BPI",
+// 		cronFormat: "2 0 * * *",
+// 		run: UpdatePoyashiData,
+// 	});
 
-// if bokutachi or omnitachi
+// 	jobs.push({
+// 		name: "Update DP Tiers",
+// 		cronFormat: "3 0 * * *",
+// 		run: UpdateDPTiers,
+// 	});
+// }
+
+// // if bokutachi or omnitachi. eh why not
 if (TachiConfig.TYPE !== "kamai") {
 	jobs.push({
 		name: "Update AI Table",
 		cronFormat: "2 0 * * *",
 		run: UpdateAILevels,
 	});
-
-	jobs.push({
-		name: "Update Tables",
-		cronFormat: "3 0 * * *",
-		run: SyncBMSTables,
-	});
-
-	jobs.push({
-		name: "Backsync BMS + PMS",
-		cronFormat: "4 0 * * *",
-		run: BacksyncBMSPMSSongsAndCharts,
-	});
 }
+
+// 	jobs.push({
+// 		name: "Update Tables",
+// 		cronFormat: "3 0 * * *",
+// 		run: SyncBMSTables,
+// 	});
+
+// 	jobs.push({
+// 		name: "Backsync BMS + PMS",
+// 		cronFormat: "4 0 * * *",
+// 		run: BacksyncBMSPMSSongsAndCharts,
+// 	});
+// }
 
 const logger = CreateLogCtx("JOB_RUNNER");
 
