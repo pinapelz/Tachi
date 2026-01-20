@@ -534390,5 +534390,4037 @@
 		"playtype": "Keyboard",
 		"songID": 9494,
 		"versions": []
+	},
+	{
+		"chartID": "7e20c2139673bffe22151aa714de6e21b6372281",
+		"data": {
+			"effector": "Nine*GeeOne",
+			"hashSHA1": "1bbebce4efc2d232d2c4a8b64a02c2eb03f5c68f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9495,
+		"versions": []
+	},
+	{
+		"chartID": "1367ce47991657e29c4b453e33ccf8af7a0bb546",
+		"data": {
+			"effector": "Nine*GeeOne",
+			"hashSHA1": "1bbebce4efc2d232d2c4a8b64a02c2eb03f5c68f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9495,
+		"versions": []
+	},
+	{
+		"chartID": "6c3aa7dd31b4910e98ce6b5422c87218925bcb7f",
+		"data": {
+			"effector": "G11K with Fantasisters",
+			"hashSHA1": "3b934527a2f0074360df93c511dc2f60647ec049",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9496,
+		"versions": []
+	},
+	{
+		"chartID": "9805d244d74d50b4a5aab7137bd8585559f12f41",
+		"data": {
+			"effector": "G11K with Fantasisters",
+			"hashSHA1": "3b934527a2f0074360df93c511dc2f60647ec049",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9496,
+		"versions": []
+	},
+	{
+		"chartID": "123a2a6e73a3bbbb414a9afdffe97171d0ee7b78",
+		"data": {
+			"effector": "PPΞI",
+			"hashSHA1": "7646f055f9cab40695c3bb23747aa7a72b7ceb64",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9497,
+		"versions": []
+	},
+	{
+		"chartID": "135c3c7f6eb0d27f81d5bec959ccdff2864976bd",
+		"data": {
+			"effector": "Re：PPXIAI",
+			"hashSHA1": "b5eb80b4537e49a848f7885ef35b45f36dd94e8f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9497,
+		"versions": []
+	},
+	{
+		"chartID": "990e91bb95fb9a3b5cb173a462d4e67a16e50e0c",
+		"data": {
+			"effector": "PPΞI",
+			"hashSHA1": "7646f055f9cab40695c3bb23747aa7a72b7ceb64",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9497,
+		"versions": []
+	},
+	{
+		"chartID": "cda22f795be91536175dfcc8c7cfaf12b74b1592",
+		"data": {
+			"effector": "Re：PPXIAI",
+			"hashSHA1": "b5eb80b4537e49a848f7885ef35b45f36dd94e8f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9497,
+		"versions": []
+	},
+	{
+		"chartID": "22279cb3a5e9896903a3aebf5523d7532b7f5157",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "69d1268e371d0b52bfc634abc9eb6f7b29416b95",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9498,
+		"versions": []
+	},
+	{
+		"chartID": "3c639f37086e757eb8b131f802971415c6be8bbb",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "69d1268e371d0b52bfc634abc9eb6f7b29416b95",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9498,
+		"versions": []
+	},
+	{
+		"chartID": "26f44d8d71ef0f98bed9665a27a05d543f332d61",
+		"data": {
+			"effector": "Nekocute",
+			"hashSHA1": "2aab28f0847b671b966b680b3ab58187993cd18c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9499,
+		"versions": []
+	},
+	{
+		"chartID": "e6875b7c501e726aedceec7ccb0bfd1f963342d0",
+		"data": {
+			"effector": "Nekocute",
+			"hashSHA1": "d6689764c25fb8583da60f6b126f89454321ccad",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9499,
+		"versions": []
+	},
+	{
+		"chartID": "a88a5661541ace4de9dacbfafe92b580e88d2f74",
+		"data": {
+			"effector": "Nekocute",
+			"hashSHA1": "2aab28f0847b671b966b680b3ab58187993cd18c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9499,
+		"versions": []
+	},
+	{
+		"chartID": "54ca4a5e52232ac8cc2dbbbb336c2e6ff39dccaa",
+		"data": {
+			"effector": "Nekocute",
+			"hashSHA1": "d6689764c25fb8583da60f6b126f89454321ccad",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9499,
+		"versions": []
+	},
+	{
+		"chartID": "6e95ac7056035917083673300f594425200126c5",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "b3da375a054f7833093574d9059dd3beee2abe13",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "f3066760e6d0320900698643f4eb2cc82993d921",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "0d5f683acbec5f6bb63f5ecc26937e18822a8adf",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "6ec19bb159f551cfebb75997b6e079798e99a8de",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "65032ab8c5650ee3d5cbf54042a50ff3cf1f100f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "22433e66a04eb16a717fb816f3f65ac0d97a12ed",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "457f19e5ea28d98f19ee8c6cfc1eab2180e3aa03",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "5",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "6b735c9dace2c4f067305fd6916c4e0d45952200",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "b3da375a054f7833093574d9059dd3beee2abe13",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "82b74858ed20b0270655d6ac9f85ae5035f56ea3",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "0d5f683acbec5f6bb63f5ecc26937e18822a8adf",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "420fa49b5e9cc83c444157b1b2705e98497cd90d",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "65032ab8c5650ee3d5cbf54042a50ff3cf1f100f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "4665f1c34fe21eb39f3a7c6ed23ec6b3f57c8f2c",
+		"data": {
+			"effector": "DJ IXI",
+			"hashSHA1": "457f19e5ea28d98f19ee8c6cfc1eab2180e3aa03",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "5",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9500,
+		"versions": []
+	},
+	{
+		"chartID": "f35f03d2e2ff96e1f61788a88f67431a26831965",
+		"data": {
+			"effector": "FY v.s. Table",
+			"hashSHA1": "550c55b161a2eb4efa443f885805c59f502f2233",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9501,
+		"versions": []
+	},
+	{
+		"chartID": "0851fb9cf56b9ec2bc9b7718cb4a96a994670787",
+		"data": {
+			"effector": "FY v.s. Table",
+			"hashSHA1": "550c55b161a2eb4efa443f885805c59f502f2233",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9501,
+		"versions": []
+	},
+	{
+		"chartID": "be8e2a410f777e6bae1269932c343a1b0ed52898",
+		"data": {
+			"effector": "URSARING",
+			"hashSHA1": "eb0e579971816a64d57d1e7205f0dca0c07d4bbe",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9502,
+		"versions": []
+	},
+	{
+		"chartID": "47b9c35490828a68ecc45e15b38132e2c2a4feee",
+		"data": {
+			"effector": "URSARING",
+			"hashSHA1": "eb0e579971816a64d57d1e7205f0dca0c07d4bbe",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9502,
+		"versions": []
+	},
+	{
+		"chartID": "98e926420c20cf5c8f0a8916e39482cb63ca364c",
+		"data": {
+			"effector": "XxdbxX",
+			"hashSHA1": "355bd0c241ae717e8589789706cf925e5d2a11f2",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9503,
+		"versions": []
+	},
+	{
+		"chartID": "9fc126d3568cf9b39946fa51449a9a7dc97c77aa",
+		"data": {
+			"effector": "XxdbxX",
+			"hashSHA1": "355bd0c241ae717e8589789706cf925e5d2a11f2",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9503,
+		"versions": []
+	},
+	{
+		"chartID": "cd5f40b88273558106e39453fb1ae90d2b00100b",
+		"data": {
+			"effector": "Luna -corrupted-",
+			"hashSHA1": "ffa6f51152df0fd87ec51c0fdfa0d71be4bb8249",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9504,
+		"versions": []
+	},
+	{
+		"chartID": "cd6cb38ca5906e101670466044000ceacbdd7516",
+		"data": {
+			"effector": "Luna -corrupted-",
+			"hashSHA1": "ffa6f51152df0fd87ec51c0fdfa0d71be4bb8249",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9504,
+		"versions": []
+	},
+	{
+		"chartID": "15328093195d3dcf392e38955bdae0f2b7d17c24",
+		"data": {
+			"effector": "理想の器、満つらざるとも屈せず。 -SP-",
+			"hashSHA1": "74826b06f0c03c5f9513fc23ca5b4e459379b220",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "10",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9505,
+		"versions": []
+	},
+	{
+		"chartID": "9d9f636e5aa3fc9807332396497a4fff094675fc",
+		"data": {
+			"effector": "これ、后悔とともに死すこと无し。 -SP-",
+			"hashSHA1": "6daa611636cd543e2c4a99d03339ce6d182bc9d2",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9505,
+		"versions": []
+	},
+	{
+		"chartID": "65e0fd0b9248e94865d3dc66363efca64ac4e2ed",
+		"data": {
+			"effector": "我、生きずして死すこと无し。 -SP-",
+			"hashSHA1": "9c3798b51e5a784151cfee976fc95945dc5a0f1d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "2",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9505,
+		"versions": []
+	},
+	{
+		"chartID": "3682cbfe91f09dec2afdecf69656cf50d328f50e",
+		"data": {
+			"effector": "理想の器、満つらざるとも屈せず。 -SP-",
+			"hashSHA1": "74826b06f0c03c5f9513fc23ca5b4e459379b220",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "10",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9505,
+		"versions": []
+	},
+	{
+		"chartID": "b3009dd22da199b3966f3799d6e29c45dcf6dd8b",
+		"data": {
+			"effector": "これ、后悔とともに死すこと无し。 -SP-",
+			"hashSHA1": "6daa611636cd543e2c4a99d03339ce6d182bc9d2",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9505,
+		"versions": []
+	},
+	{
+		"chartID": "5fca79e255eac82fe2ec40165b7036bb70ede604",
+		"data": {
+			"effector": "我、生きずして死すこと无し。 -SP-",
+			"hashSHA1": "9c3798b51e5a784151cfee976fc95945dc5a0f1d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "2",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9505,
+		"versions": []
+	},
+	{
+		"chartID": "8a3fd8fea1b4e6cefba38f2c11d9cedd9bcd8245",
+		"data": {
+			"effector": "P3P",
+			"hashSHA1": "2518afed91e77c5b4ee2bd76de4e8c03d782dffb",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9506,
+		"versions": []
+	},
+	{
+		"chartID": "58a11a803eeb3ef38c38038a62363f8a6a6d40d2",
+		"data": {
+			"effector": "P3P",
+			"hashSHA1": "f2f06d51acf99c46dc04075110ae768b63726c6f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9506,
+		"versions": []
+	},
+	{
+		"chartID": "ed720f1bb78ea249f6929d6f26dec42ded3e7a3c",
+		"data": {
+			"effector": "P3P",
+			"hashSHA1": "2518afed91e77c5b4ee2bd76de4e8c03d782dffb",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9506,
+		"versions": []
+	},
+	{
+		"chartID": "f2ad6a534e86be769b50fa2436d05372fa0fef12",
+		"data": {
+			"effector": "P3P",
+			"hashSHA1": "f2f06d51acf99c46dc04075110ae768b63726c6f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9506,
+		"versions": []
+	},
+	{
+		"chartID": "96fc66f703754703d52a531ecb74507a2306c969",
+		"data": {
+			"effector": "TearsD inspired by Speedrave",
+			"hashSHA1": "f037f09dcf2d81e5d8710457de4a5c89d42ebf77",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9507,
+		"versions": []
+	},
+	{
+		"chartID": "d0abbb6ae4cd539dd07c3951936531d98ee7ed36",
+		"data": {
+			"effector": "TearsD inspired by Speedrave",
+			"hashSHA1": "f037f09dcf2d81e5d8710457de4a5c89d42ebf77",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9507,
+		"versions": []
+	},
+	{
+		"chartID": "ce2d17c94a8730277a6125326716de1285770e04",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "eb3ad3f128fcb056b36bb189d84d76f297ae2e55",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "11",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "604817035e617d8421e77f0ae7090463b01690e7",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "3b59e471d30546958a7383cdff2cf40bc21d6dd7",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "9c7d8252dfa7e2df8e7d6ef74598b27a462a6f0f",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "170c8d1fd3a3f355939e3d8fa75de583ed919ae8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "b0bb2ecad184cf3d18115d1e8ea4ecb9afbb6c96",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "9fadae5516c641be20875c4f11464f7c4746aea1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "4",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "ec6dccddd4626c14495ea294009b91358a00a0b3",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "eb3ad3f128fcb056b36bb189d84d76f297ae2e55",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "11",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "44cd663a5a9ef13dc73eee3f5ed740405a0f2e8f",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "3b59e471d30546958a7383cdff2cf40bc21d6dd7",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "5e25b0d87bec581af538a830120c32f411158c47",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "170c8d1fd3a3f355939e3d8fa75de583ed919ae8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "565c81366d610dcd6e2c1e19f609f7b20ed2c4dd",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "9fadae5516c641be20875c4f11464f7c4746aea1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "4",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9508,
+		"versions": []
+	},
+	{
+		"chartID": "53f2c9577e45c1e3c0f25f78dbf7d5a659430456",
+		"data": {
+			"effector": "YUKIM0RI2",
+			"hashSHA1": "87e8dd4a1439eefa5af24fae5ca83cd4f49b0803",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9509,
+		"versions": []
+	},
+	{
+		"chartID": "8a203aff3d7671f5b60a94548af422a4c8211719",
+		"data": {
+			"effector": "YUKIM0RI2",
+			"hashSHA1": "87e8dd4a1439eefa5af24fae5ca83cd4f49b0803",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9509,
+		"versions": []
+	},
+	{
+		"chartID": "d90579816bcba4e6a4ef6be62781688baa6582d6",
+		"data": {
+			"effector": "Canonico",
+			"hashSHA1": "9d8ec061f30f5c7d65618b733fa064d0dbf6ef09",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9510,
+		"versions": []
+	},
+	{
+		"chartID": "7f786b062e1aec37e8438cb2603fbf67ebd64d68",
+		"data": {
+			"effector": "Canonico",
+			"hashSHA1": "9d8ec061f30f5c7d65618b733fa064d0dbf6ef09",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9510,
+		"versions": []
+	},
+	{
+		"chartID": "0a4be6e36d6b4da811acaacab8e5c76023af9f92",
+		"data": {
+			"effector": "Rushi feat. 25",
+			"hashSHA1": "b6a494a560e19ac7a8b20b4b1dd0ece503f1f78c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9511,
+		"versions": []
+	},
+	{
+		"chartID": "51c6afeb5a4d9b46c5bd4c8356e733dae604691c",
+		"data": {
+			"effector": "Rushi feat. 25",
+			"hashSHA1": "b6a494a560e19ac7a8b20b4b1dd0ece503f1f78c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9511,
+		"versions": []
+	},
+	{
+		"chartID": "7fdc4e30bc82411875e4cefc4d25442938636d36",
+		"data": {
+			"effector": "IAE",
+			"hashSHA1": "fc26f34013766aaf0efac8e85e49f257680bba98",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9512,
+		"versions": []
+	},
+	{
+		"chartID": "ea1112415c1ab67abcbb67dd0bbb4be52d24d38b",
+		"data": {
+			"effector": "IAE",
+			"hashSHA1": "fc26f34013766aaf0efac8e85e49f257680bba98",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9512,
+		"versions": []
+	},
+	{
+		"chartID": "cf72676e5b6d30adf0878f7a20e4a457e2447185",
+		"data": {
+			"effector": "Xmoldog",
+			"hashSHA1": "b01efccd6ee641da533d67612698cc4f88cdcbd2",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9513,
+		"versions": []
+	},
+	{
+		"chartID": "314ca32e3c502ac0caae27f6b42458d2062a057b",
+		"data": {
+			"effector": "Xmoldog",
+			"hashSHA1": "b01efccd6ee641da533d67612698cc4f88cdcbd2",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9513,
+		"versions": []
+	},
+	{
+		"chartID": "78291e3ed8cd454462b607d9e4382add12e62376",
+		"data": {
+			"effector": "9*G1",
+			"hashSHA1": "fdc216718c4df23579eb5386607fb0edf4ee3ab8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9514,
+		"versions": []
+	},
+	{
+		"chartID": "1a890422979a3f48d9b30b3ab8539f48c449a675",
+		"data": {
+			"effector": "9*G1",
+			"hashSHA1": "fdc216718c4df23579eb5386607fb0edf4ee3ab8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9514,
+		"versions": []
+	},
+	{
+		"chartID": "1d729e0f42917dd72f28a2354dcd5c111a2d27ec",
+		"data": {
+			"effector": "YuR1N-K (Yur1n + RIN-K)",
+			"hashSHA1": "ac25f025f9855732f2455550bb8342f710554b09",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9515,
+		"versions": []
+	},
+	{
+		"chartID": "96ac11b8cbb0963e8d0aab0051d53b71af7b4965",
+		"data": {
+			"effector": "YuR1N-K (Yur1n + RIN-K)",
+			"hashSHA1": "ac25f025f9855732f2455550bb8342f710554b09",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9515,
+		"versions": []
+	},
+	{
+		"chartID": "4bbc3c03ab4298000f8353059c1392f6e51c8541",
+		"data": {
+			"effector": "RIN-JyK (RIN-K x JuYun)",
+			"hashSHA1": "0a5c253aa5929b197b78cb25709a17aa379c24fa",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9516,
+		"versions": []
+	},
+	{
+		"chartID": "2dd84bed7941d80ff51b57d342df52a1d6891149",
+		"data": {
+			"effector": "RIN-JyK (RIN-K x JuYun)",
+			"hashSHA1": "0a5c253aa5929b197b78cb25709a17aa379c24fa",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9516,
+		"versions": []
+	},
+	{
+		"chartID": "2c3e099371a12bf55ce87275692ce2353c810b22",
+		"data": {
+			"effector": "Table vs M200",
+			"hashSHA1": "9a3bdbf06246b3955566d7d20b6aa1ff64b574a6",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9517,
+		"versions": []
+	},
+	{
+		"chartID": "ac5c6af64dc72b2af455c6b4bcf9c6bd2e138917",
+		"data": {
+			"effector": "Table vs M200",
+			"hashSHA1": "9a3bdbf06246b3955566d7d20b6aa1ff64b574a6",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9517,
+		"versions": []
+	},
+	{
+		"chartID": "e36c2f3887d8ca0ccaed1d437290fc4c23dd2fbf",
+		"data": {
+			"effector": "YUKIM0RI2",
+			"hashSHA1": "48c83132e9f35ce0cee272f43f211e9c963e4230",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9518,
+		"versions": []
+	},
+	{
+		"chartID": "96a574968ff53d25ee8bc3482b4c990202cc76ec",
+		"data": {
+			"effector": "YUKIM0RI2",
+			"hashSHA1": "48c83132e9f35ce0cee272f43f211e9c963e4230",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9518,
+		"versions": []
+	},
+	{
+		"chartID": "fb09dfa3dc7afa3ac05b2e3c9370545cc4414722",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "7c6bfe1281675092305a4273f46a18dabafe1eb7",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9519,
+		"versions": []
+	},
+	{
+		"chartID": "448b79c8aa057b98d6ada51e97ca12da78828c22",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "7c6bfe1281675092305a4273f46a18dabafe1eb7",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9519,
+		"versions": []
+	},
+	{
+		"chartID": "bdc74217abf92ce3ddd0e9d69af7fc9199c94238",
+		"data": {
+			"effector": "ME.ARi",
+			"hashSHA1": "95bb705851382105916b5eda970ec6f9e9adc9a0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9520,
+		"versions": []
+	},
+	{
+		"chartID": "feeab2df3087102915701eb378b92576ac256562",
+		"data": {
+			"effector": "ME.ARi",
+			"hashSHA1": "95bb705851382105916b5eda970ec6f9e9adc9a0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9520,
+		"versions": []
+	},
+	{
+		"chartID": "1d9b6037dfe0285f0aa60769a7d218524d56ba20",
+		"data": {
+			"effector": "ME.ARi + lsm",
+			"hashSHA1": "35b388e3eada360b73f9c573139bc8022bbb5505",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9521,
+		"versions": []
+	},
+	{
+		"chartID": "be63accf3f72f9b64173031362d2f2c225367726",
+		"data": {
+			"effector": "ME.ARi + lsm",
+			"hashSHA1": "35b388e3eada360b73f9c573139bc8022bbb5505",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9521,
+		"versions": []
+	},
+	{
+		"chartID": "cc379f418d548981f41f26eff04f47d5fd7b360c",
+		"data": {
+			"effector": "EMERALDhee",
+			"hashSHA1": "87575a3114efae86b02221010e6fe07ea8cf093c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9522,
+		"versions": []
+	},
+	{
+		"chartID": "53a0df996f75a49245a054a02c4056eeaf405b3d",
+		"data": {
+			"effector": "EMERALDhee",
+			"hashSHA1": "87575a3114efae86b02221010e6fe07ea8cf093c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9522,
+		"versions": []
+	},
+	{
+		"chartID": "9bc049d0348ba9fae5b720aedc7114bf5fe274ed",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "f44b1e54b35f0cf5210e450285be183a68b99db0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "3ba0db9e8d3826c8ad4dfc3edf8135169600d669",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "a7e413d87bbbfaac1854c7edf88e0a1df301a8f4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "16",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "e234ddbfadcf4493100590ae67952468d69cdcc1",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "3a2c959eefcdef33841c6accc7dd802086e7d659",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "6e326d4b0ccb9811c1ead494172cd5fd3c0ba88a",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "9470ca8c5a22ab9adafd00a69ec9e774a2440ebe",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "6",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "923911f373bc74951bfda76da935541d989250eb",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "f44b1e54b35f0cf5210e450285be183a68b99db0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "0a4aad9c7da94cade4532e710868934febcf87e1",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "a7e413d87bbbfaac1854c7edf88e0a1df301a8f4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "16",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "ab3eb22492f7639fd7c01300fe3687d0ffd9d405",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "3a2c959eefcdef33841c6accc7dd802086e7d659",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "d199a8a3d521cdec838f77c0031b9655b10dccea",
+		"data": {
+			"effector": "A-A-RON",
+			"hashSHA1": "9470ca8c5a22ab9adafd00a69ec9e774a2440ebe",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "6",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9523,
+		"versions": []
+	},
+	{
+		"chartID": "da67446c512b94994d374fd0589a8bba56f522da",
+		"data": {
+			"effector": "SpaceCat739",
+			"hashSHA1": "246b17a8dbb29b4a3f160fd419b1fb1f52d9c904",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9524,
+		"versions": []
+	},
+	{
+		"chartID": "421b926617784730e547f9af3bc184c1e1985b83",
+		"data": {
+			"effector": "SpaceCat739",
+			"hashSHA1": "246b17a8dbb29b4a3f160fd419b1fb1f52d9c904",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9524,
+		"versions": []
+	},
+	{
+		"chartID": "e073fef3017489e7a14951e677322c63f255e38f",
+		"data": {
+			"effector": "waran k1 feat.ME.ARi",
+			"hashSHA1": "86a6e468dd79083b01e0872b679877b0426fc9bc",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9525,
+		"versions": []
+	},
+	{
+		"chartID": "132fff4605f59a0fcffebef1a9e645c5120a96f1",
+		"data": {
+			"effector": "waran k1 feat.ME.ARi",
+			"hashSHA1": "86a6e468dd79083b01e0872b679877b0426fc9bc",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9525,
+		"versions": []
+	},
+	{
+		"chartID": "6ce7b9a65f4c98d554f0452f7069604b2607f727",
+		"data": {
+			"effector": "Juyun",
+			"hashSHA1": "5a636cbadc2970aaa111c30e4e27e54c2b1f4fed",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9526,
+		"versions": []
+	},
+	{
+		"chartID": "828d58994352d372b321d689173a2d13455760c6",
+		"data": {
+			"effector": "Juyun",
+			"hashSHA1": "5a636cbadc2970aaa111c30e4e27e54c2b1f4fed",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9526,
+		"versions": []
+	},
+	{
+		"chartID": "39c0b8a02ed7c462124f01cc9e46c1a3984a48b9",
+		"data": {
+			"effector": "@anD#2e",
+			"hashSHA1": "3b78310950842270414424ce3e381be853913857",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9527,
+		"versions": []
+	},
+	{
+		"chartID": "587280123e156776ac2b8e638280203018b54563",
+		"data": {
+			"effector": "@anD#2e",
+			"hashSHA1": "3b78310950842270414424ce3e381be853913857",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9527,
+		"versions": []
+	},
+	{
+		"chartID": "bff89729d89f16d4d596cd4348d359b2a7bc497a",
+		"data": {
+			"effector": "Fixed",
+			"hashSHA1": "2129bdfe429cea3eb8efacb60c19d34a66274341",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9528,
+		"versions": []
+	},
+	{
+		"chartID": "959fda76c23b1e5fc62e49cb5dbae9039c770005",
+		"data": {
+			"effector": "Fixed",
+			"hashSHA1": "2129bdfe429cea3eb8efacb60c19d34a66274341",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9528,
+		"versions": []
+	},
+	{
+		"chartID": "10e6d9d252b60d98ce21ac1b145810b012137b6f",
+		"data": {
+			"effector": "lsm",
+			"hashSHA1": "a08136fa2f918042beea491340a9c7f18c546de1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9529,
+		"versions": []
+	},
+	{
+		"chartID": "21b6b329c373abc3ce349c40fbc7cbcf9dd53aa5",
+		"data": {
+			"effector": "lsm",
+			"hashSHA1": "a08136fa2f918042beea491340a9c7f18c546de1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9529,
+		"versions": []
+	},
+	{
+		"chartID": "12cc6fc14c14547099923f58fec3050b77557e54",
+		"data": {
+			"effector": "Table",
+			"hashSHA1": "207eb67c19402fe011212b78eb30ef2b611d119a",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9530,
+		"versions": []
+	},
+	{
+		"chartID": "b817f8acb9a49c29df5954ba30e5ee0efc782aaa",
+		"data": {
+			"effector": "Table",
+			"hashSHA1": "207eb67c19402fe011212b78eb30ef2b611d119a",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9530,
+		"versions": []
+	},
+	{
+		"chartID": "b7abb04024bbcdf5e3c4e1e4e183dc67e937d0a5",
+		"data": {
+			"effector": "Verlexin",
+			"hashSHA1": "8f2740f65453d4771d6e28db50548c1f5d98102e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9531,
+		"versions": []
+	},
+	{
+		"chartID": "ad1f94e8e4f34309d76a607224e0c220eaf88efd",
+		"data": {
+			"effector": "Verlexin",
+			"hashSHA1": "8f2740f65453d4771d6e28db50548c1f5d98102e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9531,
+		"versions": []
+	},
+	{
+		"chartID": "e1ad27dd5f50c8f9955e86a63e08204917a2f38d",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "11f5074936d70af793127d21db9f2d5c64e6e50c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "6180fc0e83aae391d1690ff260100fd95e867a57",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "52056ed01004139f694d37b9e17e47257c549d10",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "e882376c1f5f401becf8fcccaa3592915d356eb6",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "4c37ff0f2b4fef581fdd1a8f7f3a4e90eb9a3dd0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "59170a86eebef7638156cd1a0f5b1fe5cddf2da4",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "3f6d1f569b3212abd38bb5fd2abe8f0c64bf9e6e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "5",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "bd242e55531b27fd9c3c352fe9d9546811bee9f6",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "11f5074936d70af793127d21db9f2d5c64e6e50c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "12",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "616b1e6f06384de5f51e1d6b9ed7dad6ea09d368",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "52056ed01004139f694d37b9e17e47257c549d10",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "15",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "a35273e3ad005c69f272feeeb2e3c643cff11769",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "4c37ff0f2b4fef581fdd1a8f7f3a4e90eb9a3dd0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "d49c28d32251c19e23d416c8b0a9390565912c40",
+		"data": {
+			"effector": "P3P since 20210410",
+			"hashSHA1": "3f6d1f569b3212abd38bb5fd2abe8f0c64bf9e6e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "5",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9532,
+		"versions": []
+	},
+	{
+		"chartID": "3cbbcd6dee5dc461df8a201178866a77cac57acc",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "7f986f9b7a047a872f29d56867f3c3a50b39ae0e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9533,
+		"versions": []
+	},
+	{
+		"chartID": "23f1ae7b64b6541db860140814702e5e83d41555",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "7f986f9b7a047a872f29d56867f3c3a50b39ae0e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9533,
+		"versions": []
+	},
+	{
+		"chartID": "c1ec1b4a878104f22958852191a4513b9832c52f",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "2e26b82b962f984fac3f493a9e0e257ddbec7382",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9534,
+		"versions": []
+	},
+	{
+		"chartID": "c76d6e62661f87a6c26e4d32e55c0292a049b4aa",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "2e26b82b962f984fac3f493a9e0e257ddbec7382",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9534,
+		"versions": []
+	},
+	{
+		"chartID": "399165c2fb763a45987849921b58057c9b6e1907",
+		"data": {
+			"effector": "R25",
+			"hashSHA1": "c6e7ad5c53f10577a71679ea77588c7eeb96573c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9535,
+		"versions": []
+	},
+	{
+		"chartID": "988bb58b874754adfb0e791d2f51bfc3e86eed83",
+		"data": {
+			"effector": "R25",
+			"hashSHA1": "c6e7ad5c53f10577a71679ea77588c7eeb96573c",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9535,
+		"versions": []
+	},
+	{
+		"chartID": "847e9a7319b6fe031dd175d5a117654c9b1e8e27",
+		"data": {
+			"effector": "ooz",
+			"hashSHA1": "268e9d1797d0a57d10895f2db0f7495dd1c43fc5",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9536,
+		"versions": []
+	},
+	{
+		"chartID": "bbf5afd341f1a80ecfd9b1d09e46ca890c6e6afc",
+		"data": {
+			"effector": "ooz",
+			"hashSHA1": "268e9d1797d0a57d10895f2db0f7495dd1c43fc5",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9536,
+		"versions": []
+	},
+	{
+		"chartID": "919a0ae4e79064c8e084b690f05e5b3f019f8635",
+		"data": {
+			"effector": "Lucy vs Hyeon",
+			"hashSHA1": "ea3bd2b0acdc90f09b9d1aa9251e85853948e722",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9537,
+		"versions": []
+	},
+	{
+		"chartID": "20320c1b3eadb4cc39049190504746f8a8d0e488",
+		"data": {
+			"effector": "Lucy vs Hyeon",
+			"hashSHA1": "ea3bd2b0acdc90f09b9d1aa9251e85853948e722",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9537,
+		"versions": []
+	},
+	{
+		"chartID": "c69d11ffe9a289f4c4dc92ff10c44f2fdedb032d",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "84bff5ae5bffbf48fb73cdeb5c5b4ae610a4007d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9538,
+		"versions": []
+	},
+	{
+		"chartID": "77a148e6cbc4ea8c0f019b77a39a0f290317df22",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "84bff5ae5bffbf48fb73cdeb5c5b4ae610a4007d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9538,
+		"versions": []
+	},
+	{
+		"chartID": "c4e71e196262d30b8c0a334ad674ca9798bc6a92",
+		"data": {
+			"effector": "PP★I",
+			"hashSHA1": "1f14f7185392c4ae32730109188d99f60502bd0f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9539,
+		"versions": []
+	},
+	{
+		"chartID": "f74592174ac96cf319c286be2483a0206fb8c3e6",
+		"data": {
+			"effector": "PP★I",
+			"hashSHA1": "1f14f7185392c4ae32730109188d99f60502bd0f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9539,
+		"versions": []
+	},
+	{
+		"chartID": "171eddf0e2f2e815db72e48494ab597dfe5bc935",
+		"data": {
+			"effector": "Return to Blue \"廠3PvsWhiteﾜｼ7\"",
+			"hashSHA1": "e6a5587f7e6d757f30315459bcc25bcf2e7337ad",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9540,
+		"versions": []
+	},
+	{
+		"chartID": "60cc84d9e31931d6811fd9b1d10def06344860a8",
+		"data": {
+			"effector": "Return to Blue \"廠3PvsWhiteﾜｼ7\"",
+			"hashSHA1": "e6a5587f7e6d757f30315459bcc25bcf2e7337ad",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9540,
+		"versions": []
+	},
+	{
+		"chartID": "36b9b9345aeedcdc8e80318c55c73999bc566336",
+		"data": {
+			"effector": "ボンカーズボイズ",
+			"hashSHA1": "aab6dd3b37697097483ebd21e6e5f24dca13fa72",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9541,
+		"versions": []
+	},
+	{
+		"chartID": "ea25218a936e22015442ed88a0f1030bc0e645d5",
+		"data": {
+			"effector": "ボンカーズボイズ",
+			"hashSHA1": "aab6dd3b37697097483ebd21e6e5f24dca13fa72",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9541,
+		"versions": []
+	},
+	{
+		"chartID": "f3fc5b09db8e5b2e9dfc3c599fbb1a7b642e6e10",
+		"data": {
+			"effector": "Celestite",
+			"hashSHA1": "3d388f38641712ed3ab1825ea885a7ac18c74574",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9542,
+		"versions": []
+	},
+	{
+		"chartID": "00bd3718a2770af9727526bff8988433579ec86c",
+		"data": {
+			"effector": "Celestite",
+			"hashSHA1": "3d388f38641712ed3ab1825ea885a7ac18c74574",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9542,
+		"versions": []
+	},
+	{
+		"chartID": "c7f66ba1202e16a35246e4fab5a788caea2b343e",
+		"data": {
+			"effector": "SpaceCat739",
+			"hashSHA1": "026219c35c8fa844b4b39534cb2336aa3d4d16b8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9543,
+		"versions": []
+	},
+	{
+		"chartID": "be973d05a70f27b1069fd019f518b4168f2e619d",
+		"data": {
+			"effector": "SpaceCat739",
+			"hashSHA1": "026219c35c8fa844b4b39534cb2336aa3d4d16b8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9543,
+		"versions": []
+	},
+	{
+		"chartID": "cbbc36da3d99c52e960f2e6ad552bffac76e6a7c",
+		"data": {
+			"effector": "SpaceCat739",
+			"hashSHA1": "678792a8f1d5c6bf5c7b979cfd9b9136277acb87",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9544,
+		"versions": []
+	},
+	{
+		"chartID": "b5da207cb304144f0febd1c920af138379961d34",
+		"data": {
+			"effector": "SpaceCat739",
+			"hashSHA1": "678792a8f1d5c6bf5c7b979cfd9b9136277acb87",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9544,
+		"versions": []
+	},
+	{
+		"chartID": "cdc63e086c1fe5ef666eee557bfc98c59c367668",
+		"data": {
+			"effector": "waran k1",
+			"hashSHA1": "96bc96af789051556a7209ec4b44547bcb34e73b",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9545,
+		"versions": []
+	},
+	{
+		"chartID": "0dc13c65bc5df7395f61fce4a242843b2a2f7655",
+		"data": {
+			"effector": "waran k1",
+			"hashSHA1": "96bc96af789051556a7209ec4b44547bcb34e73b",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9545,
+		"versions": []
+	},
+	{
+		"chartID": "326f0528aee4acb01004de858bd1611a9e38867a",
+		"data": {
+			"effector": "Rushi25",
+			"hashSHA1": "46fe74f6cecdf1ad5c8729fb4fe58d9a8b2a8c68",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9546,
+		"versions": []
+	},
+	{
+		"chartID": "8bbc06914eca67425d629f8721cc551cd42b509b",
+		"data": {
+			"effector": "Rushi25",
+			"hashSHA1": "46fe74f6cecdf1ad5c8729fb4fe58d9a8b2a8c68",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9546,
+		"versions": []
+	},
+	{
+		"chartID": "74d99c0f1179e284de648aad5ae9352c94046017",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "8529410f05d50169167085e160aaaa2fb3ac4d64",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9547,
+		"versions": []
+	},
+	{
+		"chartID": "73c7dc65eb31c87145c216f00891ecf0c818f5c7",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "8529410f05d50169167085e160aaaa2fb3ac4d64",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9547,
+		"versions": []
+	},
+	{
+		"chartID": "86f1299b0e57456ba4158e8ef3b414a25deb26bd",
+		"data": {
+			"effector": "metatron",
+			"hashSHA1": "e4906df47823402b1b40dbbd2f7b7d9b2c99faca",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9548,
+		"versions": []
+	},
+	{
+		"chartID": "60439a10766b638cbdbbd7c31c30c2ccc90085b4",
+		"data": {
+			"effector": "metatron",
+			"hashSHA1": "e4906df47823402b1b40dbbd2f7b7d9b2c99faca",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9548,
+		"versions": []
+	},
+	{
+		"chartID": "511500b2c02b9d7512b5e55cee150dfe91782a6d",
+		"data": {
+			"effector": "metatron(respect yamioti_kun)",
+			"hashSHA1": "b8570453a751fe85e898994ba1add599e6ca6e93",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9549,
+		"versions": []
+	},
+	{
+		"chartID": "754db0f6340eac1ac8f9aba8c560a08411a16140",
+		"data": {
+			"effector": "metatron(respect yamioti_kun)",
+			"hashSHA1": "b8570453a751fe85e898994ba1add599e6ca6e93",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9549,
+		"versions": []
+	},
+	{
+		"chartID": "352244c64e35877bdb6d62bb77b2199a78ac658c",
+		"data": {
+			"effector": "metatron",
+			"hashSHA1": "87638ced767994b1666954508e9c142fb9c9527a",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9550,
+		"versions": []
+	},
+	{
+		"chartID": "0cc2064bb3e09fb516924814583059c45e306d70",
+		"data": {
+			"effector": "metatron",
+			"hashSHA1": "87638ced767994b1666954508e9c142fb9c9527a",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9550,
+		"versions": []
+	},
+	{
+		"chartID": "a8a6b27673c32fab366909f6397318103dcc0f6d",
+		"data": {
+			"effector": "metatron",
+			"hashSHA1": "07b0858102c1e901f1d16602d7b58e012fd28747",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9551,
+		"versions": []
+	},
+	{
+		"chartID": "caaee310cbc76ea03b43d26de5b6f0cc4ccb72fc",
+		"data": {
+			"effector": "metatron",
+			"hashSHA1": "07b0858102c1e901f1d16602d7b58e012fd28747",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9551,
+		"versions": []
+	},
+	{
+		"chartID": "709acf2e377a95de5e7576604d9c559187682293",
+		"data": {
+			"effector": "ccdfq",
+			"hashSHA1": "669756828e284ac9ea4ad4daac035152c5d3a890",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9552,
+		"versions": []
+	},
+	{
+		"chartID": "9e86977c1f9922f0ff5ecb2962c9c5f74aadb704",
+		"data": {
+			"effector": "ccdfq",
+			"hashSHA1": "669756828e284ac9ea4ad4daac035152c5d3a890",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9552,
+		"versions": []
+	},
+	{
+		"chartID": "1294ce14f2765901207ad37a9ee0dfbafeb6ef29",
+		"data": {
+			"effector": "11ne as ''RestArt''",
+			"hashSHA1": "f25f735094c66ef561aa5471a71f181feb080897",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9553,
+		"versions": []
+	},
+	{
+		"chartID": "ffe3e533986e6601a27b9f4489df25ccaeb7beaf",
+		"data": {
+			"effector": "11ne as ''RestArt''",
+			"hashSHA1": "f25f735094c66ef561aa5471a71f181feb080897",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9553,
+		"versions": []
+	},
+	{
+		"chartID": "a95276090d8f50551fc3b3cde8dd9b83d346fcf1",
+		"data": {
+			"effector": "miMimi",
+			"hashSHA1": "17aaa4c0b8a9afd58fdd83e419c35093bb3bda54",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9554,
+		"versions": []
+	},
+	{
+		"chartID": "72b00134aac51af811e913cf1e905c1f226c6681",
+		"data": {
+			"effector": "miMimi",
+			"hashSHA1": "17aaa4c0b8a9afd58fdd83e419c35093bb3bda54",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9554,
+		"versions": []
+	},
+	{
+		"chartID": "f5af9aecca5c4e6fdbff59ca720624bff8f40d22",
+		"data": {
+			"effector": "DJ V. SWIFT velox*",
+			"hashSHA1": "8098098ff759e521f2458268659df027af2b09d4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9555,
+		"versions": []
+	},
+	{
+		"chartID": "933f7f41701fb4432b466a53bae38cad874b2bae",
+		"data": {
+			"effector": "DJ V. SWIFT velox*",
+			"hashSHA1": "8098098ff759e521f2458268659df027af2b09d4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9555,
+		"versions": []
+	},
+	{
+		"chartID": "8e08859fb404c95e353d111d49cfd1b492d92f72",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "33930785f848e535e380b46b5096e4826a98de58",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "11",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "7426fd03dade64cf1a365aeab009ac04359e660e",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "954df3aded5fec9a36a1464bebd5eb9764975cf3",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "14",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "34865a0cc3603ff44937560af528db4a53c2f902",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "d76a4aeec912e96b5025f59407a7737751654124",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "8f4c25795df2a642a86cea00651b4ae680a7a409",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "327e284a654547905ff97db3b12a98d966ba54d3",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "4",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "1ddeee07f525dce220a4a15f5d2ae8c302f5c76e",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "33930785f848e535e380b46b5096e4826a98de58",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "11",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "7558471e87036e9235a9f0b394ab81b27a1ec8e4",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "954df3aded5fec9a36a1464bebd5eb9764975cf3",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "14",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "8a4b50d3fa5d1db3faae8278b0f644109b32322b",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "d76a4aeec912e96b5025f59407a7737751654124",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "72dfd6bae06e29e03d2031b097032cafaad973d1",
+		"data": {
+			"effector": "ぱんだしんけん２５　～みんなのあこがれ～",
+			"hashSHA1": "327e284a654547905ff97db3b12a98d966ba54d3",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "4",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9556,
+		"versions": []
+	},
+	{
+		"chartID": "93976207713a9032b35bf6b7b7e1af650ab02e74",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "e845a13b705c167ed0eb92987cb8c93aa8506b19",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9557,
+		"versions": []
+	},
+	{
+		"chartID": "185c2f8420af56f92440aaedae4b323886ed82ef",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "e845a13b705c167ed0eb92987cb8c93aa8506b19",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9557,
+		"versions": []
+	},
+	{
+		"chartID": "13a1458a92c918d7082b9c3398d55edfd278e266",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "501f70f9f3a26cd270cd85799ae0e71a1054cbc4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9558,
+		"versions": []
+	},
+	{
+		"chartID": "1a8333668b81fde6fa354e9a02c39c0debde35c3",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "501f70f9f3a26cd270cd85799ae0e71a1054cbc4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9558,
+		"versions": []
+	},
+	{
+		"chartID": "db8e565087b2a51e3a70cf198b40340e487c1de4",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "180d3c9b3354297cab433a7aa68dbb81806cfc14",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9559,
+		"versions": []
+	},
+	{
+		"chartID": "d260ad95b7b7dadf23ad94f5cf29f153cebe4f7f",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "180d3c9b3354297cab433a7aa68dbb81806cfc14",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9559,
+		"versions": []
+	},
+	{
+		"chartID": "7aa84169dccd1554dff7285b4be80e6c01f59d85",
+		"data": {
+			"effector": "Lucy vs metatron",
+			"hashSHA1": "8cbc8bde37123fbf2330c683e4e556d643b373df",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9560,
+		"versions": []
+	},
+	{
+		"chartID": "7458b5842377910ae1d62abf8d7f94da241ffa60",
+		"data": {
+			"effector": "Lucy vs metatron",
+			"hashSHA1": "8cbc8bde37123fbf2330c683e4e556d643b373df",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9560,
+		"versions": []
+	},
+	{
+		"chartID": "0463ac5ad9cf07463597e5747e44d091dee52a5b",
+		"data": {
+			"effector": "KICK",
+			"hashSHA1": "127ad5893e81d08696f6a6d9edbab22951678786",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9561,
+		"versions": []
+	},
+	{
+		"chartID": "877c8dd85327d37e6a159829becfc3dd503edcd2",
+		"data": {
+			"effector": "KICK",
+			"hashSHA1": "127ad5893e81d08696f6a6d9edbab22951678786",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9561,
+		"versions": []
+	},
+	{
+		"chartID": "fbc26a581fb852ca2cb6a48f409a1f014d62413d",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "1766627e2dccc3912d52a28c3b5829f31e40acc0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9562,
+		"versions": []
+	},
+	{
+		"chartID": "03f08f9c33097cb09895190d87bb3b537a089ce1",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "1766627e2dccc3912d52a28c3b5829f31e40acc0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9562,
+		"versions": []
+	},
+	{
+		"chartID": "7e8d326ed6b5dc4824c12a7e9af80a13b9cd29a2",
+		"data": {
+			"effector": "ooz",
+			"hashSHA1": "f7baa0ba71ba31e1332d5f14580780fedec20a70",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9563,
+		"versions": []
+	},
+	{
+		"chartID": "faef31c22c9915dff3ea9d374306ed7a660c789f",
+		"data": {
+			"effector": "ooz",
+			"hashSHA1": "f7baa0ba71ba31e1332d5f14580780fedec20a70",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9563,
+		"versions": []
+	},
+	{
+		"chartID": "226f61aa5b15c3c495362439c60140b911c1dbff",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "cb0999bd6fae76a21e302d6f476908195fde5d60",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9564,
+		"versions": []
+	},
+	{
+		"chartID": "3b3627a96bf9766c90d28c4ea9fe403c6946a859",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "cb0999bd6fae76a21e302d6f476908195fde5d60",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9564,
+		"versions": []
+	},
+	{
+		"chartID": "1472e57db1cbd54d2db2de23a0caa97044273167",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "d0d89686274a334de47b560330a108da2d0a9258",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9565,
+		"versions": []
+	},
+	{
+		"chartID": "164b1491af6a5a1505dec8fadd0f76704293f7e9",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "d0d89686274a334de47b560330a108da2d0a9258",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9565,
+		"versions": []
+	},
+	{
+		"chartID": "38529efecda5e504a3bc97fb9ebf5dea0ee95158",
+		"data": {
+			"effector": "One must imagine Rushi25 happy.",
+			"hashSHA1": "aa3df30006aa4c7b23349521b8b391476ab2f247",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9566,
+		"versions": []
+	},
+	{
+		"chartID": "6a17b0c122934e87b7bd85140af15ce3ed217d09",
+		"data": {
+			"effector": "One must imagine Rushi25 happy.",
+			"hashSHA1": "aa3df30006aa4c7b23349521b8b391476ab2f247",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9566,
+		"versions": []
+	},
+	{
+		"chartID": "10d2a7d7a59216183b2a2d4eb381f887ae8aacbb",
+		"data": {
+			"effector": "Kucy",
+			"hashSHA1": "73f3260d505b50bcf65802204f3958d487b18d6f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9567,
+		"versions": []
+	},
+	{
+		"chartID": "718997336a7aa74bfb99e8fe0fcfc609c12e5374",
+		"data": {
+			"effector": "Kucy",
+			"hashSHA1": "73f3260d505b50bcf65802204f3958d487b18d6f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9567,
+		"versions": []
+	},
+	{
+		"chartID": "d3c0d319beaf6811dd0954513ff97e5f33a957c7",
+		"data": {
+			"effector": "According to the data, it is identified as \"Butsutekkai\". -SP-",
+			"hashSHA1": "02adf10b7036472d9b957603a0e22a111de11ca1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "13",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9568,
+		"versions": []
+	},
+	{
+		"chartID": "ce34522d03a8e41cd75502746aab47fb866ff5cb",
+		"data": {
+			"effector": "NO REFUGE -SP-",
+			"hashSHA1": "60fbb907f07a3fd1f94829ae1c0066d015a2c190",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9568,
+		"versions": []
+	},
+	{
+		"chartID": "399ad8a0cdd053d6aaa0be79b434ace42edad412",
+		"data": {
+			"effector": "WARNING! The big enemy is approaching at full throttle. -SP-",
+			"hashSHA1": "6e08d9f1fad62595271041f622b841be9a3377e1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "6",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9568,
+		"versions": []
+	},
+	{
+		"chartID": "468d082020a1dedf830625dffbad48051fb0a662",
+		"data": {
+			"effector": "According to the data, it is identified as \"Butsutekkai\". -SP-",
+			"hashSHA1": "02adf10b7036472d9b957603a0e22a111de11ca1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "13",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9568,
+		"versions": []
+	},
+	{
+		"chartID": "d8f08a08a9beffe9d18d8ce48d913adc5cbc9886",
+		"data": {
+			"effector": "NO REFUGE -SP-",
+			"hashSHA1": "60fbb907f07a3fd1f94829ae1c0066d015a2c190",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9568,
+		"versions": []
+	},
+	{
+		"chartID": "ccf85818bd5aea4f5054caa6743f42bf0de0542a",
+		"data": {
+			"effector": "WARNING! The big enemy is approaching at full throttle. -SP-",
+			"hashSHA1": "6e08d9f1fad62595271041f622b841be9a3377e1",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "NOV",
+		"isPrimary": true,
+		"level": "6",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9568,
+		"versions": []
+	},
+	{
+		"chartID": "0f81cf03b6bd1907a6cccd19f9e19226e4dba9e5",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "d8a9248b9ea16ef8f5bd0fecd86b478a9434f84f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9569,
+		"versions": []
+	},
+	{
+		"chartID": "ee31649fe7985190b09a7e42ce87303a75fc2f01",
+		"data": {
+			"effector": "PPXIAI",
+			"hashSHA1": "d8a9248b9ea16ef8f5bd0fecd86b478a9434f84f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9569,
+		"versions": []
+	},
+	{
+		"chartID": "089e141aeb133a34a33a7d0770a36285745274ce",
+		"data": {
+			"effector": "Seele and 1CHiN05E",
+			"hashSHA1": "99a685eb4a9dab6e709ac6501748d1236d703196",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9570,
+		"versions": []
+	},
+	{
+		"chartID": "128954781755f504ee6391b884a4e1b32f4e1b35",
+		"data": {
+			"effector": "Seele and 1CHiN05E",
+			"hashSHA1": "99a685eb4a9dab6e709ac6501748d1236d703196",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9570,
+		"versions": []
+	},
+	{
+		"chartID": "b013e4dda253fff40bcaede5bde1a4fdf46ad948",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "b2e3a800d5081536177cf4f85887cd55453b5ec4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9571,
+		"versions": []
+	},
+	{
+		"chartID": "904b9b490e59e6f3ad6d1906fc435f2876219c06",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "cf8464315bd286c8a37f1f5272da70144bedc327",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9571,
+		"versions": []
+	},
+	{
+		"chartID": "fa6750e6b4f93f98def54b087706215256bed883",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "b2e3a800d5081536177cf4f85887cd55453b5ec4",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9571,
+		"versions": []
+	},
+	{
+		"chartID": "72299046b9424ad8903aefc0f7867a29ceef40a0",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "cf8464315bd286c8a37f1f5272da70144bedc327",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9571,
+		"versions": []
+	},
+	{
+		"chartID": "4b2b2076a079f941cf7cda9bf4c6013e50f19db8",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "ebe6d4193490c272af64591515dfd56e4433da27",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9572,
+		"versions": []
+	},
+	{
+		"chartID": "d38474d75aeb479ab4437704bec77531e80cd102",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "ebe6d4193490c272af64591515dfd56e4433da27",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9572,
+		"versions": []
+	},
+	{
+		"chartID": "860e3511c26c94072098e818202be63f88d233d0",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "f0b0993757f99704ecf59290d8a771b188bfc888",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9573,
+		"versions": []
+	},
+	{
+		"chartID": "38d0622ba492c3f9245058cb3fefda4106a99265",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "f0b0993757f99704ecf59290d8a771b188bfc888",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9573,
+		"versions": []
+	},
+	{
+		"chartID": "15ef5e53492e2db6f0c53379707c2139190369e3",
+		"data": {
+			"effector": "Texas Leaguer",
+			"hashSHA1": "fb08235827a2d6e6c791ab4ad5c82c105ff527ea",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9574,
+		"versions": []
+	},
+	{
+		"chartID": "af2265221c6f07117e49f535feda162eb30c3cdd",
+		"data": {
+			"effector": "Texas Leaguer",
+			"hashSHA1": "fb08235827a2d6e6c791ab4ad5c82c105ff527ea",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9574,
+		"versions": []
+	},
+	{
+		"chartID": "f2e2226e990b923dce60fc8645fe01f9aedb8593",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "e59e528cef041cdc248b8cab6e9b9dd54e06cbf3",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9575,
+		"versions": []
+	},
+	{
+		"chartID": "8eedc0ba0ce07dbbebed65a70824a1b030894281",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "e59e528cef041cdc248b8cab6e9b9dd54e06cbf3",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9575,
+		"versions": []
+	},
+	{
+		"chartID": "c1b46cd375f85f40d9f90ddd8709cbc1f5b9730a",
+		"data": {
+			"effector": "PPΞI",
+			"hashSHA1": "436d75c2253009c17836d7df5bec5eab64448107",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9576,
+		"versions": []
+	},
+	{
+		"chartID": "6175936dcce768e36eacb29cfb6ed43c0dafec8e",
+		"data": {
+			"effector": "PPΞI",
+			"hashSHA1": "436d75c2253009c17836d7df5bec5eab64448107",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9576,
+		"versions": []
+	},
+	{
+		"chartID": "6ba3e79b56590736050ed6edab4a91d7d29a814d",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "d848520084be61ea075e73248f8c759850eeb5bb",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9577,
+		"versions": []
+	},
+	{
+		"chartID": "42aa380f9140b2ad44ab593480b07f0bf184f5f3",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "d848520084be61ea075e73248f8c759850eeb5bb",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9577,
+		"versions": []
+	},
+	{
+		"chartID": "db07102f142d166443d54816f010a1f9eb64ccd9",
+		"data": {
+			"effector": "Blue Echo",
+			"hashSHA1": "c3089d134c9c169cc6b5a77da8d3bd4e531283b5",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9578,
+		"versions": []
+	},
+	{
+		"chartID": "ae59acf70e0306483c3c3381d78c2b4d7b64e0c1",
+		"data": {
+			"effector": "Blue Echo",
+			"hashSHA1": "c3089d134c9c169cc6b5a77da8d3bd4e531283b5",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9578,
+		"versions": []
+	},
+	{
+		"chartID": "aef35e8a585b0b4fa68207c6d440fd72c7146e0e",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "1e4e27639ef0004004413aee05ec8ff17ef54ec6",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9579,
+		"versions": []
+	},
+	{
+		"chartID": "33c505b00c8ebfe2170a00cb3da43cce982e52cb",
+		"data": {
+			"effector": "Seele vs. 1CHiN05E",
+			"hashSHA1": "1e4e27639ef0004004413aee05ec8ff17ef54ec6",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9579,
+		"versions": []
+	},
+	{
+		"chartID": "0b4953ba4e983b70b2a4366809dcdf300edc2348",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "8f23466d38196bb9c120d7b0a9242d4527b0cc08",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9580,
+		"versions": []
+	},
+	{
+		"chartID": "1dfff057c7f2064c47670f162682f43fb9f2e9d1",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "8f23466d38196bb9c120d7b0a9242d4527b0cc08",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9580,
+		"versions": []
+	},
+	{
+		"chartID": "841dc624d20f8eb63bd6ecbd8248ba5aa27e759d",
+		"data": {
+			"effector": "11ne-LINE-",
+			"hashSHA1": "13a9f018d30998d49c896b234d12f18e1708905e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9581,
+		"versions": []
+	},
+	{
+		"chartID": "f8f378cb2e7b13979f7001434b618eec236ca596",
+		"data": {
+			"effector": "11ne-LINE-",
+			"hashSHA1": "25009ceae1dee2027fbfa3dc5b8d48f884fb5864",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9581,
+		"versions": []
+	},
+	{
+		"chartID": "7d802bab70a7352644b52c7f322a698ff8e172c4",
+		"data": {
+			"effector": "11ne-LINE-",
+			"hashSHA1": "13a9f018d30998d49c896b234d12f18e1708905e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9581,
+		"versions": []
+	},
+	{
+		"chartID": "020a7c80f2d2b25959fbb829dbdb2a182f84c563",
+		"data": {
+			"effector": "11ne-LINE-",
+			"hashSHA1": "25009ceae1dee2027fbfa3dc5b8d48f884fb5864",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9581,
+		"versions": []
+	},
+	{
+		"chartID": "e744c58045425bc6d83b44ab2f3f37fbf3fbe19d",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "1050af2d41d7d217adbfb25cd2d23d15df21e979",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9582,
+		"versions": []
+	},
+	{
+		"chartID": "52343b61edb0626326857612ab0c8da6b03ec0db",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "1050af2d41d7d217adbfb25cd2d23d15df21e979",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9582,
+		"versions": []
+	},
+	{
+		"chartID": "0dacb8c2651f12329be632367e59467432532560",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "31afdae1dcb67cc68b8efb89fcbdc8799601e96a",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9583,
+		"versions": []
+	},
+	{
+		"chartID": "c12f2cdaacbf3c0e5c91abe09d13060bc540b943",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "31afdae1dcb67cc68b8efb89fcbdc8799601e96a",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9583,
+		"versions": []
+	},
+	{
+		"chartID": "6c10f969bc92b72c1c2e213629b3da949906dcbf",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "c3b6a2770bcc79f2762f405abd52f79747229782",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9584,
+		"versions": []
+	},
+	{
+		"chartID": "2382b05995cf36aebf009400d8b39df4c175970e",
+		"data": {
+			"effector": "1111ne",
+			"hashSHA1": "81e154f93854a68b84f648c1ad36f47a4f028f92",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9584,
+		"versions": []
+	},
+	{
+		"chartID": "1d02d193b0e5c47adbd3c97028741c193b048a7e",
+		"data": {
+			"effector": "11ne",
+			"hashSHA1": "c3b6a2770bcc79f2762f405abd52f79747229782",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "17",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9584,
+		"versions": []
+	},
+	{
+		"chartID": "149f21137f184f714530ce4adbceb68732bea889",
+		"data": {
+			"effector": "1111ne",
+			"hashSHA1": "81e154f93854a68b84f648c1ad36f47a4f028f92",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9584,
+		"versions": []
+	},
+	{
+		"chartID": "018c7d0cf63da787f5e5b4e171812e2adacbeb7b",
+		"data": {
+			"effector": "Seele",
+			"hashSHA1": "c17691ccacec31676c7cd538eb3cb7251fd010b8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9585,
+		"versions": []
+	},
+	{
+		"chartID": "2ea135a5a2fdb5dc5cc5aa42f1231bba2263e621",
+		"data": {
+			"effector": "Seele",
+			"hashSHA1": "c17691ccacec31676c7cd538eb3cb7251fd010b8",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9585,
+		"versions": []
+	},
+	{
+		"chartID": "ffe29de0d56cde65a0c95b015a4855fcd1a98606",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "ea73aee5fbc1c7902c7b0ef8d4cecdb4ce72f10d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9586,
+		"versions": []
+	},
+	{
+		"chartID": "54aef99af214fdf49fcaeab8b13f7ad7ee5b7ad9",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "ea73aee5fbc1c7902c7b0ef8d4cecdb4ce72f10d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9586,
+		"versions": []
+	},
+	{
+		"chartID": "b5f11119d6bd3ff4a5aceb415c6a17e522324029",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "b4e41664a79a0972d554f5e58569c4b4c4369320",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9587,
+		"versions": []
+	},
+	{
+		"chartID": "133e8c54835a862bcc3b257b7316b527ac51bf62",
+		"data": {
+			"effector": "Lucy",
+			"hashSHA1": "b4e41664a79a0972d554f5e58569c4b4c4369320",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9587,
+		"versions": []
+	},
+	{
+		"chartID": "e8d599e14c2a683f89fe732b84286b7fbbff9c61",
+		"data": {
+			"effector": "眠活サンド",
+			"hashSHA1": "a60ea1c4ce6297da12876b78bba72c473e3b8a3f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9588,
+		"versions": []
+	},
+	{
+		"chartID": "b68b14f0cc4d1f5a05ebcd82e94b7413c580b0c1",
+		"data": {
+			"effector": "眠活サンド",
+			"hashSHA1": "a60ea1c4ce6297da12876b78bba72c473e3b8a3f",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9588,
+		"versions": []
+	},
+	{
+		"chartID": "5569f4085ff061340c3ed925569978ddee8f2136",
+		"data": {
+			"effector": "9*G1",
+			"hashSHA1": "057c19202746c22dea433086fa00b663866ce15d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9589,
+		"versions": []
+	},
+	{
+		"chartID": "e486574b067d4c5d55cda1ec24735ab7d71266a2",
+		"data": {
+			"effector": "9*G1",
+			"hashSHA1": "057c19202746c22dea433086fa00b663866ce15d",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9589,
+		"versions": []
+	},
+	{
+		"chartID": "d2a5a3b8786bbc27e078b15487582e22389e4104",
+		"data": {
+			"effector": "URSARING",
+			"hashSHA1": "cc1fff978f4f12fde14b0ecc06e0dc198de1e1a0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9590,
+		"versions": []
+	},
+	{
+		"chartID": "47f68915efd3ecc0aaa9e6c1cf6e45492c74d14a",
+		"data": {
+			"effector": "URSARING",
+			"hashSHA1": "cc1fff978f4f12fde14b0ecc06e0dc198de1e1a0",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "EXH",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9590,
+		"versions": []
+	},
+	{
+		"chartID": "a62ac55cde7f0c5a843df4e9fcf57ed17ae03c81",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "0de2ba26fc5636af0afd6d4b6e0e70f625515e06",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9591,
+		"versions": []
+	},
+	{
+		"chartID": "83c7bde08554dd077a87f6e8f89b974afcbbe888",
+		"data": {
+			"effector": "ivwsbbsai",
+			"hashSHA1": "0de2ba26fc5636af0afd6d4b6e0e70f625515e06",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "20",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9591,
+		"versions": []
+	},
+	{
+		"chartID": "96aeaabc2c74a03d40ceb4610d5b1208631d45e9",
+		"data": {
+			"effector": "???",
+			"hashSHA1": "2f162655e0629d56e9c6ba636563d4c698835f90",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9592,
+		"versions": []
+	},
+	{
+		"chartID": "da03df7d7328701be3751ab7b619d712a1e63b0e",
+		"data": {
+			"effector": "???",
+			"hashSHA1": "2f162655e0629d56e9c6ba636563d4c698835f90",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "ADV",
+		"isPrimary": true,
+		"level": "1",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9592,
+		"versions": []
+	},
+	{
+		"chartID": "97d4eadf34328d16e2f5e24a80a0299226051337",
+		"data": {
+			"effector": "縦連は永遠に美しく",
+			"hashSHA1": "08f9c48da3ffab764f7eaf1cf26557589bf07a33",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9593,
+		"versions": []
+	},
+	{
+		"chartID": "d7c11f131efabacd764b1af5245dead25eb9e0dc",
+		"data": {
+			"effector": "縦連は永遠に美しく",
+			"hashSHA1": "08f9c48da3ffab764f7eaf1cf26557589bf07a33",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "19",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9593,
+		"versions": []
+	},
+	{
+		"chartID": "2e80e1a46b6112180ec3e5837472b9f4726dbb99",
+		"data": {
+			"effector": "ccdfq",
+			"hashSHA1": "1ed4a4e223b2617a6882657c9a7a5791205d4d3e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9594,
+		"versions": []
+	},
+	{
+		"chartID": "62f8f217a1905cc2b75c9d313fa946b421c3f6d4",
+		"data": {
+			"effector": "ccdfq",
+			"hashSHA1": "1ed4a4e223b2617a6882657c9a7a5791205d4d3e",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9594,
+		"versions": []
+	},
+	{
+		"chartID": "8e029f2f4b0e771513c7e2eaec58e92453dbb0b1",
+		"data": {
+			"effector": "URSARING",
+			"hashSHA1": "4ec687cc52e23729b8dc6d1b0159768f86b02093",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Controller",
+		"songID": 9595,
+		"versions": []
+	},
+	{
+		"chartID": "265a2d84f99b2acf36d647c8ec863a969593e518",
+		"data": {
+			"effector": "URSARING",
+			"hashSHA1": "4ec687cc52e23729b8dc6d1b0159768f86b02093",
+			"isOfficial": false,
+			"tableFolders": []
+		},
+		"difficulty": "INF",
+		"isPrimary": true,
+		"level": "18",
+		"levelNum": 0,
+		"playtype": "Keyboard",
+		"songID": 9595,
+		"versions": []
 	}
 ]
