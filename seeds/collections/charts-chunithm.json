@@ -135785,8 +135785,8 @@
 		},
 		"difficulty": "MASTER",
 		"isPrimary": true,
-		"level": "14+",
-		"levelNum": 14.8,
+		"level": "15",
+		"levelNum": 15,
 		"playtype": "Single",
 		"songID": 2039,
 		"versions": [
@@ -215840,6 +215840,7 @@
 		"songID": 2852,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215856,6 +215857,7 @@
 		"songID": 2852,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215872,6 +215874,7 @@
 		"songID": 2852,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215888,6 +215891,7 @@
 		"songID": 2852,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215904,6 +215908,7 @@
 		"songID": 2853,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215920,6 +215925,7 @@
 		"songID": 2853,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215936,6 +215942,7 @@
 		"songID": 2853,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -215952,6 +215959,7 @@
 		"songID": 2853,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216032,6 +216040,7 @@
 		"songID": 2855,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216048,6 +216057,7 @@
 		"songID": 2855,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216064,6 +216074,7 @@
 		"songID": 2855,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216080,6 +216091,7 @@
 		"songID": 2855,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216096,6 +216108,7 @@
 		"songID": 2856,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216112,6 +216125,7 @@
 		"songID": 2856,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216128,6 +216142,7 @@
 		"songID": 2856,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216144,6 +216159,7 @@
 		"songID": 2856,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216160,6 +216176,7 @@
 		"songID": 2857,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216176,6 +216193,7 @@
 		"songID": 2857,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216192,6 +216210,7 @@
 		"songID": 2857,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216208,6 +216227,7 @@
 		"songID": 2857,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216224,6 +216244,7 @@
 		"songID": 2858,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216240,6 +216261,7 @@
 		"songID": 2858,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216256,6 +216278,7 @@
 		"songID": 2858,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216272,6 +216295,7 @@
 		"songID": 2858,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216288,6 +216312,7 @@
 		"songID": 2859,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216304,6 +216329,7 @@
 		"songID": 2859,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216320,6 +216346,7 @@
 		"songID": 2859,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216336,6 +216363,7 @@
 		"songID": 2859,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216352,6 +216380,7 @@
 		"songID": 2862,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216368,6 +216397,7 @@
 		"songID": 2862,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216384,6 +216414,7 @@
 		"songID": 2862,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216400,6 +216431,7 @@
 		"songID": 2862,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216552,6 +216584,7 @@
 		"songID": 2866,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216568,6 +216601,7 @@
 		"songID": 2866,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216584,6 +216618,7 @@
 		"songID": 2866,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216600,6 +216635,7 @@
 		"songID": 2866,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216616,6 +216652,7 @@
 		"songID": 2867,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216632,6 +216669,7 @@
 		"songID": 2867,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216648,6 +216686,7 @@
 		"songID": 2867,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216664,6 +216703,7 @@
 		"songID": 2867,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216680,6 +216720,7 @@
 		"songID": 2868,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216696,6 +216737,7 @@
 		"songID": 2868,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216712,6 +216754,7 @@
 		"songID": 2868,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216728,6 +216771,7 @@
 		"songID": 2868,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216744,6 +216788,7 @@
 		"songID": 2869,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216760,6 +216805,7 @@
 		"songID": 2869,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216776,6 +216822,7 @@
 		"songID": 2869,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216792,6 +216839,7 @@
 		"songID": 2869,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216808,6 +216856,7 @@
 		"songID": 2870,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216824,6 +216873,7 @@
 		"songID": 2870,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216840,6 +216890,7 @@
 		"songID": 2870,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -216856,6 +216907,7 @@
 		"songID": 2870,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218348,6 +218400,7 @@
 		"songID": 2894,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218364,6 +218417,7 @@
 		"songID": 2894,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218380,6 +218434,7 @@
 		"songID": 2894,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218396,6 +218451,7 @@
 		"songID": 2894,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218412,6 +218468,7 @@
 		"songID": 2895,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218428,6 +218485,7 @@
 		"songID": 2895,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218444,6 +218502,7 @@
 		"songID": 2895,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	},
@@ -218460,6 +218519,7 @@
 		"songID": 2895,
 		"versions": [
 			"xverse",
+			"xverse-intl",
 			"xverse-omni"
 		]
 	}
